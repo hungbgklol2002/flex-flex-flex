@@ -1,0 +1,455 @@
+[{
+  "_id": {
+    "$oid": "69266a3790790000320071e4"
+  },
+  "MaMuc": "A1",
+  "TenMuc": "Tàu khách",
+  "GhiChu": null,
+  "Metadata": {
+    "ThoiGianTao": {
+      "$numberLong": "1778644175190"
+    },
+    "ThoiGianCapNhat": {
+      "$numberLong": "1778644175190"
+    },
+    "NguoiTaoLap": "BXD-ADMIN",
+    "ChuSoHuu": "BXD-ADMIN",
+    "TrangThaiDuLieu": "Active",
+    "PhienBanDuLieu": "1",
+    "NguonThamChieu": {
+      "NguonDuLieu": "",
+      "MaThamChieu": "11",
+      "ThoiGianXuLy": {
+        "$numberLong": "1778644175173"
+      }
+    },
+    "XuLyDuLieu": "2b54d87d-bdf0-4048-a0ec-58458563f3d4",
+    "QRCode": "",
+    "PhanVungDuLieu": {
+      "MaMuc": "",
+      "TenMuc": ""
+    },
+    "ChiaSeTaiKhoan": [],
+    "ChiaSeVaiTro": []
+  }
+},
+{
+  "_id": {
+    "$oid": "69266a3790790000320071e5"
+  },
+  "MaMuc": "A2",
+  "TenMuc": "Du thuyền",
+  "GhiChu": null,
+  "Metadata": {
+    "ThoiGianTao": {
+      "$numberLong": "1778644175190"
+    },
+    "ThoiGianCapNhat": {
+      "$numberLong": "1778644175190"
+    },
+    "NguoiTaoLap": "BXD-ADMIN",
+    "ChuSoHuu": "BXD-ADMIN",
+    "TrangThaiDuLieu": "Active",
+    "PhienBanDuLieu": "1",
+    "NguonThamChieu": {
+      "NguonDuLieu": "",
+      "MaThamChieu": "11",
+      "ThoiGianXuLy": {
+        "$numberLong": "1778644175173"
+      }
+    },
+    "XuLyDuLieu": "2b54d87d-bdf0-4048-a0ec-58458563f3d4",
+    "QRCode": "",
+    "PhanVungDuLieu": {
+      "MaMuc": "",
+      "TenMuc": ""
+    },
+    "ChiaSeTaiKhoan": [],
+    "ChiaSeVaiTro": []
+  }
+},
+{
+  "_id": {
+    "$oid": "69266a3790790000320071e6"
+  },
+  "MaMuc": "A3",
+  "TenMuc": "Tàu hàng khô tổng hợp",
+  "GhiChu": null,
+  "Metadata": {
+    "ThoiGianTao": {
+      "$numberLong": "1778644175190"
+    },
+    "ThoiGianCapNhat": {
+      "$numberLong": "1778644175190"
+    },
+    "NguoiTaoLap": "BXD-ADMIN",
+    "ChuSoHuu": "BXD-ADMIN",
+    "TrangThaiDuLieu": "Active",
+    "PhienBanDuLieu": "1",
+    "NguonThamChieu": {
+      "NguonDuLieu": "",
+      "MaThamChieu": "11",
+      "ThoiGianXuLy": {
+        "$numberLong": "1778644175173"
+      }
+    },
+    "XuLyDuLieu": "2b54d87d-bdf0-4048-a0ec-58458563f3d4",
+    "QRCode": "",
+    "PhanVungDuLieu": {
+      "MaMuc": "",
+      "TenMuc": ""
+    },
+    "ChiaSeTaiKhoan": [],
+    "ChiaSeVaiTro": []
+  }
+},
+{
+  "_id": {
+    "$oid": "69266a3790790000320071e7"
+  },
+  "MaMuc": "A4",
+  "TenMuc": "Tàu hàng rời",
+  "GhiChu": null,
+  "Metadata": {
+    "ThoiGianTao": {
+      "$numberLong": "1778644175190"
+    },
+    "ThoiGianCapNhat": {
+      "$numberLong": "1778644175190"
+    },
+    "NguoiTaoLap": "BXD-ADMIN",
+    "ChuSoHuu": "BXD-ADMIN",
+    "TrangThaiDuLieu": "Active",
+    "PhienBanDuLieu": "1",
+    "NguonThamChieu": {
+      "NguonDuLieu": "",
+      "MaThamChieu": "11",
+      "ThoiGianXuLy": {
+        "$numberLong": "1778644175173"
+      }
+    },
+    "XuLyDuLieu": "2b54d87d-bdf0-4048-a0ec-58458563f3d4",
+    "QRCode": "",
+    "PhanVungDuLieu": {
+      "MaMuc": "",
+      "TenMuc": ""
+    },
+    "ChiaSeTaiKhoan": [],
+    "ChiaSeVaiTro": []
+  }
+},
+{
+  "_id": {
+    "$oid": "69266a3790790000320071e8"
+  },
+  "MaMuc": "A5",
+  "TenMuc": "Tàu Container",
+  "GhiChu": null,
+  "Metadata": {
+    "ThoiGianTao": {
+      "$numberLong": "1778644175190"
+    },
+    "ThoiGianCapNhat": {
+      "$numberLong": "1778644175190"
+    },
+    "NguoiTaoLap": "BXD-ADMIN",
+    "ChuSoHuu": "BXD-ADMIN",
+    "TrangThaiDuLieu": "Active",
+    "PhienBanDuLieu": "1",
+    "NguonThamChieu": {
+      "NguonDuLieu": "",
+      "MaThamChieu": "11",
+      "ThoiGianXuLy": {
+        "$numberLong": "1778644175173"
+      }
+    },
+    "XuLyDuLieu": "2b54d87d-bdf0-4048-a0ec-58458563f3d4",
+    "QRCode": "",
+    "PhanVungDuLieu": {
+      "MaMuc": "",
+      "TenMuc": ""
+    },
+    "ChiaSeTaiKhoan": [],
+    "ChiaSeVaiTro": []
+  }
+},
+{
+  "_id": {
+    "$oid": "69266a3790790000320071e9"
+  },
+  "MaMuc": "A6",
+  "TenMuc": "Tàu dầu, tàu hóa chất",
+  "GhiChu": null,
+  "Metadata": {
+    "ThoiGianTao": {
+      "$numberLong": "1778644175190"
+    },
+    "ThoiGianCapNhat": {
+      "$numberLong": "1778644175190"
+    },
+    "NguoiTaoLap": "BXD-ADMIN",
+    "ChuSoHuu": "BXD-ADMIN",
+    "TrangThaiDuLieu": "Active",
+    "PhienBanDuLieu": "1",
+    "NguonThamChieu": {
+      "NguonDuLieu": "",
+      "MaThamChieu": "11",
+      "ThoiGianXuLy": {
+        "$numberLong": "1778644175173"
+      }
+    },
+    "XuLyDuLieu": "2b54d87d-bdf0-4048-a0ec-58458563f3d4",
+    "QRCode": "",
+    "PhanVungDuLieu": {
+      "MaMuc": "",
+      "TenMuc": ""
+    },
+    "ChiaSeTaiKhoan": [],
+    "ChiaSeVaiTro": []
+  }
+},
+{
+  "_id": {
+    "$oid": "69266a3790790000320071ea"
+  },
+  "MaMuc": "A7",
+  "TenMuc": "Tàu khí hóa lỏng",
+  "GhiChu": null,
+  "Metadata": {
+    "ThoiGianTao": {
+      "$numberLong": "1778644175190"
+    },
+    "ThoiGianCapNhat": {
+      "$numberLong": "1778644175190"
+    },
+    "NguoiTaoLap": "BXD-ADMIN",
+    "ChuSoHuu": "BXD-ADMIN",
+    "TrangThaiDuLieu": "Active",
+    "PhienBanDuLieu": "1",
+    "NguonThamChieu": {
+      "NguonDuLieu": "",
+      "MaThamChieu": "11",
+      "ThoiGianXuLy": {
+        "$numberLong": "1778644175173"
+      }
+    },
+    "XuLyDuLieu": "2b54d87d-bdf0-4048-a0ec-58458563f3d4",
+    "QRCode": "",
+    "PhanVungDuLieu": {
+      "MaMuc": "",
+      "TenMuc": ""
+    },
+    "ChiaSeTaiKhoan": [],
+    "ChiaSeVaiTro": []
+  }
+},
+{
+  "_id": {
+    "$oid": "69266a3790790000320071eb"
+  },
+  "MaMuc": "A8",
+  "TenMuc": "Tàu biển khác",
+  "GhiChu": "Tàu lai, Tàu kéo",
+  "Metadata": {
+    "ThoiGianTao": {
+      "$numberLong": "1778644175190"
+    },
+    "ThoiGianCapNhat": {
+      "$numberLong": "1778644175190"
+    },
+    "NguoiTaoLap": "BXD-ADMIN",
+    "ChuSoHuu": "BXD-ADMIN",
+    "TrangThaiDuLieu": "Active",
+    "PhienBanDuLieu": "1",
+    "NguonThamChieu": {
+      "NguonDuLieu": "",
+      "MaThamChieu": "11",
+      "ThoiGianXuLy": {
+        "$numberLong": "1778644175173"
+      }
+    },
+    "XuLyDuLieu": "2b54d87d-bdf0-4048-a0ec-58458563f3d4",
+    "QRCode": "",
+    "PhanVungDuLieu": {
+      "MaMuc": "",
+      "TenMuc": ""
+    },
+    "ChiaSeTaiKhoan": [],
+    "ChiaSeVaiTro": []
+  }
+},
+{
+  "_id": {
+    "$oid": "69266a3790790000320071ec"
+  },
+  "MaMuc": "B1",
+  "TenMuc": "Tàu công vụ",
+  "GhiChu": null,
+  "Metadata": {
+    "ThoiGianTao": {
+      "$numberLong": "1778644175190"
+    },
+    "ThoiGianCapNhat": {
+      "$numberLong": "1778644175190"
+    },
+    "NguoiTaoLap": "BXD-ADMIN",
+    "ChuSoHuu": "BXD-ADMIN",
+    "TrangThaiDuLieu": "Active",
+    "PhienBanDuLieu": "1",
+    "NguonThamChieu": {
+      "NguonDuLieu": "",
+      "MaThamChieu": "11",
+      "ThoiGianXuLy": {
+        "$numberLong": "1778644175173"
+      }
+    },
+    "XuLyDuLieu": "2b54d87d-bdf0-4048-a0ec-58458563f3d4",
+    "QRCode": "",
+    "PhanVungDuLieu": {
+      "MaMuc": "",
+      "TenMuc": ""
+    },
+    "ChiaSeTaiKhoan": [],
+    "ChiaSeVaiTro": []
+  }
+},
+{
+  "_id": {
+    "$oid": "69266a3790790000320071ed"
+  },
+  "MaMuc": "B2",
+  "TenMuc": "Kho chứa nổi",
+  "GhiChu": null,
+  "Metadata": {
+    "ThoiGianTao": {
+      "$numberLong": "1778644175190"
+    },
+    "ThoiGianCapNhat": {
+      "$numberLong": "1778644175190"
+    },
+    "NguoiTaoLap": "BXD-ADMIN",
+    "ChuSoHuu": "BXD-ADMIN",
+    "TrangThaiDuLieu": "Active",
+    "PhienBanDuLieu": "1",
+    "NguonThamChieu": {
+      "NguonDuLieu": "",
+      "MaThamChieu": "11",
+      "ThoiGianXuLy": {
+        "$numberLong": "1778644175173"
+      }
+    },
+    "XuLyDuLieu": "2b54d87d-bdf0-4048-a0ec-58458563f3d4",
+    "QRCode": "",
+    "PhanVungDuLieu": {
+      "MaMuc": "",
+      "TenMuc": ""
+    },
+    "ChiaSeTaiKhoan": [],
+    "ChiaSeVaiTro": []
+  }
+},
+{
+  "_id": {
+    "$oid": "69266a3790790000320071ee"
+  },
+  "MaMuc": "B3",
+  "TenMuc": "Giàn di động",
+  "GhiChu": null,
+  "Metadata": {
+    "ThoiGianTao": {
+      "$numberLong": "1778644175190"
+    },
+    "ThoiGianCapNhat": {
+      "$numberLong": "1778644175190"
+    },
+    "NguoiTaoLap": "BXD-ADMIN",
+    "ChuSoHuu": "BXD-ADMIN",
+    "TrangThaiDuLieu": "Active",
+    "PhienBanDuLieu": "1",
+    "NguonThamChieu": {
+      "NguonDuLieu": "",
+      "MaThamChieu": "11",
+      "ThoiGianXuLy": {
+        "$numberLong": "1778644175173"
+      }
+    },
+    "XuLyDuLieu": "2b54d87d-bdf0-4048-a0ec-58458563f3d4",
+    "QRCode": "",
+    "PhanVungDuLieu": {
+      "MaMuc": "",
+      "TenMuc": ""
+    },
+    "ChiaSeTaiKhoan": [],
+    "ChiaSeVaiTro": []
+  }
+},
+{
+  "_id": {
+    "$oid": "69266a3790790000320071ef"
+  },
+  "MaMuc": "B4",
+  "TenMuc": "Tàu ngầm",
+  "GhiChu": null,
+  "Metadata": {
+    "ThoiGianTao": {
+      "$numberLong": "1778644175190"
+    },
+    "ThoiGianCapNhat": {
+      "$numberLong": "1778644175190"
+    },
+    "NguoiTaoLap": "BXD-ADMIN",
+    "ChuSoHuu": "BXD-ADMIN",
+    "TrangThaiDuLieu": "Active",
+    "PhienBanDuLieu": "1",
+    "NguonThamChieu": {
+      "NguonDuLieu": "",
+      "MaThamChieu": "11",
+      "ThoiGianXuLy": {
+        "$numberLong": "1778644175173"
+      }
+    },
+    "XuLyDuLieu": "2b54d87d-bdf0-4048-a0ec-58458563f3d4",
+    "QRCode": "",
+    "PhanVungDuLieu": {
+      "MaMuc": "",
+      "TenMuc": ""
+    },
+    "ChiaSeTaiKhoan": [],
+    "ChiaSeVaiTro": []
+  }
+},
+{
+  "_id": {
+    "$oid": "69266a3790790000320071f0"
+  },
+  "MaMuc": "B5",
+  "TenMuc": "Tàu lặn",
+  "GhiChu": null,
+  "Metadata": {
+    "ThoiGianTao": {
+      "$numberLong": "1778644175190"
+    },
+    "ThoiGianCapNhat": {
+      "$numberLong": "1778644175190"
+    },
+    "NguoiTaoLap": "BXD-ADMIN",
+    "ChuSoHuu": "BXD-ADMIN",
+    "TrangThaiDuLieu": "Active",
+    "PhienBanDuLieu": "1",
+    "NguonThamChieu": {
+      "NguonDuLieu": "",
+      "MaThamChieu": "11",
+      "ThoiGianXuLy": {
+        "$numberLong": "1778644175173"
+      }
+    },
+    "XuLyDuLieu": "2b54d87d-bdf0-4048-a0ec-58458563f3d4",
+    "QRCode": "",
+    "PhanVungDuLieu": {
+      "MaMuc": "",
+      "TenMuc": ""
+    },
+    "ChiaSeTaiKhoan": [],
+    "ChiaSeVaiTro": []
+  }
+}]

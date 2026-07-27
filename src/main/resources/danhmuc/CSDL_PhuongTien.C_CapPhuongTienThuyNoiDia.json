@@ -1,0 +1,204 @@
+[{
+  "_id": {
+    "$oid": "68a2dffe5e6b000082007e18"
+  },
+  "MaMuc": "01",
+  "TenMuc": "VR-SIII",
+  "Metadata": {
+    "ThoiGianTao": {
+      "$numberLong": "1778644175190"
+    },
+    "ThoiGianCapNhat": {
+      "$numberLong": "1778644175190"
+    },
+    "NguoiTaoLap": "BXD-ADMIN",
+    "ChuSoHuu": "BXD-ADMIN",
+    "TrangThaiDuLieu": "Active",
+    "PhienBanDuLieu": "1",
+    "NguonThamChieu": {
+      "NguonDuLieu": "",
+      "MaThamChieu": "11",
+      "ThoiGianXuLy": {
+        "$numberLong": "1778644175173"
+      }
+    },
+    "XuLyDuLieu": "2b54d87d-bdf0-4048-a0ec-58458563f3d4",
+    "QRCode": "",
+    "PhanVungDuLieu": {
+      "MaMuc": "",
+      "TenMuc": ""
+    },
+    "ChiaSeTaiKhoan": [],
+    "ChiaSeVaiTro": []
+  }
+},
+{
+  "_id": {
+    "$oid": "68a2dffe5e6b000082007e19"
+  },
+  "MaMuc": "02",
+  "TenMuc": "VR-SII",
+  "Metadata": {
+    "ThoiGianTao": {
+      "$numberLong": "1778644175190"
+    },
+    "ThoiGianCapNhat": {
+      "$numberLong": "1778644175190"
+    },
+    "NguoiTaoLap": "BXD-ADMIN",
+    "ChuSoHuu": "BXD-ADMIN",
+    "TrangThaiDuLieu": "Active",
+    "PhienBanDuLieu": "1",
+    "NguonThamChieu": {
+      "NguonDuLieu": "",
+      "MaThamChieu": "11",
+      "ThoiGianXuLy": {
+        "$numberLong": "1778644175173"
+      }
+    },
+    "XuLyDuLieu": "2b54d87d-bdf0-4048-a0ec-58458563f3d4",
+    "QRCode": "",
+    "PhanVungDuLieu": {
+      "MaMuc": "",
+      "TenMuc": ""
+    },
+    "ChiaSeTaiKhoan": [],
+    "ChiaSeVaiTro": []
+  }
+},
+{
+  "_id": {
+    "$oid": "68a2dffe5e6b000082007e1a"
+  },
+  "MaMuc": "03",
+  "TenMuc": "VR-SI",
+  "Metadata": {
+    "ThoiGianTao": {
+      "$numberLong": "1778644175190"
+    },
+    "ThoiGianCapNhat": {
+      "$numberLong": "1778644175190"
+    },
+    "NguoiTaoLap": "BXD-ADMIN",
+    "ChuSoHuu": "BXD-ADMIN",
+    "TrangThaiDuLieu": "Active",
+    "PhienBanDuLieu": "1",
+    "NguonThamChieu": {
+      "NguonDuLieu": "",
+      "MaThamChieu": "11",
+      "ThoiGianXuLy": {
+        "$numberLong": "1778644175173"
+      }
+    },
+    "XuLyDuLieu": "2b54d87d-bdf0-4048-a0ec-58458563f3d4",
+    "QRCode": "",
+    "PhanVungDuLieu": {
+      "MaMuc": "",
+      "TenMuc": ""
+    },
+    "ChiaSeTaiKhoan": [],
+    "ChiaSeVaiTro": []
+  }
+},
+{
+  "_id": {
+    "$oid": "68a2dffe5e6b000082007e1b"
+  },
+  "MaMuc": "04",
+  "TenMuc": "VR-SB",
+  "Metadata": {
+    "ThoiGianTao": {
+      "$numberLong": "1778644175190"
+    },
+    "ThoiGianCapNhat": {
+      "$numberLong": "1778644175190"
+    },
+    "NguoiTaoLap": "BXD-ADMIN",
+    "ChuSoHuu": "BXD-ADMIN",
+    "TrangThaiDuLieu": "Active",
+    "PhienBanDuLieu": "1",
+    "NguonThamChieu": {
+      "NguonDuLieu": "",
+      "MaThamChieu": "11",
+      "ThoiGianXuLy": {
+        "$numberLong": "1778644175173"
+      }
+    },
+    "XuLyDuLieu": "2b54d87d-bdf0-4048-a0ec-58458563f3d4",
+    "QRCode": "",
+    "PhanVungDuLieu": {
+      "MaMuc": "",
+      "TenMuc": ""
+    },
+    "ChiaSeTaiKhoan": [],
+    "ChiaSeVaiTro": []
+  }
+},
+{
+  "_id": {
+    "$oid": "6a100bc1c15c512f22430f32"
+  },
+  "MaMuc": "05",
+  "TenMuc": "VR HSC",
+  "Metadata": {
+    "ThoiGianTao": {
+      "$numberLong": "1778644175190"
+    },
+    "ThoiGianCapNhat": {
+      "$numberLong": "1778644175190"
+    },
+    "NguoiTaoLap": "BXD-ADMIN",
+    "ChuSoHuu": "BXD-ADMIN",
+    "TrangThaiDuLieu": "Active",
+    "PhienBanDuLieu": "1",
+    "NguonThamChieu": {
+      "NguonDuLieu": "",
+      "MaThamChieu": "11",
+      "ThoiGianXuLy": {
+        "$numberLong": "1778644175173"
+      }
+    },
+    "XuLyDuLieu": "2b54d87d-bdf0-4048-a0ec-58458563f3d4",
+    "QRCode": "",
+    "PhanVungDuLieu": {
+      "MaMuc": "",
+      "TenMuc": ""
+    },
+    "ChiaSeTaiKhoan": [],
+    "ChiaSeVaiTro": []
+  }
+},
+{
+  "_id": {
+    "$oid": "6a100bd00a6155937e8de5e1"
+  },
+  "MaMuc": "06",
+  "TenMuc": "VR HSLC",
+  "Metadata": {
+    "ThoiGianTao": {
+      "$numberLong": "1778644175190"
+    },
+    "ThoiGianCapNhat": {
+      "$numberLong": "1778644175190"
+    },
+    "NguoiTaoLap": "BXD-ADMIN",
+    "ChuSoHuu": "BXD-ADMIN",
+    "TrangThaiDuLieu": "Active",
+    "PhienBanDuLieu": "1",
+    "NguonThamChieu": {
+      "NguonDuLieu": "",
+      "MaThamChieu": "11",
+      "ThoiGianXuLy": {
+        "$numberLong": "1778644175173"
+      }
+    },
+    "XuLyDuLieu": "2b54d87d-bdf0-4048-a0ec-58458563f3d4",
+    "QRCode": "",
+    "PhanVungDuLieu": {
+      "MaMuc": "",
+      "TenMuc": ""
+    },
+    "ChiaSeTaiKhoan": [],
+    "ChiaSeVaiTro": []
+  }
+}]

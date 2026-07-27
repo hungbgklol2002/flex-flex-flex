@@ -1,0 +1,6723 @@
+[{
+  "_id": {
+    "$oid": "691d6a5fb9130000200007b2"
+  },
+  "MaMuc": "AD",
+  "TenMuc": "Andorra",
+  "Metadata": {
+    "ThoiGianTao": {
+      "$numberLong": "1769754866807"
+    },
+    "ThoiGianCapNhat": {
+      "$numberLong": "1769754866807"
+    },
+    "NguoiTaoLap": "BXD-ADMIN",
+    "ChuSoHuu": "BXD-ADMIN",
+    "TrangThaiDuLieu": "Active",
+    "PhienBanDuLieu": "1",
+    "XuLyDuLieu": "",
+    "QRCode": "",
+    "PhanVungDuLieu": {
+      "MaMuc": "",
+      "TenMuc": ""
+    },
+    "ChiaSeTaiKhoan": [],
+    "ChiaSeVaiTro": []
+  }
+},
+{
+  "_id": {
+    "$oid": "691d6a5fb9130000200007b3"
+  },
+  "MaMuc": "AE",
+  "TenMuc": "United Arab Emirates",
+  "Metadata": {
+    "ThoiGianTao": {
+      "$numberLong": "1769754866807"
+    },
+    "ThoiGianCapNhat": {
+      "$numberLong": "1769754866807"
+    },
+    "NguoiTaoLap": "BXD-ADMIN",
+    "ChuSoHuu": "BXD-ADMIN",
+    "TrangThaiDuLieu": "Active",
+    "PhienBanDuLieu": "1",
+    "XuLyDuLieu": "",
+    "QRCode": "",
+    "PhanVungDuLieu": {
+      "MaMuc": "",
+      "TenMuc": ""
+    },
+    "ChiaSeTaiKhoan": [],
+    "ChiaSeVaiTro": []
+  }
+},
+{
+  "_id": {
+    "$oid": "691d6a5fb9130000200007b4"
+  },
+  "MaMuc": "AF",
+  "TenMuc": "Afghanistan",
+  "Metadata": {
+    "ThoiGianTao": {
+      "$numberLong": "1769754866807"
+    },
+    "ThoiGianCapNhat": {
+      "$numberLong": "1769754866807"
+    },
+    "NguoiTaoLap": "BXD-ADMIN",
+    "ChuSoHuu": "BXD-ADMIN",
+    "TrangThaiDuLieu": "Active",
+    "PhienBanDuLieu": "1",
+    "XuLyDuLieu": "",
+    "QRCode": "",
+    "PhanVungDuLieu": {
+      "MaMuc": "",
+      "TenMuc": ""
+    },
+    "ChiaSeTaiKhoan": [],
+    "ChiaSeVaiTro": []
+  }
+},
+{
+  "_id": {
+    "$oid": "691d6a5fb9130000200007b5"
+  },
+  "MaMuc": "AG",
+  "TenMuc": "Antigua and Barbuda",
+  "Metadata": {
+    "ThoiGianTao": {
+      "$numberLong": "1769754866807"
+    },
+    "ThoiGianCapNhat": {
+      "$numberLong": "1769754866807"
+    },
+    "NguoiTaoLap": "BXD-ADMIN",
+    "ChuSoHuu": "BXD-ADMIN",
+    "TrangThaiDuLieu": "Active",
+    "PhienBanDuLieu": "1",
+    "XuLyDuLieu": "",
+    "QRCode": "",
+    "PhanVungDuLieu": {
+      "MaMuc": "",
+      "TenMuc": ""
+    },
+    "ChiaSeTaiKhoan": [],
+    "ChiaSeVaiTro": []
+  }
+},
+{
+  "_id": {
+    "$oid": "691d6a5fb9130000200007b6"
+  },
+  "MaMuc": "AI",
+  "TenMuc": "Anguilla",
+  "Metadata": {
+    "ThoiGianTao": {
+      "$numberLong": "1769754866807"
+    },
+    "ThoiGianCapNhat": {
+      "$numberLong": "1769754866807"
+    },
+    "NguoiTaoLap": "BXD-ADMIN",
+    "ChuSoHuu": "BXD-ADMIN",
+    "TrangThaiDuLieu": "Active",
+    "PhienBanDuLieu": "1",
+    "XuLyDuLieu": "",
+    "QRCode": "",
+    "PhanVungDuLieu": {
+      "MaMuc": "",
+      "TenMuc": ""
+    },
+    "ChiaSeTaiKhoan": [],
+    "ChiaSeVaiTro": []
+  }
+},
+{
+  "_id": {
+    "$oid": "691d6a5fb9130000200007b7"
+  },
+  "MaMuc": "AL",
+  "TenMuc": "Albania",
+  "Metadata": {
+    "ThoiGianTao": {
+      "$numberLong": "1769754866807"
+    },
+    "ThoiGianCapNhat": {
+      "$numberLong": "1769754866807"
+    },
+    "NguoiTaoLap": "BXD-ADMIN",
+    "ChuSoHuu": "BXD-ADMIN",
+    "TrangThaiDuLieu": "Active",
+    "PhienBanDuLieu": "1",
+    "XuLyDuLieu": "",
+    "QRCode": "",
+    "PhanVungDuLieu": {
+      "MaMuc": "",
+      "TenMuc": ""
+    },
+    "ChiaSeTaiKhoan": [],
+    "ChiaSeVaiTro": []
+  }
+},
+{
+  "_id": {
+    "$oid": "691d6a5fb9130000200007b8"
+  },
+  "MaMuc": "AM",
+  "TenMuc": "Armenia",
+  "Metadata": {
+    "ThoiGianTao": {
+      "$numberLong": "1769754866807"
+    },
+    "ThoiGianCapNhat": {
+      "$numberLong": "1769754866807"
+    },
+    "NguoiTaoLap": "BXD-ADMIN",
+    "ChuSoHuu": "BXD-ADMIN",
+    "TrangThaiDuLieu": "Active",
+    "PhienBanDuLieu": "1",
+    "XuLyDuLieu": "",
+    "QRCode": "",
+    "PhanVungDuLieu": {
+      "MaMuc": "",
+      "TenMuc": ""
+    },
+    "ChiaSeTaiKhoan": [],
+    "ChiaSeVaiTro": []
+  }
+},
+{
+  "_id": {
+    "$oid": "691d6a5fb9130000200007b9"
+  },
+  "MaMuc": "AO",
+  "TenMuc": "Angola",
+  "Metadata": {
+    "ThoiGianTao": {
+      "$numberLong": "1769754866807"
+    },
+    "ThoiGianCapNhat": {
+      "$numberLong": "1769754866807"
+    },
+    "NguoiTaoLap": "BXD-ADMIN",
+    "ChuSoHuu": "BXD-ADMIN",
+    "TrangThaiDuLieu": "Active",
+    "PhienBanDuLieu": "1",
+    "XuLyDuLieu": "",
+    "QRCode": "",
+    "PhanVungDuLieu": {
+      "MaMuc": "",
+      "TenMuc": ""
+    },
+    "ChiaSeTaiKhoan": [],
+    "ChiaSeVaiTro": []
+  }
+},
+{
+  "_id": {
+    "$oid": "691d6a5fb9130000200007ba"
+  },
+  "MaMuc": "AQ",
+  "TenMuc": "Antarctica",
+  "Metadata": {
+    "ThoiGianTao": {
+      "$numberLong": "1769754866807"
+    },
+    "ThoiGianCapNhat": {
+      "$numberLong": "1769754866807"
+    },
+    "NguoiTaoLap": "BXD-ADMIN",
+    "ChuSoHuu": "BXD-ADMIN",
+    "TrangThaiDuLieu": "Active",
+    "PhienBanDuLieu": "1",
+    "XuLyDuLieu": "",
+    "QRCode": "",
+    "PhanVungDuLieu": {
+      "MaMuc": "",
+      "TenMuc": ""
+    },
+    "ChiaSeTaiKhoan": [],
+    "ChiaSeVaiTro": []
+  }
+},
+{
+  "_id": {
+    "$oid": "691d6a5fb9130000200007bb"
+  },
+  "MaMuc": "AR",
+  "TenMuc": "Argentina",
+  "Metadata": {
+    "ThoiGianTao": {
+      "$numberLong": "1769754866807"
+    },
+    "ThoiGianCapNhat": {
+      "$numberLong": "1769754866807"
+    },
+    "NguoiTaoLap": "BXD-ADMIN",
+    "ChuSoHuu": "BXD-ADMIN",
+    "TrangThaiDuLieu": "Active",
+    "PhienBanDuLieu": "1",
+    "XuLyDuLieu": "",
+    "QRCode": "",
+    "PhanVungDuLieu": {
+      "MaMuc": "",
+      "TenMuc": ""
+    },
+    "ChiaSeTaiKhoan": [],
+    "ChiaSeVaiTro": []
+  }
+},
+{
+  "_id": {
+    "$oid": "691d6a5fb9130000200007bc"
+  },
+  "MaMuc": "AS",
+  "TenMuc": "American Samoa",
+  "Metadata": {
+    "ThoiGianTao": {
+      "$numberLong": "1769754866807"
+    },
+    "ThoiGianCapNhat": {
+      "$numberLong": "1769754866807"
+    },
+    "NguoiTaoLap": "BXD-ADMIN",
+    "ChuSoHuu": "BXD-ADMIN",
+    "TrangThaiDuLieu": "Active",
+    "PhienBanDuLieu": "1",
+    "XuLyDuLieu": "",
+    "QRCode": "",
+    "PhanVungDuLieu": {
+      "MaMuc": "",
+      "TenMuc": ""
+    },
+    "ChiaSeTaiKhoan": [],
+    "ChiaSeVaiTro": []
+  }
+},
+{
+  "_id": {
+    "$oid": "691d6a5fb9130000200007bd"
+  },
+  "MaMuc": "AT",
+  "TenMuc": "Austria",
+  "Metadata": {
+    "ThoiGianTao": {
+      "$numberLong": "1769754866807"
+    },
+    "ThoiGianCapNhat": {
+      "$numberLong": "1769754866807"
+    },
+    "NguoiTaoLap": "BXD-ADMIN",
+    "ChuSoHuu": "BXD-ADMIN",
+    "TrangThaiDuLieu": "Active",
+    "PhienBanDuLieu": "1",
+    "XuLyDuLieu": "",
+    "QRCode": "",
+    "PhanVungDuLieu": {
+      "MaMuc": "",
+      "TenMuc": ""
+    },
+    "ChiaSeTaiKhoan": [],
+    "ChiaSeVaiTro": []
+  }
+},
+{
+  "_id": {
+    "$oid": "691d6a5fb9130000200007be"
+  },
+  "MaMuc": "AU",
+  "TenMuc": "Australia",
+  "Metadata": {
+    "ThoiGianTao": {
+      "$numberLong": "1769754866807"
+    },
+    "ThoiGianCapNhat": {
+      "$numberLong": "1769754866807"
+    },
+    "NguoiTaoLap": "BXD-ADMIN",
+    "ChuSoHuu": "BXD-ADMIN",
+    "TrangThaiDuLieu": "Active",
+    "PhienBanDuLieu": "1",
+    "XuLyDuLieu": "",
+    "QRCode": "",
+    "PhanVungDuLieu": {
+      "MaMuc": "",
+      "TenMuc": ""
+    },
+    "ChiaSeTaiKhoan": [],
+    "ChiaSeVaiTro": []
+  }
+},
+{
+  "_id": {
+    "$oid": "691d6a5fb9130000200007bf"
+  },
+  "MaMuc": "AW",
+  "TenMuc": "Aruba",
+  "Metadata": {
+    "ThoiGianTao": {
+      "$numberLong": "1769754866807"
+    },
+    "ThoiGianCapNhat": {
+      "$numberLong": "1769754866807"
+    },
+    "NguoiTaoLap": "BXD-ADMIN",
+    "ChuSoHuu": "BXD-ADMIN",
+    "TrangThaiDuLieu": "Active",
+    "PhienBanDuLieu": "1",
+    "XuLyDuLieu": "",
+    "QRCode": "",
+    "PhanVungDuLieu": {
+      "MaMuc": "",
+      "TenMuc": ""
+    },
+    "ChiaSeTaiKhoan": [],
+    "ChiaSeVaiTro": []
+  }
+},
+{
+  "_id": {
+    "$oid": "691d6a5fb9130000200007c0"
+  },
+  "MaMuc": "AX",
+  "TenMuc": "Åland Islands",
+  "Metadata": {
+    "ThoiGianTao": {
+      "$numberLong": "1769754866807"
+    },
+    "ThoiGianCapNhat": {
+      "$numberLong": "1769754866807"
+    },
+    "NguoiTaoLap": "BXD-ADMIN",
+    "ChuSoHuu": "BXD-ADMIN",
+    "TrangThaiDuLieu": "Active",
+    "PhienBanDuLieu": "1",
+    "XuLyDuLieu": "",
+    "QRCode": "",
+    "PhanVungDuLieu": {
+      "MaMuc": "",
+      "TenMuc": ""
+    },
+    "ChiaSeTaiKhoan": [],
+    "ChiaSeVaiTro": []
+  }
+},
+{
+  "_id": {
+    "$oid": "691d6a5fb9130000200007c1"
+  },
+  "MaMuc": "AZ",
+  "TenMuc": "Azerbaijan",
+  "Metadata": {
+    "ThoiGianTao": {
+      "$numberLong": "1769754866807"
+    },
+    "ThoiGianCapNhat": {
+      "$numberLong": "1769754866807"
+    },
+    "NguoiTaoLap": "BXD-ADMIN",
+    "ChuSoHuu": "BXD-ADMIN",
+    "TrangThaiDuLieu": "Active",
+    "PhienBanDuLieu": "1",
+    "XuLyDuLieu": "",
+    "QRCode": "",
+    "PhanVungDuLieu": {
+      "MaMuc": "",
+      "TenMuc": ""
+    },
+    "ChiaSeTaiKhoan": [],
+    "ChiaSeVaiTro": []
+  }
+},
+{
+  "_id": {
+    "$oid": "691d6a5fb9130000200007c2"
+  },
+  "MaMuc": "BA",
+  "TenMuc": "Bosnia and Herzegovina",
+  "Metadata": {
+    "ThoiGianTao": {
+      "$numberLong": "1769754866807"
+    },
+    "ThoiGianCapNhat": {
+      "$numberLong": "1769754866807"
+    },
+    "NguoiTaoLap": "BXD-ADMIN",
+    "ChuSoHuu": "BXD-ADMIN",
+    "TrangThaiDuLieu": "Active",
+    "PhienBanDuLieu": "1",
+    "XuLyDuLieu": "",
+    "QRCode": "",
+    "PhanVungDuLieu": {
+      "MaMuc": "",
+      "TenMuc": ""
+    },
+    "ChiaSeTaiKhoan": [],
+    "ChiaSeVaiTro": []
+  }
+},
+{
+  "_id": {
+    "$oid": "691d6a5fb9130000200007c3"
+  },
+  "MaMuc": "BB",
+  "TenMuc": "Barbados",
+  "Metadata": {
+    "ThoiGianTao": {
+      "$numberLong": "1769754866807"
+    },
+    "ThoiGianCapNhat": {
+      "$numberLong": "1769754866807"
+    },
+    "NguoiTaoLap": "BXD-ADMIN",
+    "ChuSoHuu": "BXD-ADMIN",
+    "TrangThaiDuLieu": "Active",
+    "PhienBanDuLieu": "1",
+    "XuLyDuLieu": "",
+    "QRCode": "",
+    "PhanVungDuLieu": {
+      "MaMuc": "",
+      "TenMuc": ""
+    },
+    "ChiaSeTaiKhoan": [],
+    "ChiaSeVaiTro": []
+  }
+},
+{
+  "_id": {
+    "$oid": "691d6a5fb9130000200007c4"
+  },
+  "MaMuc": "BD",
+  "TenMuc": "Bangladesh",
+  "Metadata": {
+    "ThoiGianTao": {
+      "$numberLong": "1769754866807"
+    },
+    "ThoiGianCapNhat": {
+      "$numberLong": "1769754866807"
+    },
+    "NguoiTaoLap": "BXD-ADMIN",
+    "ChuSoHuu": "BXD-ADMIN",
+    "TrangThaiDuLieu": "Active",
+    "PhienBanDuLieu": "1",
+    "XuLyDuLieu": "",
+    "QRCode": "",
+    "PhanVungDuLieu": {
+      "MaMuc": "",
+      "TenMuc": ""
+    },
+    "ChiaSeTaiKhoan": [],
+    "ChiaSeVaiTro": []
+  }
+},
+{
+  "_id": {
+    "$oid": "691d6a5fb9130000200007c5"
+  },
+  "MaMuc": "BE",
+  "TenMuc": "Belgium",
+  "Metadata": {
+    "ThoiGianTao": {
+      "$numberLong": "1769754866807"
+    },
+    "ThoiGianCapNhat": {
+      "$numberLong": "1769754866807"
+    },
+    "NguoiTaoLap": "BXD-ADMIN",
+    "ChuSoHuu": "BXD-ADMIN",
+    "TrangThaiDuLieu": "Active",
+    "PhienBanDuLieu": "1",
+    "XuLyDuLieu": "",
+    "QRCode": "",
+    "PhanVungDuLieu": {
+      "MaMuc": "",
+      "TenMuc": ""
+    },
+    "ChiaSeTaiKhoan": [],
+    "ChiaSeVaiTro": []
+  }
+},
+{
+  "_id": {
+    "$oid": "691d6a5fb9130000200007c6"
+  },
+  "MaMuc": "BF",
+  "TenMuc": "Burkina Faso",
+  "Metadata": {
+    "ThoiGianTao": {
+      "$numberLong": "1769754866807"
+    },
+    "ThoiGianCapNhat": {
+      "$numberLong": "1769754866807"
+    },
+    "NguoiTaoLap": "BXD-ADMIN",
+    "ChuSoHuu": "BXD-ADMIN",
+    "TrangThaiDuLieu": "Active",
+    "PhienBanDuLieu": "1",
+    "XuLyDuLieu": "",
+    "QRCode": "",
+    "PhanVungDuLieu": {
+      "MaMuc": "",
+      "TenMuc": ""
+    },
+    "ChiaSeTaiKhoan": [],
+    "ChiaSeVaiTro": []
+  }
+},
+{
+  "_id": {
+    "$oid": "691d6a5fb9130000200007c7"
+  },
+  "MaMuc": "BG",
+  "TenMuc": "Bulgaria",
+  "Metadata": {
+    "ThoiGianTao": {
+      "$numberLong": "1769754866807"
+    },
+    "ThoiGianCapNhat": {
+      "$numberLong": "1769754866807"
+    },
+    "NguoiTaoLap": "BXD-ADMIN",
+    "ChuSoHuu": "BXD-ADMIN",
+    "TrangThaiDuLieu": "Active",
+    "PhienBanDuLieu": "1",
+    "XuLyDuLieu": "",
+    "QRCode": "",
+    "PhanVungDuLieu": {
+      "MaMuc": "",
+      "TenMuc": ""
+    },
+    "ChiaSeTaiKhoan": [],
+    "ChiaSeVaiTro": []
+  }
+},
+{
+  "_id": {
+    "$oid": "691d6a5fb9130000200007c8"
+  },
+  "MaMuc": "BH",
+  "TenMuc": "Bahrain",
+  "Metadata": {
+    "ThoiGianTao": {
+      "$numberLong": "1769754866807"
+    },
+    "ThoiGianCapNhat": {
+      "$numberLong": "1769754866807"
+    },
+    "NguoiTaoLap": "BXD-ADMIN",
+    "ChuSoHuu": "BXD-ADMIN",
+    "TrangThaiDuLieu": "Active",
+    "PhienBanDuLieu": "1",
+    "XuLyDuLieu": "",
+    "QRCode": "",
+    "PhanVungDuLieu": {
+      "MaMuc": "",
+      "TenMuc": ""
+    },
+    "ChiaSeTaiKhoan": [],
+    "ChiaSeVaiTro": []
+  }
+},
+{
+  "_id": {
+    "$oid": "691d6a5fb9130000200007c9"
+  },
+  "MaMuc": "BI",
+  "TenMuc": "Burundi",
+  "Metadata": {
+    "ThoiGianTao": {
+      "$numberLong": "1769754866807"
+    },
+    "ThoiGianCapNhat": {
+      "$numberLong": "1769754866807"
+    },
+    "NguoiTaoLap": "BXD-ADMIN",
+    "ChuSoHuu": "BXD-ADMIN",
+    "TrangThaiDuLieu": "Active",
+    "PhienBanDuLieu": "1",
+    "XuLyDuLieu": "",
+    "QRCode": "",
+    "PhanVungDuLieu": {
+      "MaMuc": "",
+      "TenMuc": ""
+    },
+    "ChiaSeTaiKhoan": [],
+    "ChiaSeVaiTro": []
+  }
+},
+{
+  "_id": {
+    "$oid": "691d6a5fb9130000200007ca"
+  },
+  "MaMuc": "BJ",
+  "TenMuc": "Benin",
+  "Metadata": {
+    "ThoiGianTao": {
+      "$numberLong": "1769754866807"
+    },
+    "ThoiGianCapNhat": {
+      "$numberLong": "1769754866807"
+    },
+    "NguoiTaoLap": "BXD-ADMIN",
+    "ChuSoHuu": "BXD-ADMIN",
+    "TrangThaiDuLieu": "Active",
+    "PhienBanDuLieu": "1",
+    "XuLyDuLieu": "",
+    "QRCode": "",
+    "PhanVungDuLieu": {
+      "MaMuc": "",
+      "TenMuc": ""
+    },
+    "ChiaSeTaiKhoan": [],
+    "ChiaSeVaiTro": []
+  }
+},
+{
+  "_id": {
+    "$oid": "691d6a5fb9130000200007cb"
+  },
+  "MaMuc": "BL",
+  "TenMuc": "Saint Barthélemy",
+  "Metadata": {
+    "ThoiGianTao": {
+      "$numberLong": "1769754866807"
+    },
+    "ThoiGianCapNhat": {
+      "$numberLong": "1769754866807"
+    },
+    "NguoiTaoLap": "BXD-ADMIN",
+    "ChuSoHuu": "BXD-ADMIN",
+    "TrangThaiDuLieu": "Active",
+    "PhienBanDuLieu": "1",
+    "XuLyDuLieu": "",
+    "QRCode": "",
+    "PhanVungDuLieu": {
+      "MaMuc": "",
+      "TenMuc": ""
+    },
+    "ChiaSeTaiKhoan": [],
+    "ChiaSeVaiTro": []
+  }
+},
+{
+  "_id": {
+    "$oid": "691d6a5fb9130000200007cc"
+  },
+  "MaMuc": "BM",
+  "TenMuc": "Bermuda",
+  "Metadata": {
+    "ThoiGianTao": {
+      "$numberLong": "1769754866807"
+    },
+    "ThoiGianCapNhat": {
+      "$numberLong": "1769754866807"
+    },
+    "NguoiTaoLap": "BXD-ADMIN",
+    "ChuSoHuu": "BXD-ADMIN",
+    "TrangThaiDuLieu": "Active",
+    "PhienBanDuLieu": "1",
+    "XuLyDuLieu": "",
+    "QRCode": "",
+    "PhanVungDuLieu": {
+      "MaMuc": "",
+      "TenMuc": ""
+    },
+    "ChiaSeTaiKhoan": [],
+    "ChiaSeVaiTro": []
+  }
+},
+{
+  "_id": {
+    "$oid": "691d6a5fb9130000200007cd"
+  },
+  "MaMuc": "BN",
+  "TenMuc": "Brunei Darussalam",
+  "Metadata": {
+    "ThoiGianTao": {
+      "$numberLong": "1769754866807"
+    },
+    "ThoiGianCapNhat": {
+      "$numberLong": "1769754866807"
+    },
+    "NguoiTaoLap": "BXD-ADMIN",
+    "ChuSoHuu": "BXD-ADMIN",
+    "TrangThaiDuLieu": "Active",
+    "PhienBanDuLieu": "1",
+    "XuLyDuLieu": "",
+    "QRCode": "",
+    "PhanVungDuLieu": {
+      "MaMuc": "",
+      "TenMuc": ""
+    },
+    "ChiaSeTaiKhoan": [],
+    "ChiaSeVaiTro": []
+  }
+},
+{
+  "_id": {
+    "$oid": "691d6a5fb9130000200007ce"
+  },
+  "MaMuc": "BO",
+  "TenMuc": "Bolivia, Plurinational State of",
+  "Metadata": {
+    "ThoiGianTao": {
+      "$numberLong": "1769754866807"
+    },
+    "ThoiGianCapNhat": {
+      "$numberLong": "1769754866807"
+    },
+    "NguoiTaoLap": "BXD-ADMIN",
+    "ChuSoHuu": "BXD-ADMIN",
+    "TrangThaiDuLieu": "Active",
+    "PhienBanDuLieu": "1",
+    "XuLyDuLieu": "",
+    "QRCode": "",
+    "PhanVungDuLieu": {
+      "MaMuc": "",
+      "TenMuc": ""
+    },
+    "ChiaSeTaiKhoan": [],
+    "ChiaSeVaiTro": []
+  }
+},
+{
+  "_id": {
+    "$oid": "691d6a5fb9130000200007cf"
+  },
+  "MaMuc": "BQ",
+  "TenMuc": "Bonaire, Sint Eustatius and Saba",
+  "Metadata": {
+    "ThoiGianTao": {
+      "$numberLong": "1769754866807"
+    },
+    "ThoiGianCapNhat": {
+      "$numberLong": "1769754866807"
+    },
+    "NguoiTaoLap": "BXD-ADMIN",
+    "ChuSoHuu": "BXD-ADMIN",
+    "TrangThaiDuLieu": "Active",
+    "PhienBanDuLieu": "1",
+    "XuLyDuLieu": "",
+    "QRCode": "",
+    "PhanVungDuLieu": {
+      "MaMuc": "",
+      "TenMuc": ""
+    },
+    "ChiaSeTaiKhoan": [],
+    "ChiaSeVaiTro": []
+  }
+},
+{
+  "_id": {
+    "$oid": "691d6a5fb9130000200007d0"
+  },
+  "MaMuc": "BR",
+  "TenMuc": "Brazil",
+  "Metadata": {
+    "ThoiGianTao": {
+      "$numberLong": "1769754866807"
+    },
+    "ThoiGianCapNhat": {
+      "$numberLong": "1769754866807"
+    },
+    "NguoiTaoLap": "BXD-ADMIN",
+    "ChuSoHuu": "BXD-ADMIN",
+    "TrangThaiDuLieu": "Active",
+    "PhienBanDuLieu": "1",
+    "XuLyDuLieu": "",
+    "QRCode": "",
+    "PhanVungDuLieu": {
+      "MaMuc": "",
+      "TenMuc": ""
+    },
+    "ChiaSeTaiKhoan": [],
+    "ChiaSeVaiTro": []
+  }
+},
+{
+  "_id": {
+    "$oid": "691d6a5fb9130000200007d1"
+  },
+  "MaMuc": "BS",
+  "TenMuc": "Bahamas",
+  "Metadata": {
+    "ThoiGianTao": {
+      "$numberLong": "1769754866807"
+    },
+    "ThoiGianCapNhat": {
+      "$numberLong": "1769754866807"
+    },
+    "NguoiTaoLap": "BXD-ADMIN",
+    "ChuSoHuu": "BXD-ADMIN",
+    "TrangThaiDuLieu": "Active",
+    "PhienBanDuLieu": "1",
+    "XuLyDuLieu": "",
+    "QRCode": "",
+    "PhanVungDuLieu": {
+      "MaMuc": "",
+      "TenMuc": ""
+    },
+    "ChiaSeTaiKhoan": [],
+    "ChiaSeVaiTro": []
+  }
+},
+{
+  "_id": {
+    "$oid": "691d6a5fb9130000200007d2"
+  },
+  "MaMuc": "BT",
+  "TenMuc": "Bhutan",
+  "Metadata": {
+    "ThoiGianTao": {
+      "$numberLong": "1769754866807"
+    },
+    "ThoiGianCapNhat": {
+      "$numberLong": "1769754866807"
+    },
+    "NguoiTaoLap": "BXD-ADMIN",
+    "ChuSoHuu": "BXD-ADMIN",
+    "TrangThaiDuLieu": "Active",
+    "PhienBanDuLieu": "1",
+    "XuLyDuLieu": "",
+    "QRCode": "",
+    "PhanVungDuLieu": {
+      "MaMuc": "",
+      "TenMuc": ""
+    },
+    "ChiaSeTaiKhoan": [],
+    "ChiaSeVaiTro": []
+  }
+},
+{
+  "_id": {
+    "$oid": "691d6a5fb9130000200007d3"
+  },
+  "MaMuc": "BV",
+  "TenMuc": "Bouvet Island",
+  "Metadata": {
+    "ThoiGianTao": {
+      "$numberLong": "1769754866807"
+    },
+    "ThoiGianCapNhat": {
+      "$numberLong": "1769754866807"
+    },
+    "NguoiTaoLap": "BXD-ADMIN",
+    "ChuSoHuu": "BXD-ADMIN",
+    "TrangThaiDuLieu": "Active",
+    "PhienBanDuLieu": "1",
+    "XuLyDuLieu": "",
+    "QRCode": "",
+    "PhanVungDuLieu": {
+      "MaMuc": "",
+      "TenMuc": ""
+    },
+    "ChiaSeTaiKhoan": [],
+    "ChiaSeVaiTro": []
+  }
+},
+{
+  "_id": {
+    "$oid": "691d6a5fb9130000200007d4"
+  },
+  "MaMuc": "BW",
+  "TenMuc": "Botswana",
+  "Metadata": {
+    "ThoiGianTao": {
+      "$numberLong": "1769754866807"
+    },
+    "ThoiGianCapNhat": {
+      "$numberLong": "1769754866807"
+    },
+    "NguoiTaoLap": "BXD-ADMIN",
+    "ChuSoHuu": "BXD-ADMIN",
+    "TrangThaiDuLieu": "Active",
+    "PhienBanDuLieu": "1",
+    "XuLyDuLieu": "",
+    "QRCode": "",
+    "PhanVungDuLieu": {
+      "MaMuc": "",
+      "TenMuc": ""
+    },
+    "ChiaSeTaiKhoan": [],
+    "ChiaSeVaiTro": []
+  }
+},
+{
+  "_id": {
+    "$oid": "691d6a5fb9130000200007d5"
+  },
+  "MaMuc": "BY",
+  "TenMuc": "Belarus",
+  "Metadata": {
+    "ThoiGianTao": {
+      "$numberLong": "1769754866807"
+    },
+    "ThoiGianCapNhat": {
+      "$numberLong": "1769754866807"
+    },
+    "NguoiTaoLap": "BXD-ADMIN",
+    "ChuSoHuu": "BXD-ADMIN",
+    "TrangThaiDuLieu": "Active",
+    "PhienBanDuLieu": "1",
+    "XuLyDuLieu": "",
+    "QRCode": "",
+    "PhanVungDuLieu": {
+      "MaMuc": "",
+      "TenMuc": ""
+    },
+    "ChiaSeTaiKhoan": [],
+    "ChiaSeVaiTro": []
+  }
+},
+{
+  "_id": {
+    "$oid": "691d6a5fb9130000200007d6"
+  },
+  "MaMuc": "BZ",
+  "TenMuc": "Belize",
+  "Metadata": {
+    "ThoiGianTao": {
+      "$numberLong": "1769754866807"
+    },
+    "ThoiGianCapNhat": {
+      "$numberLong": "1769754866807"
+    },
+    "NguoiTaoLap": "BXD-ADMIN",
+    "ChuSoHuu": "BXD-ADMIN",
+    "TrangThaiDuLieu": "Active",
+    "PhienBanDuLieu": "1",
+    "XuLyDuLieu": "",
+    "QRCode": "",
+    "PhanVungDuLieu": {
+      "MaMuc": "",
+      "TenMuc": ""
+    },
+    "ChiaSeTaiKhoan": [],
+    "ChiaSeVaiTro": []
+  }
+},
+{
+  "_id": {
+    "$oid": "691d6a5fb9130000200007d7"
+  },
+  "MaMuc": "CA",
+  "TenMuc": "Canada",
+  "Metadata": {
+    "ThoiGianTao": {
+      "$numberLong": "1769754866807"
+    },
+    "ThoiGianCapNhat": {
+      "$numberLong": "1769754866807"
+    },
+    "NguoiTaoLap": "BXD-ADMIN",
+    "ChuSoHuu": "BXD-ADMIN",
+    "TrangThaiDuLieu": "Active",
+    "PhienBanDuLieu": "1",
+    "XuLyDuLieu": "",
+    "QRCode": "",
+    "PhanVungDuLieu": {
+      "MaMuc": "",
+      "TenMuc": ""
+    },
+    "ChiaSeTaiKhoan": [],
+    "ChiaSeVaiTro": []
+  }
+},
+{
+  "_id": {
+    "$oid": "691d6a5fb9130000200007d8"
+  },
+  "MaMuc": "CC",
+  "TenMuc": "Cocos (Keeling) Islands",
+  "Metadata": {
+    "ThoiGianTao": {
+      "$numberLong": "1769754866807"
+    },
+    "ThoiGianCapNhat": {
+      "$numberLong": "1769754866807"
+    },
+    "NguoiTaoLap": "BXD-ADMIN",
+    "ChuSoHuu": "BXD-ADMIN",
+    "TrangThaiDuLieu": "Active",
+    "PhienBanDuLieu": "1",
+    "XuLyDuLieu": "",
+    "QRCode": "",
+    "PhanVungDuLieu": {
+      "MaMuc": "",
+      "TenMuc": ""
+    },
+    "ChiaSeTaiKhoan": [],
+    "ChiaSeVaiTro": []
+  }
+},
+{
+  "_id": {
+    "$oid": "691d6a5fb9130000200007d9"
+  },
+  "MaMuc": "CD",
+  "TenMuc": "Congo, the Democratic Republic of the",
+  "Metadata": {
+    "ThoiGianTao": {
+      "$numberLong": "1769754866807"
+    },
+    "ThoiGianCapNhat": {
+      "$numberLong": "1769754866807"
+    },
+    "NguoiTaoLap": "BXD-ADMIN",
+    "ChuSoHuu": "BXD-ADMIN",
+    "TrangThaiDuLieu": "Active",
+    "PhienBanDuLieu": "1",
+    "XuLyDuLieu": "",
+    "QRCode": "",
+    "PhanVungDuLieu": {
+      "MaMuc": "",
+      "TenMuc": ""
+    },
+    "ChiaSeTaiKhoan": [],
+    "ChiaSeVaiTro": []
+  }
+},
+{
+  "_id": {
+    "$oid": "691d6a5fb9130000200007da"
+  },
+  "MaMuc": "CF",
+  "TenMuc": "Central African Republic",
+  "Metadata": {
+    "ThoiGianTao": {
+      "$numberLong": "1769754866807"
+    },
+    "ThoiGianCapNhat": {
+      "$numberLong": "1769754866807"
+    },
+    "NguoiTaoLap": "BXD-ADMIN",
+    "ChuSoHuu": "BXD-ADMIN",
+    "TrangThaiDuLieu": "Active",
+    "PhienBanDuLieu": "1",
+    "XuLyDuLieu": "",
+    "QRCode": "",
+    "PhanVungDuLieu": {
+      "MaMuc": "",
+      "TenMuc": ""
+    },
+    "ChiaSeTaiKhoan": [],
+    "ChiaSeVaiTro": []
+  }
+},
+{
+  "_id": {
+    "$oid": "691d6a5fb9130000200007db"
+  },
+  "MaMuc": "CG",
+  "TenMuc": "Congo",
+  "Metadata": {
+    "ThoiGianTao": {
+      "$numberLong": "1769754866807"
+    },
+    "ThoiGianCapNhat": {
+      "$numberLong": "1769754866807"
+    },
+    "NguoiTaoLap": "BXD-ADMIN",
+    "ChuSoHuu": "BXD-ADMIN",
+    "TrangThaiDuLieu": "Active",
+    "PhienBanDuLieu": "1",
+    "XuLyDuLieu": "",
+    "QRCode": "",
+    "PhanVungDuLieu": {
+      "MaMuc": "",
+      "TenMuc": ""
+    },
+    "ChiaSeTaiKhoan": [],
+    "ChiaSeVaiTro": []
+  }
+},
+{
+  "_id": {
+    "$oid": "691d6a5fb9130000200007dc"
+  },
+  "MaMuc": "CH",
+  "TenMuc": "Switzerland",
+  "Metadata": {
+    "ThoiGianTao": {
+      "$numberLong": "1769754866807"
+    },
+    "ThoiGianCapNhat": {
+      "$numberLong": "1769754866807"
+    },
+    "NguoiTaoLap": "BXD-ADMIN",
+    "ChuSoHuu": "BXD-ADMIN",
+    "TrangThaiDuLieu": "Active",
+    "PhienBanDuLieu": "1",
+    "XuLyDuLieu": "",
+    "QRCode": "",
+    "PhanVungDuLieu": {
+      "MaMuc": "",
+      "TenMuc": ""
+    },
+    "ChiaSeTaiKhoan": [],
+    "ChiaSeVaiTro": []
+  }
+},
+{
+  "_id": {
+    "$oid": "691d6a5fb9130000200007dd"
+  },
+  "MaMuc": "CI",
+  "TenMuc": "Côte d'Ivoire",
+  "Metadata": {
+    "ThoiGianTao": {
+      "$numberLong": "1769754866807"
+    },
+    "ThoiGianCapNhat": {
+      "$numberLong": "1769754866807"
+    },
+    "NguoiTaoLap": "BXD-ADMIN",
+    "ChuSoHuu": "BXD-ADMIN",
+    "TrangThaiDuLieu": "Active",
+    "PhienBanDuLieu": "1",
+    "XuLyDuLieu": "",
+    "QRCode": "",
+    "PhanVungDuLieu": {
+      "MaMuc": "",
+      "TenMuc": ""
+    },
+    "ChiaSeTaiKhoan": [],
+    "ChiaSeVaiTro": []
+  }
+},
+{
+  "_id": {
+    "$oid": "691d6a5fb9130000200007de"
+  },
+  "MaMuc": "CK",
+  "TenMuc": "Cook Islands",
+  "Metadata": {
+    "ThoiGianTao": {
+      "$numberLong": "1769754866807"
+    },
+    "ThoiGianCapNhat": {
+      "$numberLong": "1769754866807"
+    },
+    "NguoiTaoLap": "BXD-ADMIN",
+    "ChuSoHuu": "BXD-ADMIN",
+    "TrangThaiDuLieu": "Active",
+    "PhienBanDuLieu": "1",
+    "XuLyDuLieu": "",
+    "QRCode": "",
+    "PhanVungDuLieu": {
+      "MaMuc": "",
+      "TenMuc": ""
+    },
+    "ChiaSeTaiKhoan": [],
+    "ChiaSeVaiTro": []
+  }
+},
+{
+  "_id": {
+    "$oid": "691d6a5fb9130000200007df"
+  },
+  "MaMuc": "CL",
+  "TenMuc": "Chile",
+  "Metadata": {
+    "ThoiGianTao": {
+      "$numberLong": "1769754866807"
+    },
+    "ThoiGianCapNhat": {
+      "$numberLong": "1769754866807"
+    },
+    "NguoiTaoLap": "BXD-ADMIN",
+    "ChuSoHuu": "BXD-ADMIN",
+    "TrangThaiDuLieu": "Active",
+    "PhienBanDuLieu": "1",
+    "XuLyDuLieu": "",
+    "QRCode": "",
+    "PhanVungDuLieu": {
+      "MaMuc": "",
+      "TenMuc": ""
+    },
+    "ChiaSeTaiKhoan": [],
+    "ChiaSeVaiTro": []
+  }
+},
+{
+  "_id": {
+    "$oid": "691d6a5fb9130000200007e0"
+  },
+  "MaMuc": "CM",
+  "TenMuc": "Cameroon",
+  "Metadata": {
+    "ThoiGianTao": {
+      "$numberLong": "1769754866807"
+    },
+    "ThoiGianCapNhat": {
+      "$numberLong": "1769754866807"
+    },
+    "NguoiTaoLap": "BXD-ADMIN",
+    "ChuSoHuu": "BXD-ADMIN",
+    "TrangThaiDuLieu": "Active",
+    "PhienBanDuLieu": "1",
+    "XuLyDuLieu": "",
+    "QRCode": "",
+    "PhanVungDuLieu": {
+      "MaMuc": "",
+      "TenMuc": ""
+    },
+    "ChiaSeTaiKhoan": [],
+    "ChiaSeVaiTro": []
+  }
+},
+{
+  "_id": {
+    "$oid": "691d6a5fb9130000200007e1"
+  },
+  "MaMuc": "CN",
+  "TenMuc": "China",
+  "Metadata": {
+    "ThoiGianTao": {
+      "$numberLong": "1769754866807"
+    },
+    "ThoiGianCapNhat": {
+      "$numberLong": "1769754866807"
+    },
+    "NguoiTaoLap": "BXD-ADMIN",
+    "ChuSoHuu": "BXD-ADMIN",
+    "TrangThaiDuLieu": "Active",
+    "PhienBanDuLieu": "1",
+    "XuLyDuLieu": "",
+    "QRCode": "",
+    "PhanVungDuLieu": {
+      "MaMuc": "",
+      "TenMuc": ""
+    },
+    "ChiaSeTaiKhoan": [],
+    "ChiaSeVaiTro": []
+  }
+},
+{
+  "_id": {
+    "$oid": "691d6a5fb9130000200007e2"
+  },
+  "MaMuc": "CO",
+  "TenMuc": "Colombia",
+  "Metadata": {
+    "ThoiGianTao": {
+      "$numberLong": "1769754866807"
+    },
+    "ThoiGianCapNhat": {
+      "$numberLong": "1769754866807"
+    },
+    "NguoiTaoLap": "BXD-ADMIN",
+    "ChuSoHuu": "BXD-ADMIN",
+    "TrangThaiDuLieu": "Active",
+    "PhienBanDuLieu": "1",
+    "XuLyDuLieu": "",
+    "QRCode": "",
+    "PhanVungDuLieu": {
+      "MaMuc": "",
+      "TenMuc": ""
+    },
+    "ChiaSeTaiKhoan": [],
+    "ChiaSeVaiTro": []
+  }
+},
+{
+  "_id": {
+    "$oid": "691d6a5fb9130000200007e3"
+  },
+  "MaMuc": "CR",
+  "TenMuc": "Costa Rica",
+  "Metadata": {
+    "ThoiGianTao": {
+      "$numberLong": "1769754866807"
+    },
+    "ThoiGianCapNhat": {
+      "$numberLong": "1769754866807"
+    },
+    "NguoiTaoLap": "BXD-ADMIN",
+    "ChuSoHuu": "BXD-ADMIN",
+    "TrangThaiDuLieu": "Active",
+    "PhienBanDuLieu": "1",
+    "XuLyDuLieu": "",
+    "QRCode": "",
+    "PhanVungDuLieu": {
+      "MaMuc": "",
+      "TenMuc": ""
+    },
+    "ChiaSeTaiKhoan": [],
+    "ChiaSeVaiTro": []
+  }
+},
+{
+  "_id": {
+    "$oid": "691d6a5fb9130000200007e4"
+  },
+  "MaMuc": "CU",
+  "TenMuc": "Cuba",
+  "Metadata": {
+    "ThoiGianTao": {
+      "$numberLong": "1769754866807"
+    },
+    "ThoiGianCapNhat": {
+      "$numberLong": "1769754866807"
+    },
+    "NguoiTaoLap": "BXD-ADMIN",
+    "ChuSoHuu": "BXD-ADMIN",
+    "TrangThaiDuLieu": "Active",
+    "PhienBanDuLieu": "1",
+    "XuLyDuLieu": "",
+    "QRCode": "",
+    "PhanVungDuLieu": {
+      "MaMuc": "",
+      "TenMuc": ""
+    },
+    "ChiaSeTaiKhoan": [],
+    "ChiaSeVaiTro": []
+  }
+},
+{
+  "_id": {
+    "$oid": "691d6a5fb9130000200007e5"
+  },
+  "MaMuc": "CV",
+  "TenMuc": "Cabo Verde",
+  "Metadata": {
+    "ThoiGianTao": {
+      "$numberLong": "1769754866807"
+    },
+    "ThoiGianCapNhat": {
+      "$numberLong": "1769754866807"
+    },
+    "NguoiTaoLap": "BXD-ADMIN",
+    "ChuSoHuu": "BXD-ADMIN",
+    "TrangThaiDuLieu": "Active",
+    "PhienBanDuLieu": "1",
+    "XuLyDuLieu": "",
+    "QRCode": "",
+    "PhanVungDuLieu": {
+      "MaMuc": "",
+      "TenMuc": ""
+    },
+    "ChiaSeTaiKhoan": [],
+    "ChiaSeVaiTro": []
+  }
+},
+{
+  "_id": {
+    "$oid": "691d6a5fb9130000200007e6"
+  },
+  "MaMuc": "CW",
+  "TenMuc": "Curaçao",
+  "Metadata": {
+    "ThoiGianTao": {
+      "$numberLong": "1769754866807"
+    },
+    "ThoiGianCapNhat": {
+      "$numberLong": "1769754866807"
+    },
+    "NguoiTaoLap": "BXD-ADMIN",
+    "ChuSoHuu": "BXD-ADMIN",
+    "TrangThaiDuLieu": "Active",
+    "PhienBanDuLieu": "1",
+    "XuLyDuLieu": "",
+    "QRCode": "",
+    "PhanVungDuLieu": {
+      "MaMuc": "",
+      "TenMuc": ""
+    },
+    "ChiaSeTaiKhoan": [],
+    "ChiaSeVaiTro": []
+  }
+},
+{
+  "_id": {
+    "$oid": "691d6a5fb9130000200007e7"
+  },
+  "MaMuc": "CX",
+  "TenMuc": "Christmas Island",
+  "Metadata": {
+    "ThoiGianTao": {
+      "$numberLong": "1769754866807"
+    },
+    "ThoiGianCapNhat": {
+      "$numberLong": "1769754866807"
+    },
+    "NguoiTaoLap": "BXD-ADMIN",
+    "ChuSoHuu": "BXD-ADMIN",
+    "TrangThaiDuLieu": "Active",
+    "PhienBanDuLieu": "1",
+    "XuLyDuLieu": "",
+    "QRCode": "",
+    "PhanVungDuLieu": {
+      "MaMuc": "",
+      "TenMuc": ""
+    },
+    "ChiaSeTaiKhoan": [],
+    "ChiaSeVaiTro": []
+  }
+},
+{
+  "_id": {
+    "$oid": "691d6a5fb9130000200007e8"
+  },
+  "MaMuc": "CY",
+  "TenMuc": "Cyprus",
+  "Metadata": {
+    "ThoiGianTao": {
+      "$numberLong": "1769754866807"
+    },
+    "ThoiGianCapNhat": {
+      "$numberLong": "1769754866807"
+    },
+    "NguoiTaoLap": "BXD-ADMIN",
+    "ChuSoHuu": "BXD-ADMIN",
+    "TrangThaiDuLieu": "Active",
+    "PhienBanDuLieu": "1",
+    "XuLyDuLieu": "",
+    "QRCode": "",
+    "PhanVungDuLieu": {
+      "MaMuc": "",
+      "TenMuc": ""
+    },
+    "ChiaSeTaiKhoan": [],
+    "ChiaSeVaiTro": []
+  }
+},
+{
+  "_id": {
+    "$oid": "691d6a5fb9130000200007e9"
+  },
+  "MaMuc": "CZ",
+  "TenMuc": "Czech Republic",
+  "Metadata": {
+    "ThoiGianTao": {
+      "$numberLong": "1769754866807"
+    },
+    "ThoiGianCapNhat": {
+      "$numberLong": "1769754866807"
+    },
+    "NguoiTaoLap": "BXD-ADMIN",
+    "ChuSoHuu": "BXD-ADMIN",
+    "TrangThaiDuLieu": "Active",
+    "PhienBanDuLieu": "1",
+    "XuLyDuLieu": "",
+    "QRCode": "",
+    "PhanVungDuLieu": {
+      "MaMuc": "",
+      "TenMuc": ""
+    },
+    "ChiaSeTaiKhoan": [],
+    "ChiaSeVaiTro": []
+  }
+},
+{
+  "_id": {
+    "$oid": "691d6a5fb9130000200007ea"
+  },
+  "MaMuc": "DE",
+  "TenMuc": "Germany",
+  "Metadata": {
+    "ThoiGianTao": {
+      "$numberLong": "1769754866807"
+    },
+    "ThoiGianCapNhat": {
+      "$numberLong": "1769754866807"
+    },
+    "NguoiTaoLap": "BXD-ADMIN",
+    "ChuSoHuu": "BXD-ADMIN",
+    "TrangThaiDuLieu": "Active",
+    "PhienBanDuLieu": "1",
+    "XuLyDuLieu": "",
+    "QRCode": "",
+    "PhanVungDuLieu": {
+      "MaMuc": "",
+      "TenMuc": ""
+    },
+    "ChiaSeTaiKhoan": [],
+    "ChiaSeVaiTro": []
+  }
+},
+{
+  "_id": {
+    "$oid": "691d6a5fb9130000200007eb"
+  },
+  "MaMuc": "DJ",
+  "TenMuc": "Djibouti",
+  "Metadata": {
+    "ThoiGianTao": {
+      "$numberLong": "1769754866807"
+    },
+    "ThoiGianCapNhat": {
+      "$numberLong": "1769754866807"
+    },
+    "NguoiTaoLap": "BXD-ADMIN",
+    "ChuSoHuu": "BXD-ADMIN",
+    "TrangThaiDuLieu": "Active",
+    "PhienBanDuLieu": "1",
+    "XuLyDuLieu": "",
+    "QRCode": "",
+    "PhanVungDuLieu": {
+      "MaMuc": "",
+      "TenMuc": ""
+    },
+    "ChiaSeTaiKhoan": [],
+    "ChiaSeVaiTro": []
+  }
+},
+{
+  "_id": {
+    "$oid": "691d6a5fb9130000200007ec"
+  },
+  "MaMuc": "DK",
+  "TenMuc": "Denmark",
+  "Metadata": {
+    "ThoiGianTao": {
+      "$numberLong": "1769754866807"
+    },
+    "ThoiGianCapNhat": {
+      "$numberLong": "1769754866807"
+    },
+    "NguoiTaoLap": "BXD-ADMIN",
+    "ChuSoHuu": "BXD-ADMIN",
+    "TrangThaiDuLieu": "Active",
+    "PhienBanDuLieu": "1",
+    "XuLyDuLieu": "",
+    "QRCode": "",
+    "PhanVungDuLieu": {
+      "MaMuc": "",
+      "TenMuc": ""
+    },
+    "ChiaSeTaiKhoan": [],
+    "ChiaSeVaiTro": []
+  }
+},
+{
+  "_id": {
+    "$oid": "691d6a5fb9130000200007ed"
+  },
+  "MaMuc": "DM",
+  "TenMuc": "Dominica",
+  "Metadata": {
+    "ThoiGianTao": {
+      "$numberLong": "1769754866807"
+    },
+    "ThoiGianCapNhat": {
+      "$numberLong": "1769754866807"
+    },
+    "NguoiTaoLap": "BXD-ADMIN",
+    "ChuSoHuu": "BXD-ADMIN",
+    "TrangThaiDuLieu": "Active",
+    "PhienBanDuLieu": "1",
+    "XuLyDuLieu": "",
+    "QRCode": "",
+    "PhanVungDuLieu": {
+      "MaMuc": "",
+      "TenMuc": ""
+    },
+    "ChiaSeTaiKhoan": [],
+    "ChiaSeVaiTro": []
+  }
+},
+{
+  "_id": {
+    "$oid": "691d6a5fb9130000200007ee"
+  },
+  "MaMuc": "DO",
+  "TenMuc": "Dominican Republic",
+  "Metadata": {
+    "ThoiGianTao": {
+      "$numberLong": "1769754866807"
+    },
+    "ThoiGianCapNhat": {
+      "$numberLong": "1769754866807"
+    },
+    "NguoiTaoLap": "BXD-ADMIN",
+    "ChuSoHuu": "BXD-ADMIN",
+    "TrangThaiDuLieu": "Active",
+    "PhienBanDuLieu": "1",
+    "XuLyDuLieu": "",
+    "QRCode": "",
+    "PhanVungDuLieu": {
+      "MaMuc": "",
+      "TenMuc": ""
+    },
+    "ChiaSeTaiKhoan": [],
+    "ChiaSeVaiTro": []
+  }
+},
+{
+  "_id": {
+    "$oid": "691d6a5fb9130000200007ef"
+  },
+  "MaMuc": "DZ",
+  "TenMuc": "Algeria",
+  "Metadata": {
+    "ThoiGianTao": {
+      "$numberLong": "1769754866807"
+    },
+    "ThoiGianCapNhat": {
+      "$numberLong": "1769754866807"
+    },
+    "NguoiTaoLap": "BXD-ADMIN",
+    "ChuSoHuu": "BXD-ADMIN",
+    "TrangThaiDuLieu": "Active",
+    "PhienBanDuLieu": "1",
+    "XuLyDuLieu": "",
+    "QRCode": "",
+    "PhanVungDuLieu": {
+      "MaMuc": "",
+      "TenMuc": ""
+    },
+    "ChiaSeTaiKhoan": [],
+    "ChiaSeVaiTro": []
+  }
+},
+{
+  "_id": {
+    "$oid": "691d6a5fb9130000200007f0"
+  },
+  "MaMuc": "EC",
+  "TenMuc": "Ecuador",
+  "Metadata": {
+    "ThoiGianTao": {
+      "$numberLong": "1769754866807"
+    },
+    "ThoiGianCapNhat": {
+      "$numberLong": "1769754866807"
+    },
+    "NguoiTaoLap": "BXD-ADMIN",
+    "ChuSoHuu": "BXD-ADMIN",
+    "TrangThaiDuLieu": "Active",
+    "PhienBanDuLieu": "1",
+    "XuLyDuLieu": "",
+    "QRCode": "",
+    "PhanVungDuLieu": {
+      "MaMuc": "",
+      "TenMuc": ""
+    },
+    "ChiaSeTaiKhoan": [],
+    "ChiaSeVaiTro": []
+  }
+},
+{
+  "_id": {
+    "$oid": "691d6a5fb9130000200007f1"
+  },
+  "MaMuc": "EE",
+  "TenMuc": "Estonia",
+  "Metadata": {
+    "ThoiGianTao": {
+      "$numberLong": "1769754866807"
+    },
+    "ThoiGianCapNhat": {
+      "$numberLong": "1769754866807"
+    },
+    "NguoiTaoLap": "BXD-ADMIN",
+    "ChuSoHuu": "BXD-ADMIN",
+    "TrangThaiDuLieu": "Active",
+    "PhienBanDuLieu": "1",
+    "XuLyDuLieu": "",
+    "QRCode": "",
+    "PhanVungDuLieu": {
+      "MaMuc": "",
+      "TenMuc": ""
+    },
+    "ChiaSeTaiKhoan": [],
+    "ChiaSeVaiTro": []
+  }
+},
+{
+  "_id": {
+    "$oid": "691d6a5fb9130000200007f2"
+  },
+  "MaMuc": "EG",
+  "TenMuc": "Egypt",
+  "Metadata": {
+    "ThoiGianTao": {
+      "$numberLong": "1769754866807"
+    },
+    "ThoiGianCapNhat": {
+      "$numberLong": "1769754866807"
+    },
+    "NguoiTaoLap": "BXD-ADMIN",
+    "ChuSoHuu": "BXD-ADMIN",
+    "TrangThaiDuLieu": "Active",
+    "PhienBanDuLieu": "1",
+    "XuLyDuLieu": "",
+    "QRCode": "",
+    "PhanVungDuLieu": {
+      "MaMuc": "",
+      "TenMuc": ""
+    },
+    "ChiaSeTaiKhoan": [],
+    "ChiaSeVaiTro": []
+  }
+},
+{
+  "_id": {
+    "$oid": "691d6a5fb9130000200007f3"
+  },
+  "MaMuc": "EH",
+  "TenMuc": "Western Sahara",
+  "Metadata": {
+    "ThoiGianTao": {
+      "$numberLong": "1769754866807"
+    },
+    "ThoiGianCapNhat": {
+      "$numberLong": "1769754866807"
+    },
+    "NguoiTaoLap": "BXD-ADMIN",
+    "ChuSoHuu": "BXD-ADMIN",
+    "TrangThaiDuLieu": "Active",
+    "PhienBanDuLieu": "1",
+    "XuLyDuLieu": "",
+    "QRCode": "",
+    "PhanVungDuLieu": {
+      "MaMuc": "",
+      "TenMuc": ""
+    },
+    "ChiaSeTaiKhoan": [],
+    "ChiaSeVaiTro": []
+  }
+},
+{
+  "_id": {
+    "$oid": "691d6a5fb9130000200007f4"
+  },
+  "MaMuc": "ER",
+  "TenMuc": "Eritrea",
+  "Metadata": {
+    "ThoiGianTao": {
+      "$numberLong": "1769754866807"
+    },
+    "ThoiGianCapNhat": {
+      "$numberLong": "1769754866807"
+    },
+    "NguoiTaoLap": "BXD-ADMIN",
+    "ChuSoHuu": "BXD-ADMIN",
+    "TrangThaiDuLieu": "Active",
+    "PhienBanDuLieu": "1",
+    "XuLyDuLieu": "",
+    "QRCode": "",
+    "PhanVungDuLieu": {
+      "MaMuc": "",
+      "TenMuc": ""
+    },
+    "ChiaSeTaiKhoan": [],
+    "ChiaSeVaiTro": []
+  }
+},
+{
+  "_id": {
+    "$oid": "691d6a5fb9130000200007f5"
+  },
+  "MaMuc": "ES",
+  "TenMuc": "Spain",
+  "Metadata": {
+    "ThoiGianTao": {
+      "$numberLong": "1769754866807"
+    },
+    "ThoiGianCapNhat": {
+      "$numberLong": "1769754866807"
+    },
+    "NguoiTaoLap": "BXD-ADMIN",
+    "ChuSoHuu": "BXD-ADMIN",
+    "TrangThaiDuLieu": "Active",
+    "PhienBanDuLieu": "1",
+    "XuLyDuLieu": "",
+    "QRCode": "",
+    "PhanVungDuLieu": {
+      "MaMuc": "",
+      "TenMuc": ""
+    },
+    "ChiaSeTaiKhoan": [],
+    "ChiaSeVaiTro": []
+  }
+},
+{
+  "_id": {
+    "$oid": "691d6a5fb9130000200007f6"
+  },
+  "MaMuc": "ET",
+  "TenMuc": "Ethiopia",
+  "Metadata": {
+    "ThoiGianTao": {
+      "$numberLong": "1769754866807"
+    },
+    "ThoiGianCapNhat": {
+      "$numberLong": "1769754866807"
+    },
+    "NguoiTaoLap": "BXD-ADMIN",
+    "ChuSoHuu": "BXD-ADMIN",
+    "TrangThaiDuLieu": "Active",
+    "PhienBanDuLieu": "1",
+    "XuLyDuLieu": "",
+    "QRCode": "",
+    "PhanVungDuLieu": {
+      "MaMuc": "",
+      "TenMuc": ""
+    },
+    "ChiaSeTaiKhoan": [],
+    "ChiaSeVaiTro": []
+  }
+},
+{
+  "_id": {
+    "$oid": "691d6a5fb9130000200007f7"
+  },
+  "MaMuc": "FI",
+  "TenMuc": "Finland",
+  "Metadata": {
+    "ThoiGianTao": {
+      "$numberLong": "1769754866807"
+    },
+    "ThoiGianCapNhat": {
+      "$numberLong": "1769754866807"
+    },
+    "NguoiTaoLap": "BXD-ADMIN",
+    "ChuSoHuu": "BXD-ADMIN",
+    "TrangThaiDuLieu": "Active",
+    "PhienBanDuLieu": "1",
+    "XuLyDuLieu": "",
+    "QRCode": "",
+    "PhanVungDuLieu": {
+      "MaMuc": "",
+      "TenMuc": ""
+    },
+    "ChiaSeTaiKhoan": [],
+    "ChiaSeVaiTro": []
+  }
+},
+{
+  "_id": {
+    "$oid": "691d6a5fb9130000200007f8"
+  },
+  "MaMuc": "FJ",
+  "TenMuc": "Fiji",
+  "Metadata": {
+    "ThoiGianTao": {
+      "$numberLong": "1769754866807"
+    },
+    "ThoiGianCapNhat": {
+      "$numberLong": "1769754866807"
+    },
+    "NguoiTaoLap": "BXD-ADMIN",
+    "ChuSoHuu": "BXD-ADMIN",
+    "TrangThaiDuLieu": "Active",
+    "PhienBanDuLieu": "1",
+    "XuLyDuLieu": "",
+    "QRCode": "",
+    "PhanVungDuLieu": {
+      "MaMuc": "",
+      "TenMuc": ""
+    },
+    "ChiaSeTaiKhoan": [],
+    "ChiaSeVaiTro": []
+  }
+},
+{
+  "_id": {
+    "$oid": "691d6a5fb9130000200007f9"
+  },
+  "MaMuc": "FK",
+  "TenMuc": "Falkland Islands (Malvinas)",
+  "Metadata": {
+    "ThoiGianTao": {
+      "$numberLong": "1769754866807"
+    },
+    "ThoiGianCapNhat": {
+      "$numberLong": "1769754866807"
+    },
+    "NguoiTaoLap": "BXD-ADMIN",
+    "ChuSoHuu": "BXD-ADMIN",
+    "TrangThaiDuLieu": "Active",
+    "PhienBanDuLieu": "1",
+    "XuLyDuLieu": "",
+    "QRCode": "",
+    "PhanVungDuLieu": {
+      "MaMuc": "",
+      "TenMuc": ""
+    },
+    "ChiaSeTaiKhoan": [],
+    "ChiaSeVaiTro": []
+  }
+},
+{
+  "_id": {
+    "$oid": "691d6a5fb9130000200007fa"
+  },
+  "MaMuc": "FM",
+  "TenMuc": "Micronesia, Federated States of",
+  "Metadata": {
+    "ThoiGianTao": {
+      "$numberLong": "1769754866807"
+    },
+    "ThoiGianCapNhat": {
+      "$numberLong": "1769754866807"
+    },
+    "NguoiTaoLap": "BXD-ADMIN",
+    "ChuSoHuu": "BXD-ADMIN",
+    "TrangThaiDuLieu": "Active",
+    "PhienBanDuLieu": "1",
+    "XuLyDuLieu": "",
+    "QRCode": "",
+    "PhanVungDuLieu": {
+      "MaMuc": "",
+      "TenMuc": ""
+    },
+    "ChiaSeTaiKhoan": [],
+    "ChiaSeVaiTro": []
+  }
+},
+{
+  "_id": {
+    "$oid": "691d6a5fb9130000200007fb"
+  },
+  "MaMuc": "FO",
+  "TenMuc": "Faroe Islands",
+  "Metadata": {
+    "ThoiGianTao": {
+      "$numberLong": "1769754866807"
+    },
+    "ThoiGianCapNhat": {
+      "$numberLong": "1769754866807"
+    },
+    "NguoiTaoLap": "BXD-ADMIN",
+    "ChuSoHuu": "BXD-ADMIN",
+    "TrangThaiDuLieu": "Active",
+    "PhienBanDuLieu": "1",
+    "XuLyDuLieu": "",
+    "QRCode": "",
+    "PhanVungDuLieu": {
+      "MaMuc": "",
+      "TenMuc": ""
+    },
+    "ChiaSeTaiKhoan": [],
+    "ChiaSeVaiTro": []
+  }
+},
+{
+  "_id": {
+    "$oid": "691d6a5fb9130000200007fc"
+  },
+  "MaMuc": "FR",
+  "TenMuc": "France",
+  "Metadata": {
+    "ThoiGianTao": {
+      "$numberLong": "1769754866807"
+    },
+    "ThoiGianCapNhat": {
+      "$numberLong": "1769754866807"
+    },
+    "NguoiTaoLap": "BXD-ADMIN",
+    "ChuSoHuu": "BXD-ADMIN",
+    "TrangThaiDuLieu": "Active",
+    "PhienBanDuLieu": "1",
+    "XuLyDuLieu": "",
+    "QRCode": "",
+    "PhanVungDuLieu": {
+      "MaMuc": "",
+      "TenMuc": ""
+    },
+    "ChiaSeTaiKhoan": [],
+    "ChiaSeVaiTro": []
+  }
+},
+{
+  "_id": {
+    "$oid": "691d6a5fb9130000200007fd"
+  },
+  "MaMuc": "GA",
+  "TenMuc": "Gabon",
+  "Metadata": {
+    "ThoiGianTao": {
+      "$numberLong": "1769754866807"
+    },
+    "ThoiGianCapNhat": {
+      "$numberLong": "1769754866807"
+    },
+    "NguoiTaoLap": "BXD-ADMIN",
+    "ChuSoHuu": "BXD-ADMIN",
+    "TrangThaiDuLieu": "Active",
+    "PhienBanDuLieu": "1",
+    "XuLyDuLieu": "",
+    "QRCode": "",
+    "PhanVungDuLieu": {
+      "MaMuc": "",
+      "TenMuc": ""
+    },
+    "ChiaSeTaiKhoan": [],
+    "ChiaSeVaiTro": []
+  }
+},
+{
+  "_id": {
+    "$oid": "691d6a5fb9130000200007fe"
+  },
+  "MaMuc": "GB",
+  "TenMuc": "United Kingdom of Great Britain and Northern Ireland",
+  "Metadata": {
+    "ThoiGianTao": {
+      "$numberLong": "1769754866807"
+    },
+    "ThoiGianCapNhat": {
+      "$numberLong": "1769754866807"
+    },
+    "NguoiTaoLap": "BXD-ADMIN",
+    "ChuSoHuu": "BXD-ADMIN",
+    "TrangThaiDuLieu": "Active",
+    "PhienBanDuLieu": "1",
+    "XuLyDuLieu": "",
+    "QRCode": "",
+    "PhanVungDuLieu": {
+      "MaMuc": "",
+      "TenMuc": ""
+    },
+    "ChiaSeTaiKhoan": [],
+    "ChiaSeVaiTro": []
+  }
+},
+{
+  "_id": {
+    "$oid": "691d6a5fb9130000200007ff"
+  },
+  "MaMuc": "GD",
+  "TenMuc": "Grenada",
+  "Metadata": {
+    "ThoiGianTao": {
+      "$numberLong": "1769754866807"
+    },
+    "ThoiGianCapNhat": {
+      "$numberLong": "1769754866807"
+    },
+    "NguoiTaoLap": "BXD-ADMIN",
+    "ChuSoHuu": "BXD-ADMIN",
+    "TrangThaiDuLieu": "Active",
+    "PhienBanDuLieu": "1",
+    "XuLyDuLieu": "",
+    "QRCode": "",
+    "PhanVungDuLieu": {
+      "MaMuc": "",
+      "TenMuc": ""
+    },
+    "ChiaSeTaiKhoan": [],
+    "ChiaSeVaiTro": []
+  }
+},
+{
+  "_id": {
+    "$oid": "691d6a5fb913000020000800"
+  },
+  "MaMuc": "GE",
+  "TenMuc": "Georgia",
+  "Metadata": {
+    "ThoiGianTao": {
+      "$numberLong": "1769754866807"
+    },
+    "ThoiGianCapNhat": {
+      "$numberLong": "1769754866807"
+    },
+    "NguoiTaoLap": "BXD-ADMIN",
+    "ChuSoHuu": "BXD-ADMIN",
+    "TrangThaiDuLieu": "Active",
+    "PhienBanDuLieu": "1",
+    "XuLyDuLieu": "",
+    "QRCode": "",
+    "PhanVungDuLieu": {
+      "MaMuc": "",
+      "TenMuc": ""
+    },
+    "ChiaSeTaiKhoan": [],
+    "ChiaSeVaiTro": []
+  }
+},
+{
+  "_id": {
+    "$oid": "691d6a5fb913000020000801"
+  },
+  "MaMuc": "GF",
+  "TenMuc": "French Guiana",
+  "Metadata": {
+    "ThoiGianTao": {
+      "$numberLong": "1769754866807"
+    },
+    "ThoiGianCapNhat": {
+      "$numberLong": "1769754866807"
+    },
+    "NguoiTaoLap": "BXD-ADMIN",
+    "ChuSoHuu": "BXD-ADMIN",
+    "TrangThaiDuLieu": "Active",
+    "PhienBanDuLieu": "1",
+    "XuLyDuLieu": "",
+    "QRCode": "",
+    "PhanVungDuLieu": {
+      "MaMuc": "",
+      "TenMuc": ""
+    },
+    "ChiaSeTaiKhoan": [],
+    "ChiaSeVaiTro": []
+  }
+},
+{
+  "_id": {
+    "$oid": "691d6a5fb913000020000802"
+  },
+  "MaMuc": "GG",
+  "TenMuc": "Guernsey",
+  "Metadata": {
+    "ThoiGianTao": {
+      "$numberLong": "1769754866807"
+    },
+    "ThoiGianCapNhat": {
+      "$numberLong": "1769754866807"
+    },
+    "NguoiTaoLap": "BXD-ADMIN",
+    "ChuSoHuu": "BXD-ADMIN",
+    "TrangThaiDuLieu": "Active",
+    "PhienBanDuLieu": "1",
+    "XuLyDuLieu": "",
+    "QRCode": "",
+    "PhanVungDuLieu": {
+      "MaMuc": "",
+      "TenMuc": ""
+    },
+    "ChiaSeTaiKhoan": [],
+    "ChiaSeVaiTro": []
+  }
+},
+{
+  "_id": {
+    "$oid": "691d6a5fb913000020000803"
+  },
+  "MaMuc": "GH",
+  "TenMuc": "Ghana",
+  "Metadata": {
+    "ThoiGianTao": {
+      "$numberLong": "1769754866807"
+    },
+    "ThoiGianCapNhat": {
+      "$numberLong": "1769754866807"
+    },
+    "NguoiTaoLap": "BXD-ADMIN",
+    "ChuSoHuu": "BXD-ADMIN",
+    "TrangThaiDuLieu": "Active",
+    "PhienBanDuLieu": "1",
+    "XuLyDuLieu": "",
+    "QRCode": "",
+    "PhanVungDuLieu": {
+      "MaMuc": "",
+      "TenMuc": ""
+    },
+    "ChiaSeTaiKhoan": [],
+    "ChiaSeVaiTro": []
+  }
+},
+{
+  "_id": {
+    "$oid": "691d6a5fb913000020000804"
+  },
+  "MaMuc": "GI",
+  "TenMuc": "Gibraltar",
+  "Metadata": {
+    "ThoiGianTao": {
+      "$numberLong": "1769754866807"
+    },
+    "ThoiGianCapNhat": {
+      "$numberLong": "1769754866807"
+    },
+    "NguoiTaoLap": "BXD-ADMIN",
+    "ChuSoHuu": "BXD-ADMIN",
+    "TrangThaiDuLieu": "Active",
+    "PhienBanDuLieu": "1",
+    "XuLyDuLieu": "",
+    "QRCode": "",
+    "PhanVungDuLieu": {
+      "MaMuc": "",
+      "TenMuc": ""
+    },
+    "ChiaSeTaiKhoan": [],
+    "ChiaSeVaiTro": []
+  }
+},
+{
+  "_id": {
+    "$oid": "691d6a5fb913000020000805"
+  },
+  "MaMuc": "GL",
+  "TenMuc": "Greenland",
+  "Metadata": {
+    "ThoiGianTao": {
+      "$numberLong": "1769754866807"
+    },
+    "ThoiGianCapNhat": {
+      "$numberLong": "1769754866807"
+    },
+    "NguoiTaoLap": "BXD-ADMIN",
+    "ChuSoHuu": "BXD-ADMIN",
+    "TrangThaiDuLieu": "Active",
+    "PhienBanDuLieu": "1",
+    "XuLyDuLieu": "",
+    "QRCode": "",
+    "PhanVungDuLieu": {
+      "MaMuc": "",
+      "TenMuc": ""
+    },
+    "ChiaSeTaiKhoan": [],
+    "ChiaSeVaiTro": []
+  }
+},
+{
+  "_id": {
+    "$oid": "691d6a5fb913000020000806"
+  },
+  "MaMuc": "GM",
+  "TenMuc": "Gambia",
+  "Metadata": {
+    "ThoiGianTao": {
+      "$numberLong": "1769754866807"
+    },
+    "ThoiGianCapNhat": {
+      "$numberLong": "1769754866807"
+    },
+    "NguoiTaoLap": "BXD-ADMIN",
+    "ChuSoHuu": "BXD-ADMIN",
+    "TrangThaiDuLieu": "Active",
+    "PhienBanDuLieu": "1",
+    "XuLyDuLieu": "",
+    "QRCode": "",
+    "PhanVungDuLieu": {
+      "MaMuc": "",
+      "TenMuc": ""
+    },
+    "ChiaSeTaiKhoan": [],
+    "ChiaSeVaiTro": []
+  }
+},
+{
+  "_id": {
+    "$oid": "691d6a5fb913000020000807"
+  },
+  "MaMuc": "GN",
+  "TenMuc": "Guinea",
+  "Metadata": {
+    "ThoiGianTao": {
+      "$numberLong": "1769754866807"
+    },
+    "ThoiGianCapNhat": {
+      "$numberLong": "1769754866807"
+    },
+    "NguoiTaoLap": "BXD-ADMIN",
+    "ChuSoHuu": "BXD-ADMIN",
+    "TrangThaiDuLieu": "Active",
+    "PhienBanDuLieu": "1",
+    "XuLyDuLieu": "",
+    "QRCode": "",
+    "PhanVungDuLieu": {
+      "MaMuc": "",
+      "TenMuc": ""
+    },
+    "ChiaSeTaiKhoan": [],
+    "ChiaSeVaiTro": []
+  }
+},
+{
+  "_id": {
+    "$oid": "691d6a5fb913000020000808"
+  },
+  "MaMuc": "GP",
+  "TenMuc": "Guadeloupe",
+  "Metadata": {
+    "ThoiGianTao": {
+      "$numberLong": "1769754866807"
+    },
+    "ThoiGianCapNhat": {
+      "$numberLong": "1769754866807"
+    },
+    "NguoiTaoLap": "BXD-ADMIN",
+    "ChuSoHuu": "BXD-ADMIN",
+    "TrangThaiDuLieu": "Active",
+    "PhienBanDuLieu": "1",
+    "XuLyDuLieu": "",
+    "QRCode": "",
+    "PhanVungDuLieu": {
+      "MaMuc": "",
+      "TenMuc": ""
+    },
+    "ChiaSeTaiKhoan": [],
+    "ChiaSeVaiTro": []
+  }
+},
+{
+  "_id": {
+    "$oid": "691d6a5fb913000020000809"
+  },
+  "MaMuc": "GQ",
+  "TenMuc": "Equatorial Guinea",
+  "Metadata": {
+    "ThoiGianTao": {
+      "$numberLong": "1769754866807"
+    },
+    "ThoiGianCapNhat": {
+      "$numberLong": "1769754866807"
+    },
+    "NguoiTaoLap": "BXD-ADMIN",
+    "ChuSoHuu": "BXD-ADMIN",
+    "TrangThaiDuLieu": "Active",
+    "PhienBanDuLieu": "1",
+    "XuLyDuLieu": "",
+    "QRCode": "",
+    "PhanVungDuLieu": {
+      "MaMuc": "",
+      "TenMuc": ""
+    },
+    "ChiaSeTaiKhoan": [],
+    "ChiaSeVaiTro": []
+  }
+},
+{
+  "_id": {
+    "$oid": "691d6a5fb91300002000080a"
+  },
+  "MaMuc": "GR",
+  "TenMuc": "Greece",
+  "Metadata": {
+    "ThoiGianTao": {
+      "$numberLong": "1769754866807"
+    },
+    "ThoiGianCapNhat": {
+      "$numberLong": "1769754866807"
+    },
+    "NguoiTaoLap": "BXD-ADMIN",
+    "ChuSoHuu": "BXD-ADMIN",
+    "TrangThaiDuLieu": "Active",
+    "PhienBanDuLieu": "1",
+    "XuLyDuLieu": "",
+    "QRCode": "",
+    "PhanVungDuLieu": {
+      "MaMuc": "",
+      "TenMuc": ""
+    },
+    "ChiaSeTaiKhoan": [],
+    "ChiaSeVaiTro": []
+  }
+},
+{
+  "_id": {
+    "$oid": "691d6a5fb91300002000080b"
+  },
+  "MaMuc": "GS",
+  "TenMuc": "South Georgia and the South Sandwich Islands",
+  "Metadata": {
+    "ThoiGianTao": {
+      "$numberLong": "1769754866807"
+    },
+    "ThoiGianCapNhat": {
+      "$numberLong": "1769754866807"
+    },
+    "NguoiTaoLap": "BXD-ADMIN",
+    "ChuSoHuu": "BXD-ADMIN",
+    "TrangThaiDuLieu": "Active",
+    "PhienBanDuLieu": "1",
+    "XuLyDuLieu": "",
+    "QRCode": "",
+    "PhanVungDuLieu": {
+      "MaMuc": "",
+      "TenMuc": ""
+    },
+    "ChiaSeTaiKhoan": [],
+    "ChiaSeVaiTro": []
+  }
+},
+{
+  "_id": {
+    "$oid": "691d6a5fb91300002000080c"
+  },
+  "MaMuc": "GT",
+  "TenMuc": "Guatemala",
+  "Metadata": {
+    "ThoiGianTao": {
+      "$numberLong": "1769754866807"
+    },
+    "ThoiGianCapNhat": {
+      "$numberLong": "1769754866807"
+    },
+    "NguoiTaoLap": "BXD-ADMIN",
+    "ChuSoHuu": "BXD-ADMIN",
+    "TrangThaiDuLieu": "Active",
+    "PhienBanDuLieu": "1",
+    "XuLyDuLieu": "",
+    "QRCode": "",
+    "PhanVungDuLieu": {
+      "MaMuc": "",
+      "TenMuc": ""
+    },
+    "ChiaSeTaiKhoan": [],
+    "ChiaSeVaiTro": []
+  }
+},
+{
+  "_id": {
+    "$oid": "691d6a5fb91300002000080d"
+  },
+  "MaMuc": "GU",
+  "TenMuc": "Guam",
+  "Metadata": {
+    "ThoiGianTao": {
+      "$numberLong": "1769754866807"
+    },
+    "ThoiGianCapNhat": {
+      "$numberLong": "1769754866807"
+    },
+    "NguoiTaoLap": "BXD-ADMIN",
+    "ChuSoHuu": "BXD-ADMIN",
+    "TrangThaiDuLieu": "Active",
+    "PhienBanDuLieu": "1",
+    "XuLyDuLieu": "",
+    "QRCode": "",
+    "PhanVungDuLieu": {
+      "MaMuc": "",
+      "TenMuc": ""
+    },
+    "ChiaSeTaiKhoan": [],
+    "ChiaSeVaiTro": []
+  }
+},
+{
+  "_id": {
+    "$oid": "691d6a5fb91300002000080e"
+  },
+  "MaMuc": "GW",
+  "TenMuc": "Guinea-Bissau",
+  "Metadata": {
+    "ThoiGianTao": {
+      "$numberLong": "1769754866807"
+    },
+    "ThoiGianCapNhat": {
+      "$numberLong": "1769754866807"
+    },
+    "NguoiTaoLap": "BXD-ADMIN",
+    "ChuSoHuu": "BXD-ADMIN",
+    "TrangThaiDuLieu": "Active",
+    "PhienBanDuLieu": "1",
+    "XuLyDuLieu": "",
+    "QRCode": "",
+    "PhanVungDuLieu": {
+      "MaMuc": "",
+      "TenMuc": ""
+    },
+    "ChiaSeTaiKhoan": [],
+    "ChiaSeVaiTro": []
+  }
+},
+{
+  "_id": {
+    "$oid": "691d6a5fb91300002000080f"
+  },
+  "MaMuc": "GY",
+  "TenMuc": "Guyana",
+  "Metadata": {
+    "ThoiGianTao": {
+      "$numberLong": "1769754866807"
+    },
+    "ThoiGianCapNhat": {
+      "$numberLong": "1769754866807"
+    },
+    "NguoiTaoLap": "BXD-ADMIN",
+    "ChuSoHuu": "BXD-ADMIN",
+    "TrangThaiDuLieu": "Active",
+    "PhienBanDuLieu": "1",
+    "XuLyDuLieu": "",
+    "QRCode": "",
+    "PhanVungDuLieu": {
+      "MaMuc": "",
+      "TenMuc": ""
+    },
+    "ChiaSeTaiKhoan": [],
+    "ChiaSeVaiTro": []
+  }
+},
+{
+  "_id": {
+    "$oid": "691d6a5fb913000020000810"
+  },
+  "MaMuc": "HK",
+  "TenMuc": "Hong Kong",
+  "Metadata": {
+    "ThoiGianTao": {
+      "$numberLong": "1769754866807"
+    },
+    "ThoiGianCapNhat": {
+      "$numberLong": "1769754866807"
+    },
+    "NguoiTaoLap": "BXD-ADMIN",
+    "ChuSoHuu": "BXD-ADMIN",
+    "TrangThaiDuLieu": "Active",
+    "PhienBanDuLieu": "1",
+    "XuLyDuLieu": "",
+    "QRCode": "",
+    "PhanVungDuLieu": {
+      "MaMuc": "",
+      "TenMuc": ""
+    },
+    "ChiaSeTaiKhoan": [],
+    "ChiaSeVaiTro": []
+  }
+},
+{
+  "_id": {
+    "$oid": "691d6a5fb913000020000811"
+  },
+  "MaMuc": "HM",
+  "TenMuc": "Heard Island and McDonald Islands",
+  "Metadata": {
+    "ThoiGianTao": {
+      "$numberLong": "1769754866807"
+    },
+    "ThoiGianCapNhat": {
+      "$numberLong": "1769754866807"
+    },
+    "NguoiTaoLap": "BXD-ADMIN",
+    "ChuSoHuu": "BXD-ADMIN",
+    "TrangThaiDuLieu": "Active",
+    "PhienBanDuLieu": "1",
+    "XuLyDuLieu": "",
+    "QRCode": "",
+    "PhanVungDuLieu": {
+      "MaMuc": "",
+      "TenMuc": ""
+    },
+    "ChiaSeTaiKhoan": [],
+    "ChiaSeVaiTro": []
+  }
+},
+{
+  "_id": {
+    "$oid": "691d6a5fb913000020000812"
+  },
+  "MaMuc": "HN",
+  "TenMuc": "Honduras",
+  "Metadata": {
+    "ThoiGianTao": {
+      "$numberLong": "1769754866807"
+    },
+    "ThoiGianCapNhat": {
+      "$numberLong": "1769754866807"
+    },
+    "NguoiTaoLap": "BXD-ADMIN",
+    "ChuSoHuu": "BXD-ADMIN",
+    "TrangThaiDuLieu": "Active",
+    "PhienBanDuLieu": "1",
+    "XuLyDuLieu": "",
+    "QRCode": "",
+    "PhanVungDuLieu": {
+      "MaMuc": "",
+      "TenMuc": ""
+    },
+    "ChiaSeTaiKhoan": [],
+    "ChiaSeVaiTro": []
+  }
+},
+{
+  "_id": {
+    "$oid": "691d6a5fb913000020000813"
+  },
+  "MaMuc": "HR",
+  "TenMuc": "Croatia",
+  "Metadata": {
+    "ThoiGianTao": {
+      "$numberLong": "1769754866807"
+    },
+    "ThoiGianCapNhat": {
+      "$numberLong": "1769754866807"
+    },
+    "NguoiTaoLap": "BXD-ADMIN",
+    "ChuSoHuu": "BXD-ADMIN",
+    "TrangThaiDuLieu": "Active",
+    "PhienBanDuLieu": "1",
+    "XuLyDuLieu": "",
+    "QRCode": "",
+    "PhanVungDuLieu": {
+      "MaMuc": "",
+      "TenMuc": ""
+    },
+    "ChiaSeTaiKhoan": [],
+    "ChiaSeVaiTro": []
+  }
+},
+{
+  "_id": {
+    "$oid": "691d6a5fb913000020000814"
+  },
+  "MaMuc": "HT",
+  "TenMuc": "Haiti",
+  "Metadata": {
+    "ThoiGianTao": {
+      "$numberLong": "1769754866807"
+    },
+    "ThoiGianCapNhat": {
+      "$numberLong": "1769754866807"
+    },
+    "NguoiTaoLap": "BXD-ADMIN",
+    "ChuSoHuu": "BXD-ADMIN",
+    "TrangThaiDuLieu": "Active",
+    "PhienBanDuLieu": "1",
+    "XuLyDuLieu": "",
+    "QRCode": "",
+    "PhanVungDuLieu": {
+      "MaMuc": "",
+      "TenMuc": ""
+    },
+    "ChiaSeTaiKhoan": [],
+    "ChiaSeVaiTro": []
+  }
+},
+{
+  "_id": {
+    "$oid": "691d6a5fb913000020000815"
+  },
+  "MaMuc": "HU",
+  "TenMuc": "Hungary",
+  "Metadata": {
+    "ThoiGianTao": {
+      "$numberLong": "1769754866807"
+    },
+    "ThoiGianCapNhat": {
+      "$numberLong": "1769754866807"
+    },
+    "NguoiTaoLap": "BXD-ADMIN",
+    "ChuSoHuu": "BXD-ADMIN",
+    "TrangThaiDuLieu": "Active",
+    "PhienBanDuLieu": "1",
+    "XuLyDuLieu": "",
+    "QRCode": "",
+    "PhanVungDuLieu": {
+      "MaMuc": "",
+      "TenMuc": ""
+    },
+    "ChiaSeTaiKhoan": [],
+    "ChiaSeVaiTro": []
+  }
+},
+{
+  "_id": {
+    "$oid": "691d6a60b913000020000816"
+  },
+  "MaMuc": "ID",
+  "TenMuc": "Indonesia",
+  "Metadata": {
+    "ThoiGianTao": {
+      "$numberLong": "1769754866807"
+    },
+    "ThoiGianCapNhat": {
+      "$numberLong": "1769754866807"
+    },
+    "NguoiTaoLap": "BXD-ADMIN",
+    "ChuSoHuu": "BXD-ADMIN",
+    "TrangThaiDuLieu": "Active",
+    "PhienBanDuLieu": "1",
+    "XuLyDuLieu": "",
+    "QRCode": "",
+    "PhanVungDuLieu": {
+      "MaMuc": "",
+      "TenMuc": ""
+    },
+    "ChiaSeTaiKhoan": [],
+    "ChiaSeVaiTro": []
+  }
+},
+{
+  "_id": {
+    "$oid": "691d6a60b913000020000817"
+  },
+  "MaMuc": "IE",
+  "TenMuc": "Ireland",
+  "Metadata": {
+    "ThoiGianTao": {
+      "$numberLong": "1769754866807"
+    },
+    "ThoiGianCapNhat": {
+      "$numberLong": "1769754866807"
+    },
+    "NguoiTaoLap": "BXD-ADMIN",
+    "ChuSoHuu": "BXD-ADMIN",
+    "TrangThaiDuLieu": "Active",
+    "PhienBanDuLieu": "1",
+    "XuLyDuLieu": "",
+    "QRCode": "",
+    "PhanVungDuLieu": {
+      "MaMuc": "",
+      "TenMuc": ""
+    },
+    "ChiaSeTaiKhoan": [],
+    "ChiaSeVaiTro": []
+  }
+},
+{
+  "_id": {
+    "$oid": "691d6a60b913000020000818"
+  },
+  "MaMuc": "IL",
+  "TenMuc": "Israel",
+  "Metadata": {
+    "ThoiGianTao": {
+      "$numberLong": "1769754866807"
+    },
+    "ThoiGianCapNhat": {
+      "$numberLong": "1769754866807"
+    },
+    "NguoiTaoLap": "BXD-ADMIN",
+    "ChuSoHuu": "BXD-ADMIN",
+    "TrangThaiDuLieu": "Active",
+    "PhienBanDuLieu": "1",
+    "XuLyDuLieu": "",
+    "QRCode": "",
+    "PhanVungDuLieu": {
+      "MaMuc": "",
+      "TenMuc": ""
+    },
+    "ChiaSeTaiKhoan": [],
+    "ChiaSeVaiTro": []
+  }
+},
+{
+  "_id": {
+    "$oid": "691d6a60b913000020000819"
+  },
+  "MaMuc": "IM",
+  "TenMuc": "Isle of Man",
+  "Metadata": {
+    "ThoiGianTao": {
+      "$numberLong": "1769754866807"
+    },
+    "ThoiGianCapNhat": {
+      "$numberLong": "1769754866807"
+    },
+    "NguoiTaoLap": "BXD-ADMIN",
+    "ChuSoHuu": "BXD-ADMIN",
+    "TrangThaiDuLieu": "Active",
+    "PhienBanDuLieu": "1",
+    "XuLyDuLieu": "",
+    "QRCode": "",
+    "PhanVungDuLieu": {
+      "MaMuc": "",
+      "TenMuc": ""
+    },
+    "ChiaSeTaiKhoan": [],
+    "ChiaSeVaiTro": []
+  }
+},
+{
+  "_id": {
+    "$oid": "691d6a60b91300002000081a"
+  },
+  "MaMuc": "IN",
+  "TenMuc": "India",
+  "Metadata": {
+    "ThoiGianTao": {
+      "$numberLong": "1769754866807"
+    },
+    "ThoiGianCapNhat": {
+      "$numberLong": "1769754866807"
+    },
+    "NguoiTaoLap": "BXD-ADMIN",
+    "ChuSoHuu": "BXD-ADMIN",
+    "TrangThaiDuLieu": "Active",
+    "PhienBanDuLieu": "1",
+    "XuLyDuLieu": "",
+    "QRCode": "",
+    "PhanVungDuLieu": {
+      "MaMuc": "",
+      "TenMuc": ""
+    },
+    "ChiaSeTaiKhoan": [],
+    "ChiaSeVaiTro": []
+  }
+},
+{
+  "_id": {
+    "$oid": "691d6a60b91300002000081b"
+  },
+  "MaMuc": "IO",
+  "TenMuc": "British Indian Ocean Territory",
+  "Metadata": {
+    "ThoiGianTao": {
+      "$numberLong": "1769754866807"
+    },
+    "ThoiGianCapNhat": {
+      "$numberLong": "1769754866807"
+    },
+    "NguoiTaoLap": "BXD-ADMIN",
+    "ChuSoHuu": "BXD-ADMIN",
+    "TrangThaiDuLieu": "Active",
+    "PhienBanDuLieu": "1",
+    "XuLyDuLieu": "",
+    "QRCode": "",
+    "PhanVungDuLieu": {
+      "MaMuc": "",
+      "TenMuc": ""
+    },
+    "ChiaSeTaiKhoan": [],
+    "ChiaSeVaiTro": []
+  }
+},
+{
+  "_id": {
+    "$oid": "691d6a60b91300002000081c"
+  },
+  "MaMuc": "IQ",
+  "TenMuc": "Iraq",
+  "Metadata": {
+    "ThoiGianTao": {
+      "$numberLong": "1769754866807"
+    },
+    "ThoiGianCapNhat": {
+      "$numberLong": "1769754866807"
+    },
+    "NguoiTaoLap": "BXD-ADMIN",
+    "ChuSoHuu": "BXD-ADMIN",
+    "TrangThaiDuLieu": "Active",
+    "PhienBanDuLieu": "1",
+    "XuLyDuLieu": "",
+    "QRCode": "",
+    "PhanVungDuLieu": {
+      "MaMuc": "",
+      "TenMuc": ""
+    },
+    "ChiaSeTaiKhoan": [],
+    "ChiaSeVaiTro": []
+  }
+},
+{
+  "_id": {
+    "$oid": "691d6a60b91300002000081d"
+  },
+  "MaMuc": "IR",
+  "TenMuc": "Iran, Islamic Republic of",
+  "Metadata": {
+    "ThoiGianTao": {
+      "$numberLong": "1769754866807"
+    },
+    "ThoiGianCapNhat": {
+      "$numberLong": "1769754866807"
+    },
+    "NguoiTaoLap": "BXD-ADMIN",
+    "ChuSoHuu": "BXD-ADMIN",
+    "TrangThaiDuLieu": "Active",
+    "PhienBanDuLieu": "1",
+    "XuLyDuLieu": "",
+    "QRCode": "",
+    "PhanVungDuLieu": {
+      "MaMuc": "",
+      "TenMuc": ""
+    },
+    "ChiaSeTaiKhoan": [],
+    "ChiaSeVaiTro": []
+  }
+},
+{
+  "_id": {
+    "$oid": "691d6a60b91300002000081e"
+  },
+  "MaMuc": "IS",
+  "TenMuc": "Iceland",
+  "Metadata": {
+    "ThoiGianTao": {
+      "$numberLong": "1769754866807"
+    },
+    "ThoiGianCapNhat": {
+      "$numberLong": "1769754866807"
+    },
+    "NguoiTaoLap": "BXD-ADMIN",
+    "ChuSoHuu": "BXD-ADMIN",
+    "TrangThaiDuLieu": "Active",
+    "PhienBanDuLieu": "1",
+    "XuLyDuLieu": "",
+    "QRCode": "",
+    "PhanVungDuLieu": {
+      "MaMuc": "",
+      "TenMuc": ""
+    },
+    "ChiaSeTaiKhoan": [],
+    "ChiaSeVaiTro": []
+  }
+},
+{
+  "_id": {
+    "$oid": "691d6a60b91300002000081f"
+  },
+  "MaMuc": "IT",
+  "TenMuc": "Italy",
+  "Metadata": {
+    "ThoiGianTao": {
+      "$numberLong": "1769754866807"
+    },
+    "ThoiGianCapNhat": {
+      "$numberLong": "1769754866807"
+    },
+    "NguoiTaoLap": "BXD-ADMIN",
+    "ChuSoHuu": "BXD-ADMIN",
+    "TrangThaiDuLieu": "Active",
+    "PhienBanDuLieu": "1",
+    "XuLyDuLieu": "",
+    "QRCode": "",
+    "PhanVungDuLieu": {
+      "MaMuc": "",
+      "TenMuc": ""
+    },
+    "ChiaSeTaiKhoan": [],
+    "ChiaSeVaiTro": []
+  }
+},
+{
+  "_id": {
+    "$oid": "691d6a60b913000020000820"
+  },
+  "MaMuc": "JE",
+  "TenMuc": "Jersey",
+  "Metadata": {
+    "ThoiGianTao": {
+      "$numberLong": "1769754866807"
+    },
+    "ThoiGianCapNhat": {
+      "$numberLong": "1769754866807"
+    },
+    "NguoiTaoLap": "BXD-ADMIN",
+    "ChuSoHuu": "BXD-ADMIN",
+    "TrangThaiDuLieu": "Active",
+    "PhienBanDuLieu": "1",
+    "XuLyDuLieu": "",
+    "QRCode": "",
+    "PhanVungDuLieu": {
+      "MaMuc": "",
+      "TenMuc": ""
+    },
+    "ChiaSeTaiKhoan": [],
+    "ChiaSeVaiTro": []
+  }
+},
+{
+  "_id": {
+    "$oid": "691d6a60b913000020000821"
+  },
+  "MaMuc": "JM",
+  "TenMuc": "Jamaica",
+  "Metadata": {
+    "ThoiGianTao": {
+      "$numberLong": "1769754866807"
+    },
+    "ThoiGianCapNhat": {
+      "$numberLong": "1769754866807"
+    },
+    "NguoiTaoLap": "BXD-ADMIN",
+    "ChuSoHuu": "BXD-ADMIN",
+    "TrangThaiDuLieu": "Active",
+    "PhienBanDuLieu": "1",
+    "XuLyDuLieu": "",
+    "QRCode": "",
+    "PhanVungDuLieu": {
+      "MaMuc": "",
+      "TenMuc": ""
+    },
+    "ChiaSeTaiKhoan": [],
+    "ChiaSeVaiTro": []
+  }
+},
+{
+  "_id": {
+    "$oid": "691d6a60b913000020000822"
+  },
+  "MaMuc": "JO",
+  "TenMuc": "Jordan",
+  "Metadata": {
+    "ThoiGianTao": {
+      "$numberLong": "1769754866807"
+    },
+    "ThoiGianCapNhat": {
+      "$numberLong": "1769754866807"
+    },
+    "NguoiTaoLap": "BXD-ADMIN",
+    "ChuSoHuu": "BXD-ADMIN",
+    "TrangThaiDuLieu": "Active",
+    "PhienBanDuLieu": "1",
+    "XuLyDuLieu": "",
+    "QRCode": "",
+    "PhanVungDuLieu": {
+      "MaMuc": "",
+      "TenMuc": ""
+    },
+    "ChiaSeTaiKhoan": [],
+    "ChiaSeVaiTro": []
+  }
+},
+{
+  "_id": {
+    "$oid": "691d6a60b913000020000823"
+  },
+  "MaMuc": "JP",
+  "TenMuc": "Japan",
+  "Metadata": {
+    "ThoiGianTao": {
+      "$numberLong": "1769754866807"
+    },
+    "ThoiGianCapNhat": {
+      "$numberLong": "1769754866807"
+    },
+    "NguoiTaoLap": "BXD-ADMIN",
+    "ChuSoHuu": "BXD-ADMIN",
+    "TrangThaiDuLieu": "Active",
+    "PhienBanDuLieu": "1",
+    "XuLyDuLieu": "",
+    "QRCode": "",
+    "PhanVungDuLieu": {
+      "MaMuc": "",
+      "TenMuc": ""
+    },
+    "ChiaSeTaiKhoan": [],
+    "ChiaSeVaiTro": []
+  }
+},
+{
+  "_id": {
+    "$oid": "691d6a60b913000020000824"
+  },
+  "MaMuc": "KE",
+  "TenMuc": "Kenya",
+  "Metadata": {
+    "ThoiGianTao": {
+      "$numberLong": "1769754866807"
+    },
+    "ThoiGianCapNhat": {
+      "$numberLong": "1769754866807"
+    },
+    "NguoiTaoLap": "BXD-ADMIN",
+    "ChuSoHuu": "BXD-ADMIN",
+    "TrangThaiDuLieu": "Active",
+    "PhienBanDuLieu": "1",
+    "XuLyDuLieu": "",
+    "QRCode": "",
+    "PhanVungDuLieu": {
+      "MaMuc": "",
+      "TenMuc": ""
+    },
+    "ChiaSeTaiKhoan": [],
+    "ChiaSeVaiTro": []
+  }
+},
+{
+  "_id": {
+    "$oid": "691d6a60b913000020000825"
+  },
+  "MaMuc": "KG",
+  "TenMuc": "Kyrgyzstan",
+  "Metadata": {
+    "ThoiGianTao": {
+      "$numberLong": "1769754866807"
+    },
+    "ThoiGianCapNhat": {
+      "$numberLong": "1769754866807"
+    },
+    "NguoiTaoLap": "BXD-ADMIN",
+    "ChuSoHuu": "BXD-ADMIN",
+    "TrangThaiDuLieu": "Active",
+    "PhienBanDuLieu": "1",
+    "XuLyDuLieu": "",
+    "QRCode": "",
+    "PhanVungDuLieu": {
+      "MaMuc": "",
+      "TenMuc": ""
+    },
+    "ChiaSeTaiKhoan": [],
+    "ChiaSeVaiTro": []
+  }
+},
+{
+  "_id": {
+    "$oid": "691d6a60b913000020000826"
+  },
+  "MaMuc": "KH",
+  "TenMuc": "Cambodia",
+  "Metadata": {
+    "ThoiGianTao": {
+      "$numberLong": "1769754866807"
+    },
+    "ThoiGianCapNhat": {
+      "$numberLong": "1769754866807"
+    },
+    "NguoiTaoLap": "BXD-ADMIN",
+    "ChuSoHuu": "BXD-ADMIN",
+    "TrangThaiDuLieu": "Active",
+    "PhienBanDuLieu": "1",
+    "XuLyDuLieu": "",
+    "QRCode": "",
+    "PhanVungDuLieu": {
+      "MaMuc": "",
+      "TenMuc": ""
+    },
+    "ChiaSeTaiKhoan": [],
+    "ChiaSeVaiTro": []
+  }
+},
+{
+  "_id": {
+    "$oid": "691d6a60b913000020000827"
+  },
+  "MaMuc": "KI",
+  "TenMuc": "Kiribati",
+  "Metadata": {
+    "ThoiGianTao": {
+      "$numberLong": "1769754866807"
+    },
+    "ThoiGianCapNhat": {
+      "$numberLong": "1769754866807"
+    },
+    "NguoiTaoLap": "BXD-ADMIN",
+    "ChuSoHuu": "BXD-ADMIN",
+    "TrangThaiDuLieu": "Active",
+    "PhienBanDuLieu": "1",
+    "XuLyDuLieu": "",
+    "QRCode": "",
+    "PhanVungDuLieu": {
+      "MaMuc": "",
+      "TenMuc": ""
+    },
+    "ChiaSeTaiKhoan": [],
+    "ChiaSeVaiTro": []
+  }
+},
+{
+  "_id": {
+    "$oid": "691d6a60b913000020000828"
+  },
+  "MaMuc": "KM",
+  "TenMuc": "Comoros",
+  "Metadata": {
+    "ThoiGianTao": {
+      "$numberLong": "1769754866807"
+    },
+    "ThoiGianCapNhat": {
+      "$numberLong": "1769754866807"
+    },
+    "NguoiTaoLap": "BXD-ADMIN",
+    "ChuSoHuu": "BXD-ADMIN",
+    "TrangThaiDuLieu": "Active",
+    "PhienBanDuLieu": "1",
+    "XuLyDuLieu": "",
+    "QRCode": "",
+    "PhanVungDuLieu": {
+      "MaMuc": "",
+      "TenMuc": ""
+    },
+    "ChiaSeTaiKhoan": [],
+    "ChiaSeVaiTro": []
+  }
+},
+{
+  "_id": {
+    "$oid": "691d6a60b913000020000829"
+  },
+  "MaMuc": "KN",
+  "TenMuc": "Saint Kitts and Nevis",
+  "Metadata": {
+    "ThoiGianTao": {
+      "$numberLong": "1769754866807"
+    },
+    "ThoiGianCapNhat": {
+      "$numberLong": "1769754866807"
+    },
+    "NguoiTaoLap": "BXD-ADMIN",
+    "ChuSoHuu": "BXD-ADMIN",
+    "TrangThaiDuLieu": "Active",
+    "PhienBanDuLieu": "1",
+    "XuLyDuLieu": "",
+    "QRCode": "",
+    "PhanVungDuLieu": {
+      "MaMuc": "",
+      "TenMuc": ""
+    },
+    "ChiaSeTaiKhoan": [],
+    "ChiaSeVaiTro": []
+  }
+},
+{
+  "_id": {
+    "$oid": "691d6a60b91300002000082a"
+  },
+  "MaMuc": "KP",
+  "TenMuc": "Korea, Democratic People's Republic of",
+  "Metadata": {
+    "ThoiGianTao": {
+      "$numberLong": "1769754866807"
+    },
+    "ThoiGianCapNhat": {
+      "$numberLong": "1769754866807"
+    },
+    "NguoiTaoLap": "BXD-ADMIN",
+    "ChuSoHuu": "BXD-ADMIN",
+    "TrangThaiDuLieu": "Active",
+    "PhienBanDuLieu": "1",
+    "XuLyDuLieu": "",
+    "QRCode": "",
+    "PhanVungDuLieu": {
+      "MaMuc": "",
+      "TenMuc": ""
+    },
+    "ChiaSeTaiKhoan": [],
+    "ChiaSeVaiTro": []
+  }
+},
+{
+  "_id": {
+    "$oid": "691d6a60b91300002000082b"
+  },
+  "MaMuc": "KR",
+  "TenMuc": "Korea, Republic of",
+  "Metadata": {
+    "ThoiGianTao": {
+      "$numberLong": "1769754866807"
+    },
+    "ThoiGianCapNhat": {
+      "$numberLong": "1769754866807"
+    },
+    "NguoiTaoLap": "BXD-ADMIN",
+    "ChuSoHuu": "BXD-ADMIN",
+    "TrangThaiDuLieu": "Active",
+    "PhienBanDuLieu": "1",
+    "XuLyDuLieu": "",
+    "QRCode": "",
+    "PhanVungDuLieu": {
+      "MaMuc": "",
+      "TenMuc": ""
+    },
+    "ChiaSeTaiKhoan": [],
+    "ChiaSeVaiTro": []
+  }
+},
+{
+  "_id": {
+    "$oid": "691d6a60b91300002000082c"
+  },
+  "MaMuc": "KW",
+  "TenMuc": "Kuwait",
+  "Metadata": {
+    "ThoiGianTao": {
+      "$numberLong": "1769754866807"
+    },
+    "ThoiGianCapNhat": {
+      "$numberLong": "1769754866807"
+    },
+    "NguoiTaoLap": "BXD-ADMIN",
+    "ChuSoHuu": "BXD-ADMIN",
+    "TrangThaiDuLieu": "Active",
+    "PhienBanDuLieu": "1",
+    "XuLyDuLieu": "",
+    "QRCode": "",
+    "PhanVungDuLieu": {
+      "MaMuc": "",
+      "TenMuc": ""
+    },
+    "ChiaSeTaiKhoan": [],
+    "ChiaSeVaiTro": []
+  }
+},
+{
+  "_id": {
+    "$oid": "691d6a60b91300002000082d"
+  },
+  "MaMuc": "KY",
+  "TenMuc": "Cayman Islands",
+  "Metadata": {
+    "ThoiGianTao": {
+      "$numberLong": "1769754866807"
+    },
+    "ThoiGianCapNhat": {
+      "$numberLong": "1769754866807"
+    },
+    "NguoiTaoLap": "BXD-ADMIN",
+    "ChuSoHuu": "BXD-ADMIN",
+    "TrangThaiDuLieu": "Active",
+    "PhienBanDuLieu": "1",
+    "XuLyDuLieu": "",
+    "QRCode": "",
+    "PhanVungDuLieu": {
+      "MaMuc": "",
+      "TenMuc": ""
+    },
+    "ChiaSeTaiKhoan": [],
+    "ChiaSeVaiTro": []
+  }
+},
+{
+  "_id": {
+    "$oid": "691d6a60b91300002000082e"
+  },
+  "MaMuc": "KZ",
+  "TenMuc": "Kazakhstan",
+  "Metadata": {
+    "ThoiGianTao": {
+      "$numberLong": "1769754866807"
+    },
+    "ThoiGianCapNhat": {
+      "$numberLong": "1769754866807"
+    },
+    "NguoiTaoLap": "BXD-ADMIN",
+    "ChuSoHuu": "BXD-ADMIN",
+    "TrangThaiDuLieu": "Active",
+    "PhienBanDuLieu": "1",
+    "XuLyDuLieu": "",
+    "QRCode": "",
+    "PhanVungDuLieu": {
+      "MaMuc": "",
+      "TenMuc": ""
+    },
+    "ChiaSeTaiKhoan": [],
+    "ChiaSeVaiTro": []
+  }
+},
+{
+  "_id": {
+    "$oid": "691d6a60b91300002000082f"
+  },
+  "MaMuc": "LA",
+  "TenMuc": "Lao People's Democratic Republic",
+  "Metadata": {
+    "ThoiGianTao": {
+      "$numberLong": "1769754866807"
+    },
+    "ThoiGianCapNhat": {
+      "$numberLong": "1769754866807"
+    },
+    "NguoiTaoLap": "BXD-ADMIN",
+    "ChuSoHuu": "BXD-ADMIN",
+    "TrangThaiDuLieu": "Active",
+    "PhienBanDuLieu": "1",
+    "XuLyDuLieu": "",
+    "QRCode": "",
+    "PhanVungDuLieu": {
+      "MaMuc": "",
+      "TenMuc": ""
+    },
+    "ChiaSeTaiKhoan": [],
+    "ChiaSeVaiTro": []
+  }
+},
+{
+  "_id": {
+    "$oid": "691d6a60b913000020000830"
+  },
+  "MaMuc": "LB",
+  "TenMuc": "Lebanon",
+  "Metadata": {
+    "ThoiGianTao": {
+      "$numberLong": "1769754866807"
+    },
+    "ThoiGianCapNhat": {
+      "$numberLong": "1769754866807"
+    },
+    "NguoiTaoLap": "BXD-ADMIN",
+    "ChuSoHuu": "BXD-ADMIN",
+    "TrangThaiDuLieu": "Active",
+    "PhienBanDuLieu": "1",
+    "XuLyDuLieu": "",
+    "QRCode": "",
+    "PhanVungDuLieu": {
+      "MaMuc": "",
+      "TenMuc": ""
+    },
+    "ChiaSeTaiKhoan": [],
+    "ChiaSeVaiTro": []
+  }
+},
+{
+  "_id": {
+    "$oid": "691d6a60b913000020000831"
+  },
+  "MaMuc": "LC",
+  "TenMuc": "Saint Lucia",
+  "Metadata": {
+    "ThoiGianTao": {
+      "$numberLong": "1769754866807"
+    },
+    "ThoiGianCapNhat": {
+      "$numberLong": "1769754866807"
+    },
+    "NguoiTaoLap": "BXD-ADMIN",
+    "ChuSoHuu": "BXD-ADMIN",
+    "TrangThaiDuLieu": "Active",
+    "PhienBanDuLieu": "1",
+    "XuLyDuLieu": "",
+    "QRCode": "",
+    "PhanVungDuLieu": {
+      "MaMuc": "",
+      "TenMuc": ""
+    },
+    "ChiaSeTaiKhoan": [],
+    "ChiaSeVaiTro": []
+  }
+},
+{
+  "_id": {
+    "$oid": "691d6a60b913000020000832"
+  },
+  "MaMuc": "LI",
+  "TenMuc": "Liechtenstein",
+  "Metadata": {
+    "ThoiGianTao": {
+      "$numberLong": "1769754866807"
+    },
+    "ThoiGianCapNhat": {
+      "$numberLong": "1769754866807"
+    },
+    "NguoiTaoLap": "BXD-ADMIN",
+    "ChuSoHuu": "BXD-ADMIN",
+    "TrangThaiDuLieu": "Active",
+    "PhienBanDuLieu": "1",
+    "XuLyDuLieu": "",
+    "QRCode": "",
+    "PhanVungDuLieu": {
+      "MaMuc": "",
+      "TenMuc": ""
+    },
+    "ChiaSeTaiKhoan": [],
+    "ChiaSeVaiTro": []
+  }
+},
+{
+  "_id": {
+    "$oid": "691d6a60b913000020000833"
+  },
+  "MaMuc": "LK",
+  "TenMuc": "Sri Lanka",
+  "Metadata": {
+    "ThoiGianTao": {
+      "$numberLong": "1769754866807"
+    },
+    "ThoiGianCapNhat": {
+      "$numberLong": "1769754866807"
+    },
+    "NguoiTaoLap": "BXD-ADMIN",
+    "ChuSoHuu": "BXD-ADMIN",
+    "TrangThaiDuLieu": "Active",
+    "PhienBanDuLieu": "1",
+    "XuLyDuLieu": "",
+    "QRCode": "",
+    "PhanVungDuLieu": {
+      "MaMuc": "",
+      "TenMuc": ""
+    },
+    "ChiaSeTaiKhoan": [],
+    "ChiaSeVaiTro": []
+  }
+},
+{
+  "_id": {
+    "$oid": "691d6a60b913000020000834"
+  },
+  "MaMuc": "LR",
+  "TenMuc": "Liberia",
+  "Metadata": {
+    "ThoiGianTao": {
+      "$numberLong": "1769754866807"
+    },
+    "ThoiGianCapNhat": {
+      "$numberLong": "1769754866807"
+    },
+    "NguoiTaoLap": "BXD-ADMIN",
+    "ChuSoHuu": "BXD-ADMIN",
+    "TrangThaiDuLieu": "Active",
+    "PhienBanDuLieu": "1",
+    "XuLyDuLieu": "",
+    "QRCode": "",
+    "PhanVungDuLieu": {
+      "MaMuc": "",
+      "TenMuc": ""
+    },
+    "ChiaSeTaiKhoan": [],
+    "ChiaSeVaiTro": []
+  }
+},
+{
+  "_id": {
+    "$oid": "691d6a60b913000020000835"
+  },
+  "MaMuc": "LS",
+  "TenMuc": "Lesotho",
+  "Metadata": {
+    "ThoiGianTao": {
+      "$numberLong": "1769754866807"
+    },
+    "ThoiGianCapNhat": {
+      "$numberLong": "1769754866807"
+    },
+    "NguoiTaoLap": "BXD-ADMIN",
+    "ChuSoHuu": "BXD-ADMIN",
+    "TrangThaiDuLieu": "Active",
+    "PhienBanDuLieu": "1",
+    "XuLyDuLieu": "",
+    "QRCode": "",
+    "PhanVungDuLieu": {
+      "MaMuc": "",
+      "TenMuc": ""
+    },
+    "ChiaSeTaiKhoan": [],
+    "ChiaSeVaiTro": []
+  }
+},
+{
+  "_id": {
+    "$oid": "691d6a60b913000020000836"
+  },
+  "MaMuc": "LT",
+  "TenMuc": "Lithuania",
+  "Metadata": {
+    "ThoiGianTao": {
+      "$numberLong": "1769754866807"
+    },
+    "ThoiGianCapNhat": {
+      "$numberLong": "1769754866807"
+    },
+    "NguoiTaoLap": "BXD-ADMIN",
+    "ChuSoHuu": "BXD-ADMIN",
+    "TrangThaiDuLieu": "Active",
+    "PhienBanDuLieu": "1",
+    "XuLyDuLieu": "",
+    "QRCode": "",
+    "PhanVungDuLieu": {
+      "MaMuc": "",
+      "TenMuc": ""
+    },
+    "ChiaSeTaiKhoan": [],
+    "ChiaSeVaiTro": []
+  }
+},
+{
+  "_id": {
+    "$oid": "691d6a60b913000020000837"
+  },
+  "MaMuc": "LU",
+  "TenMuc": "Luxembourg",
+  "Metadata": {
+    "ThoiGianTao": {
+      "$numberLong": "1769754866807"
+    },
+    "ThoiGianCapNhat": {
+      "$numberLong": "1769754866807"
+    },
+    "NguoiTaoLap": "BXD-ADMIN",
+    "ChuSoHuu": "BXD-ADMIN",
+    "TrangThaiDuLieu": "Active",
+    "PhienBanDuLieu": "1",
+    "XuLyDuLieu": "",
+    "QRCode": "",
+    "PhanVungDuLieu": {
+      "MaMuc": "",
+      "TenMuc": ""
+    },
+    "ChiaSeTaiKhoan": [],
+    "ChiaSeVaiTro": []
+  }
+},
+{
+  "_id": {
+    "$oid": "691d6a60b913000020000838"
+  },
+  "MaMuc": "LV",
+  "TenMuc": "Latvia",
+  "Metadata": {
+    "ThoiGianTao": {
+      "$numberLong": "1769754866807"
+    },
+    "ThoiGianCapNhat": {
+      "$numberLong": "1769754866807"
+    },
+    "NguoiTaoLap": "BXD-ADMIN",
+    "ChuSoHuu": "BXD-ADMIN",
+    "TrangThaiDuLieu": "Active",
+    "PhienBanDuLieu": "1",
+    "XuLyDuLieu": "",
+    "QRCode": "",
+    "PhanVungDuLieu": {
+      "MaMuc": "",
+      "TenMuc": ""
+    },
+    "ChiaSeTaiKhoan": [],
+    "ChiaSeVaiTro": []
+  }
+},
+{
+  "_id": {
+    "$oid": "691d6a60b913000020000839"
+  },
+  "MaMuc": "LY",
+  "TenMuc": "Libya",
+  "Metadata": {
+    "ThoiGianTao": {
+      "$numberLong": "1769754866807"
+    },
+    "ThoiGianCapNhat": {
+      "$numberLong": "1769754866807"
+    },
+    "NguoiTaoLap": "BXD-ADMIN",
+    "ChuSoHuu": "BXD-ADMIN",
+    "TrangThaiDuLieu": "Active",
+    "PhienBanDuLieu": "1",
+    "XuLyDuLieu": "",
+    "QRCode": "",
+    "PhanVungDuLieu": {
+      "MaMuc": "",
+      "TenMuc": ""
+    },
+    "ChiaSeTaiKhoan": [],
+    "ChiaSeVaiTro": []
+  }
+},
+{
+  "_id": {
+    "$oid": "691d6a60b91300002000083a"
+  },
+  "MaMuc": "MA",
+  "TenMuc": "Morocco",
+  "Metadata": {
+    "ThoiGianTao": {
+      "$numberLong": "1769754866807"
+    },
+    "ThoiGianCapNhat": {
+      "$numberLong": "1769754866807"
+    },
+    "NguoiTaoLap": "BXD-ADMIN",
+    "ChuSoHuu": "BXD-ADMIN",
+    "TrangThaiDuLieu": "Active",
+    "PhienBanDuLieu": "1",
+    "XuLyDuLieu": "",
+    "QRCode": "",
+    "PhanVungDuLieu": {
+      "MaMuc": "",
+      "TenMuc": ""
+    },
+    "ChiaSeTaiKhoan": [],
+    "ChiaSeVaiTro": []
+  }
+},
+{
+  "_id": {
+    "$oid": "691d6a60b91300002000083b"
+  },
+  "MaMuc": "MC",
+  "TenMuc": "Monaco",
+  "Metadata": {
+    "ThoiGianTao": {
+      "$numberLong": "1769754866807"
+    },
+    "ThoiGianCapNhat": {
+      "$numberLong": "1769754866807"
+    },
+    "NguoiTaoLap": "BXD-ADMIN",
+    "ChuSoHuu": "BXD-ADMIN",
+    "TrangThaiDuLieu": "Active",
+    "PhienBanDuLieu": "1",
+    "XuLyDuLieu": "",
+    "QRCode": "",
+    "PhanVungDuLieu": {
+      "MaMuc": "",
+      "TenMuc": ""
+    },
+    "ChiaSeTaiKhoan": [],
+    "ChiaSeVaiTro": []
+  }
+},
+{
+  "_id": {
+    "$oid": "691d6a60b91300002000083c"
+  },
+  "MaMuc": "MD",
+  "TenMuc": "Moldova, Republic of",
+  "Metadata": {
+    "ThoiGianTao": {
+      "$numberLong": "1769754866807"
+    },
+    "ThoiGianCapNhat": {
+      "$numberLong": "1769754866807"
+    },
+    "NguoiTaoLap": "BXD-ADMIN",
+    "ChuSoHuu": "BXD-ADMIN",
+    "TrangThaiDuLieu": "Active",
+    "PhienBanDuLieu": "1",
+    "XuLyDuLieu": "",
+    "QRCode": "",
+    "PhanVungDuLieu": {
+      "MaMuc": "",
+      "TenMuc": ""
+    },
+    "ChiaSeTaiKhoan": [],
+    "ChiaSeVaiTro": []
+  }
+},
+{
+  "_id": {
+    "$oid": "691d6a60b91300002000083d"
+  },
+  "MaMuc": "ME",
+  "TenMuc": "Montenegro",
+  "Metadata": {
+    "ThoiGianTao": {
+      "$numberLong": "1769754866807"
+    },
+    "ThoiGianCapNhat": {
+      "$numberLong": "1769754866807"
+    },
+    "NguoiTaoLap": "BXD-ADMIN",
+    "ChuSoHuu": "BXD-ADMIN",
+    "TrangThaiDuLieu": "Active",
+    "PhienBanDuLieu": "1",
+    "XuLyDuLieu": "",
+    "QRCode": "",
+    "PhanVungDuLieu": {
+      "MaMuc": "",
+      "TenMuc": ""
+    },
+    "ChiaSeTaiKhoan": [],
+    "ChiaSeVaiTro": []
+  }
+},
+{
+  "_id": {
+    "$oid": "691d6a60b91300002000083e"
+  },
+  "MaMuc": "MF",
+  "TenMuc": "Saint Martin (French part)",
+  "Metadata": {
+    "ThoiGianTao": {
+      "$numberLong": "1769754866807"
+    },
+    "ThoiGianCapNhat": {
+      "$numberLong": "1769754866807"
+    },
+    "NguoiTaoLap": "BXD-ADMIN",
+    "ChuSoHuu": "BXD-ADMIN",
+    "TrangThaiDuLieu": "Active",
+    "PhienBanDuLieu": "1",
+    "XuLyDuLieu": "",
+    "QRCode": "",
+    "PhanVungDuLieu": {
+      "MaMuc": "",
+      "TenMuc": ""
+    },
+    "ChiaSeTaiKhoan": [],
+    "ChiaSeVaiTro": []
+  }
+},
+{
+  "_id": {
+    "$oid": "691d6a60b91300002000083f"
+  },
+  "MaMuc": "MG",
+  "TenMuc": "Madagascar",
+  "Metadata": {
+    "ThoiGianTao": {
+      "$numberLong": "1769754866807"
+    },
+    "ThoiGianCapNhat": {
+      "$numberLong": "1769754866807"
+    },
+    "NguoiTaoLap": "BXD-ADMIN",
+    "ChuSoHuu": "BXD-ADMIN",
+    "TrangThaiDuLieu": "Active",
+    "PhienBanDuLieu": "1",
+    "XuLyDuLieu": "",
+    "QRCode": "",
+    "PhanVungDuLieu": {
+      "MaMuc": "",
+      "TenMuc": ""
+    },
+    "ChiaSeTaiKhoan": [],
+    "ChiaSeVaiTro": []
+  }
+},
+{
+  "_id": {
+    "$oid": "691d6a60b913000020000840"
+  },
+  "MaMuc": "MH",
+  "TenMuc": "Marshall Islands",
+  "Metadata": {
+    "ThoiGianTao": {
+      "$numberLong": "1769754866807"
+    },
+    "ThoiGianCapNhat": {
+      "$numberLong": "1769754866807"
+    },
+    "NguoiTaoLap": "BXD-ADMIN",
+    "ChuSoHuu": "BXD-ADMIN",
+    "TrangThaiDuLieu": "Active",
+    "PhienBanDuLieu": "1",
+    "XuLyDuLieu": "",
+    "QRCode": "",
+    "PhanVungDuLieu": {
+      "MaMuc": "",
+      "TenMuc": ""
+    },
+    "ChiaSeTaiKhoan": [],
+    "ChiaSeVaiTro": []
+  }
+},
+{
+  "_id": {
+    "$oid": "691d6a60b913000020000841"
+  },
+  "MaMuc": "MK",
+  "TenMuc": "Macedonia, the former Yugoslav Republic of",
+  "Metadata": {
+    "ThoiGianTao": {
+      "$numberLong": "1769754866807"
+    },
+    "ThoiGianCapNhat": {
+      "$numberLong": "1769754866807"
+    },
+    "NguoiTaoLap": "BXD-ADMIN",
+    "ChuSoHuu": "BXD-ADMIN",
+    "TrangThaiDuLieu": "Active",
+    "PhienBanDuLieu": "1",
+    "XuLyDuLieu": "",
+    "QRCode": "",
+    "PhanVungDuLieu": {
+      "MaMuc": "",
+      "TenMuc": ""
+    },
+    "ChiaSeTaiKhoan": [],
+    "ChiaSeVaiTro": []
+  }
+},
+{
+  "_id": {
+    "$oid": "691d6a60b913000020000842"
+  },
+  "MaMuc": "ML",
+  "TenMuc": "Mali",
+  "Metadata": {
+    "ThoiGianTao": {
+      "$numberLong": "1769754866807"
+    },
+    "ThoiGianCapNhat": {
+      "$numberLong": "1769754866807"
+    },
+    "NguoiTaoLap": "BXD-ADMIN",
+    "ChuSoHuu": "BXD-ADMIN",
+    "TrangThaiDuLieu": "Active",
+    "PhienBanDuLieu": "1",
+    "XuLyDuLieu": "",
+    "QRCode": "",
+    "PhanVungDuLieu": {
+      "MaMuc": "",
+      "TenMuc": ""
+    },
+    "ChiaSeTaiKhoan": [],
+    "ChiaSeVaiTro": []
+  }
+},
+{
+  "_id": {
+    "$oid": "691d6a60b913000020000843"
+  },
+  "MaMuc": "MM",
+  "TenMuc": "Myanmar",
+  "Metadata": {
+    "ThoiGianTao": {
+      "$numberLong": "1769754866807"
+    },
+    "ThoiGianCapNhat": {
+      "$numberLong": "1769754866807"
+    },
+    "NguoiTaoLap": "BXD-ADMIN",
+    "ChuSoHuu": "BXD-ADMIN",
+    "TrangThaiDuLieu": "Active",
+    "PhienBanDuLieu": "1",
+    "XuLyDuLieu": "",
+    "QRCode": "",
+    "PhanVungDuLieu": {
+      "MaMuc": "",
+      "TenMuc": ""
+    },
+    "ChiaSeTaiKhoan": [],
+    "ChiaSeVaiTro": []
+  }
+},
+{
+  "_id": {
+    "$oid": "691d6a60b913000020000844"
+  },
+  "MaMuc": "MN",
+  "TenMuc": "Mongolia",
+  "Metadata": {
+    "ThoiGianTao": {
+      "$numberLong": "1769754866807"
+    },
+    "ThoiGianCapNhat": {
+      "$numberLong": "1769754866807"
+    },
+    "NguoiTaoLap": "BXD-ADMIN",
+    "ChuSoHuu": "BXD-ADMIN",
+    "TrangThaiDuLieu": "Active",
+    "PhienBanDuLieu": "1",
+    "XuLyDuLieu": "",
+    "QRCode": "",
+    "PhanVungDuLieu": {
+      "MaMuc": "",
+      "TenMuc": ""
+    },
+    "ChiaSeTaiKhoan": [],
+    "ChiaSeVaiTro": []
+  }
+},
+{
+  "_id": {
+    "$oid": "691d6a60b913000020000845"
+  },
+  "MaMuc": "MO",
+  "TenMuc": "Macao",
+  "Metadata": {
+    "ThoiGianTao": {
+      "$numberLong": "1769754866807"
+    },
+    "ThoiGianCapNhat": {
+      "$numberLong": "1769754866807"
+    },
+    "NguoiTaoLap": "BXD-ADMIN",
+    "ChuSoHuu": "BXD-ADMIN",
+    "TrangThaiDuLieu": "Active",
+    "PhienBanDuLieu": "1",
+    "XuLyDuLieu": "",
+    "QRCode": "",
+    "PhanVungDuLieu": {
+      "MaMuc": "",
+      "TenMuc": ""
+    },
+    "ChiaSeTaiKhoan": [],
+    "ChiaSeVaiTro": []
+  }
+},
+{
+  "_id": {
+    "$oid": "691d6a60b913000020000846"
+  },
+  "MaMuc": "MP",
+  "TenMuc": "Northern Mariana Islands",
+  "Metadata": {
+    "ThoiGianTao": {
+      "$numberLong": "1769754866807"
+    },
+    "ThoiGianCapNhat": {
+      "$numberLong": "1769754866807"
+    },
+    "NguoiTaoLap": "BXD-ADMIN",
+    "ChuSoHuu": "BXD-ADMIN",
+    "TrangThaiDuLieu": "Active",
+    "PhienBanDuLieu": "1",
+    "XuLyDuLieu": "",
+    "QRCode": "",
+    "PhanVungDuLieu": {
+      "MaMuc": "",
+      "TenMuc": ""
+    },
+    "ChiaSeTaiKhoan": [],
+    "ChiaSeVaiTro": []
+  }
+},
+{
+  "_id": {
+    "$oid": "691d6a60b913000020000847"
+  },
+  "MaMuc": "MQ",
+  "TenMuc": "Martinique",
+  "Metadata": {
+    "ThoiGianTao": {
+      "$numberLong": "1769754866807"
+    },
+    "ThoiGianCapNhat": {
+      "$numberLong": "1769754866807"
+    },
+    "NguoiTaoLap": "BXD-ADMIN",
+    "ChuSoHuu": "BXD-ADMIN",
+    "TrangThaiDuLieu": "Active",
+    "PhienBanDuLieu": "1",
+    "XuLyDuLieu": "",
+    "QRCode": "",
+    "PhanVungDuLieu": {
+      "MaMuc": "",
+      "TenMuc": ""
+    },
+    "ChiaSeTaiKhoan": [],
+    "ChiaSeVaiTro": []
+  }
+},
+{
+  "_id": {
+    "$oid": "691d6a60b913000020000848"
+  },
+  "MaMuc": "MR",
+  "TenMuc": "Mauritania",
+  "Metadata": {
+    "ThoiGianTao": {
+      "$numberLong": "1769754866807"
+    },
+    "ThoiGianCapNhat": {
+      "$numberLong": "1769754866807"
+    },
+    "NguoiTaoLap": "BXD-ADMIN",
+    "ChuSoHuu": "BXD-ADMIN",
+    "TrangThaiDuLieu": "Active",
+    "PhienBanDuLieu": "1",
+    "XuLyDuLieu": "",
+    "QRCode": "",
+    "PhanVungDuLieu": {
+      "MaMuc": "",
+      "TenMuc": ""
+    },
+    "ChiaSeTaiKhoan": [],
+    "ChiaSeVaiTro": []
+  }
+},
+{
+  "_id": {
+    "$oid": "691d6a60b913000020000849"
+  },
+  "MaMuc": "MS",
+  "TenMuc": "Montserrat",
+  "Metadata": {
+    "ThoiGianTao": {
+      "$numberLong": "1769754866807"
+    },
+    "ThoiGianCapNhat": {
+      "$numberLong": "1769754866807"
+    },
+    "NguoiTaoLap": "BXD-ADMIN",
+    "ChuSoHuu": "BXD-ADMIN",
+    "TrangThaiDuLieu": "Active",
+    "PhienBanDuLieu": "1",
+    "XuLyDuLieu": "",
+    "QRCode": "",
+    "PhanVungDuLieu": {
+      "MaMuc": "",
+      "TenMuc": ""
+    },
+    "ChiaSeTaiKhoan": [],
+    "ChiaSeVaiTro": []
+  }
+},
+{
+  "_id": {
+    "$oid": "691d6a60b91300002000084a"
+  },
+  "MaMuc": "MT",
+  "TenMuc": "Malta",
+  "Metadata": {
+    "ThoiGianTao": {
+      "$numberLong": "1769754866807"
+    },
+    "ThoiGianCapNhat": {
+      "$numberLong": "1769754866807"
+    },
+    "NguoiTaoLap": "BXD-ADMIN",
+    "ChuSoHuu": "BXD-ADMIN",
+    "TrangThaiDuLieu": "Active",
+    "PhienBanDuLieu": "1",
+    "XuLyDuLieu": "",
+    "QRCode": "",
+    "PhanVungDuLieu": {
+      "MaMuc": "",
+      "TenMuc": ""
+    },
+    "ChiaSeTaiKhoan": [],
+    "ChiaSeVaiTro": []
+  }
+},
+{
+  "_id": {
+    "$oid": "691d6a60b91300002000084b"
+  },
+  "MaMuc": "MU",
+  "TenMuc": "Mauritius",
+  "Metadata": {
+    "ThoiGianTao": {
+      "$numberLong": "1769754866807"
+    },
+    "ThoiGianCapNhat": {
+      "$numberLong": "1769754866807"
+    },
+    "NguoiTaoLap": "BXD-ADMIN",
+    "ChuSoHuu": "BXD-ADMIN",
+    "TrangThaiDuLieu": "Active",
+    "PhienBanDuLieu": "1",
+    "XuLyDuLieu": "",
+    "QRCode": "",
+    "PhanVungDuLieu": {
+      "MaMuc": "",
+      "TenMuc": ""
+    },
+    "ChiaSeTaiKhoan": [],
+    "ChiaSeVaiTro": []
+  }
+},
+{
+  "_id": {
+    "$oid": "691d6a60b91300002000084c"
+  },
+  "MaMuc": "MV",
+  "TenMuc": "Maldives",
+  "Metadata": {
+    "ThoiGianTao": {
+      "$numberLong": "1769754866807"
+    },
+    "ThoiGianCapNhat": {
+      "$numberLong": "1769754866807"
+    },
+    "NguoiTaoLap": "BXD-ADMIN",
+    "ChuSoHuu": "BXD-ADMIN",
+    "TrangThaiDuLieu": "Active",
+    "PhienBanDuLieu": "1",
+    "XuLyDuLieu": "",
+    "QRCode": "",
+    "PhanVungDuLieu": {
+      "MaMuc": "",
+      "TenMuc": ""
+    },
+    "ChiaSeTaiKhoan": [],
+    "ChiaSeVaiTro": []
+  }
+},
+{
+  "_id": {
+    "$oid": "691d6a60b91300002000084d"
+  },
+  "MaMuc": "MW",
+  "TenMuc": "Malawi",
+  "Metadata": {
+    "ThoiGianTao": {
+      "$numberLong": "1769754866807"
+    },
+    "ThoiGianCapNhat": {
+      "$numberLong": "1769754866807"
+    },
+    "NguoiTaoLap": "BXD-ADMIN",
+    "ChuSoHuu": "BXD-ADMIN",
+    "TrangThaiDuLieu": "Active",
+    "PhienBanDuLieu": "1",
+    "XuLyDuLieu": "",
+    "QRCode": "",
+    "PhanVungDuLieu": {
+      "MaMuc": "",
+      "TenMuc": ""
+    },
+    "ChiaSeTaiKhoan": [],
+    "ChiaSeVaiTro": []
+  }
+},
+{
+  "_id": {
+    "$oid": "691d6a60b91300002000084e"
+  },
+  "MaMuc": "MX",
+  "TenMuc": "Mexico",
+  "Metadata": {
+    "ThoiGianTao": {
+      "$numberLong": "1769754866807"
+    },
+    "ThoiGianCapNhat": {
+      "$numberLong": "1769754866807"
+    },
+    "NguoiTaoLap": "BXD-ADMIN",
+    "ChuSoHuu": "BXD-ADMIN",
+    "TrangThaiDuLieu": "Active",
+    "PhienBanDuLieu": "1",
+    "XuLyDuLieu": "",
+    "QRCode": "",
+    "PhanVungDuLieu": {
+      "MaMuc": "",
+      "TenMuc": ""
+    },
+    "ChiaSeTaiKhoan": [],
+    "ChiaSeVaiTro": []
+  }
+},
+{
+  "_id": {
+    "$oid": "691d6a60b91300002000084f"
+  },
+  "MaMuc": "MY",
+  "TenMuc": "Malaysia",
+  "Metadata": {
+    "ThoiGianTao": {
+      "$numberLong": "1769754866807"
+    },
+    "ThoiGianCapNhat": {
+      "$numberLong": "1769754866807"
+    },
+    "NguoiTaoLap": "BXD-ADMIN",
+    "ChuSoHuu": "BXD-ADMIN",
+    "TrangThaiDuLieu": "Active",
+    "PhienBanDuLieu": "1",
+    "XuLyDuLieu": "",
+    "QRCode": "",
+    "PhanVungDuLieu": {
+      "MaMuc": "",
+      "TenMuc": ""
+    },
+    "ChiaSeTaiKhoan": [],
+    "ChiaSeVaiTro": []
+  }
+},
+{
+  "_id": {
+    "$oid": "691d6a60b913000020000850"
+  },
+  "MaMuc": "MZ",
+  "TenMuc": "Mozambique",
+  "Metadata": {
+    "ThoiGianTao": {
+      "$numberLong": "1769754866807"
+    },
+    "ThoiGianCapNhat": {
+      "$numberLong": "1769754866807"
+    },
+    "NguoiTaoLap": "BXD-ADMIN",
+    "ChuSoHuu": "BXD-ADMIN",
+    "TrangThaiDuLieu": "Active",
+    "PhienBanDuLieu": "1",
+    "XuLyDuLieu": "",
+    "QRCode": "",
+    "PhanVungDuLieu": {
+      "MaMuc": "",
+      "TenMuc": ""
+    },
+    "ChiaSeTaiKhoan": [],
+    "ChiaSeVaiTro": []
+  }
+},
+{
+  "_id": {
+    "$oid": "691d6a60b913000020000851"
+  },
+  "MaMuc": "NA",
+  "TenMuc": "Namibia",
+  "Metadata": {
+    "ThoiGianTao": {
+      "$numberLong": "1769754866807"
+    },
+    "ThoiGianCapNhat": {
+      "$numberLong": "1769754866807"
+    },
+    "NguoiTaoLap": "BXD-ADMIN",
+    "ChuSoHuu": "BXD-ADMIN",
+    "TrangThaiDuLieu": "Active",
+    "PhienBanDuLieu": "1",
+    "XuLyDuLieu": "",
+    "QRCode": "",
+    "PhanVungDuLieu": {
+      "MaMuc": "",
+      "TenMuc": ""
+    },
+    "ChiaSeTaiKhoan": [],
+    "ChiaSeVaiTro": []
+  }
+},
+{
+  "_id": {
+    "$oid": "691d6a60b913000020000852"
+  },
+  "MaMuc": "NC",
+  "TenMuc": "New Caledonia",
+  "Metadata": {
+    "ThoiGianTao": {
+      "$numberLong": "1769754866807"
+    },
+    "ThoiGianCapNhat": {
+      "$numberLong": "1769754866807"
+    },
+    "NguoiTaoLap": "BXD-ADMIN",
+    "ChuSoHuu": "BXD-ADMIN",
+    "TrangThaiDuLieu": "Active",
+    "PhienBanDuLieu": "1",
+    "XuLyDuLieu": "",
+    "QRCode": "",
+    "PhanVungDuLieu": {
+      "MaMuc": "",
+      "TenMuc": ""
+    },
+    "ChiaSeTaiKhoan": [],
+    "ChiaSeVaiTro": []
+  }
+},
+{
+  "_id": {
+    "$oid": "691d6a60b913000020000853"
+  },
+  "MaMuc": "NE",
+  "TenMuc": "Niger",
+  "Metadata": {
+    "ThoiGianTao": {
+      "$numberLong": "1769754866807"
+    },
+    "ThoiGianCapNhat": {
+      "$numberLong": "1769754866807"
+    },
+    "NguoiTaoLap": "BXD-ADMIN",
+    "ChuSoHuu": "BXD-ADMIN",
+    "TrangThaiDuLieu": "Active",
+    "PhienBanDuLieu": "1",
+    "XuLyDuLieu": "",
+    "QRCode": "",
+    "PhanVungDuLieu": {
+      "MaMuc": "",
+      "TenMuc": ""
+    },
+    "ChiaSeTaiKhoan": [],
+    "ChiaSeVaiTro": []
+  }
+},
+{
+  "_id": {
+    "$oid": "691d6a60b913000020000854"
+  },
+  "MaMuc": "NF",
+  "TenMuc": "Norfolk Island",
+  "Metadata": {
+    "ThoiGianTao": {
+      "$numberLong": "1769754866807"
+    },
+    "ThoiGianCapNhat": {
+      "$numberLong": "1769754866807"
+    },
+    "NguoiTaoLap": "BXD-ADMIN",
+    "ChuSoHuu": "BXD-ADMIN",
+    "TrangThaiDuLieu": "Active",
+    "PhienBanDuLieu": "1",
+    "XuLyDuLieu": "",
+    "QRCode": "",
+    "PhanVungDuLieu": {
+      "MaMuc": "",
+      "TenMuc": ""
+    },
+    "ChiaSeTaiKhoan": [],
+    "ChiaSeVaiTro": []
+  }
+},
+{
+  "_id": {
+    "$oid": "691d6a60b913000020000855"
+  },
+  "MaMuc": "NG",
+  "TenMuc": "Nigeria",
+  "Metadata": {
+    "ThoiGianTao": {
+      "$numberLong": "1769754866807"
+    },
+    "ThoiGianCapNhat": {
+      "$numberLong": "1769754866807"
+    },
+    "NguoiTaoLap": "BXD-ADMIN",
+    "ChuSoHuu": "BXD-ADMIN",
+    "TrangThaiDuLieu": "Active",
+    "PhienBanDuLieu": "1",
+    "XuLyDuLieu": "",
+    "QRCode": "",
+    "PhanVungDuLieu": {
+      "MaMuc": "",
+      "TenMuc": ""
+    },
+    "ChiaSeTaiKhoan": [],
+    "ChiaSeVaiTro": []
+  }
+},
+{
+  "_id": {
+    "$oid": "691d6a60b913000020000856"
+  },
+  "MaMuc": "NI",
+  "TenMuc": "Nicaragua",
+  "Metadata": {
+    "ThoiGianTao": {
+      "$numberLong": "1769754866807"
+    },
+    "ThoiGianCapNhat": {
+      "$numberLong": "1769754866807"
+    },
+    "NguoiTaoLap": "BXD-ADMIN",
+    "ChuSoHuu": "BXD-ADMIN",
+    "TrangThaiDuLieu": "Active",
+    "PhienBanDuLieu": "1",
+    "XuLyDuLieu": "",
+    "QRCode": "",
+    "PhanVungDuLieu": {
+      "MaMuc": "",
+      "TenMuc": ""
+    },
+    "ChiaSeTaiKhoan": [],
+    "ChiaSeVaiTro": []
+  }
+},
+{
+  "_id": {
+    "$oid": "691d6a60b913000020000857"
+  },
+  "MaMuc": "NL",
+  "TenMuc": "Netherlands",
+  "Metadata": {
+    "ThoiGianTao": {
+      "$numberLong": "1769754866807"
+    },
+    "ThoiGianCapNhat": {
+      "$numberLong": "1769754866807"
+    },
+    "NguoiTaoLap": "BXD-ADMIN",
+    "ChuSoHuu": "BXD-ADMIN",
+    "TrangThaiDuLieu": "Active",
+    "PhienBanDuLieu": "1",
+    "XuLyDuLieu": "",
+    "QRCode": "",
+    "PhanVungDuLieu": {
+      "MaMuc": "",
+      "TenMuc": ""
+    },
+    "ChiaSeTaiKhoan": [],
+    "ChiaSeVaiTro": []
+  }
+},
+{
+  "_id": {
+    "$oid": "691d6a60b913000020000858"
+  },
+  "MaMuc": "NO",
+  "TenMuc": "Norway",
+  "Metadata": {
+    "ThoiGianTao": {
+      "$numberLong": "1769754866807"
+    },
+    "ThoiGianCapNhat": {
+      "$numberLong": "1769754866807"
+    },
+    "NguoiTaoLap": "BXD-ADMIN",
+    "ChuSoHuu": "BXD-ADMIN",
+    "TrangThaiDuLieu": "Active",
+    "PhienBanDuLieu": "1",
+    "XuLyDuLieu": "",
+    "QRCode": "",
+    "PhanVungDuLieu": {
+      "MaMuc": "",
+      "TenMuc": ""
+    },
+    "ChiaSeTaiKhoan": [],
+    "ChiaSeVaiTro": []
+  }
+},
+{
+  "_id": {
+    "$oid": "691d6a60b913000020000859"
+  },
+  "MaMuc": "NP",
+  "TenMuc": "Nepal",
+  "Metadata": {
+    "ThoiGianTao": {
+      "$numberLong": "1769754866807"
+    },
+    "ThoiGianCapNhat": {
+      "$numberLong": "1769754866807"
+    },
+    "NguoiTaoLap": "BXD-ADMIN",
+    "ChuSoHuu": "BXD-ADMIN",
+    "TrangThaiDuLieu": "Active",
+    "PhienBanDuLieu": "1",
+    "XuLyDuLieu": "",
+    "QRCode": "",
+    "PhanVungDuLieu": {
+      "MaMuc": "",
+      "TenMuc": ""
+    },
+    "ChiaSeTaiKhoan": [],
+    "ChiaSeVaiTro": []
+  }
+},
+{
+  "_id": {
+    "$oid": "691d6a60b91300002000085a"
+  },
+  "MaMuc": "NR",
+  "TenMuc": "Nauru",
+  "Metadata": {
+    "ThoiGianTao": {
+      "$numberLong": "1769754866807"
+    },
+    "ThoiGianCapNhat": {
+      "$numberLong": "1769754866807"
+    },
+    "NguoiTaoLap": "BXD-ADMIN",
+    "ChuSoHuu": "BXD-ADMIN",
+    "TrangThaiDuLieu": "Active",
+    "PhienBanDuLieu": "1",
+    "XuLyDuLieu": "",
+    "QRCode": "",
+    "PhanVungDuLieu": {
+      "MaMuc": "",
+      "TenMuc": ""
+    },
+    "ChiaSeTaiKhoan": [],
+    "ChiaSeVaiTro": []
+  }
+},
+{
+  "_id": {
+    "$oid": "691d6a60b91300002000085b"
+  },
+  "MaMuc": "NU",
+  "TenMuc": "Niue",
+  "Metadata": {
+    "ThoiGianTao": {
+      "$numberLong": "1769754866807"
+    },
+    "ThoiGianCapNhat": {
+      "$numberLong": "1769754866807"
+    },
+    "NguoiTaoLap": "BXD-ADMIN",
+    "ChuSoHuu": "BXD-ADMIN",
+    "TrangThaiDuLieu": "Active",
+    "PhienBanDuLieu": "1",
+    "XuLyDuLieu": "",
+    "QRCode": "",
+    "PhanVungDuLieu": {
+      "MaMuc": "",
+      "TenMuc": ""
+    },
+    "ChiaSeTaiKhoan": [],
+    "ChiaSeVaiTro": []
+  }
+},
+{
+  "_id": {
+    "$oid": "691d6a60b91300002000085c"
+  },
+  "MaMuc": "NZ",
+  "TenMuc": "New Zealand",
+  "Metadata": {
+    "ThoiGianTao": {
+      "$numberLong": "1769754866807"
+    },
+    "ThoiGianCapNhat": {
+      "$numberLong": "1769754866807"
+    },
+    "NguoiTaoLap": "BXD-ADMIN",
+    "ChuSoHuu": "BXD-ADMIN",
+    "TrangThaiDuLieu": "Active",
+    "PhienBanDuLieu": "1",
+    "XuLyDuLieu": "",
+    "QRCode": "",
+    "PhanVungDuLieu": {
+      "MaMuc": "",
+      "TenMuc": ""
+    },
+    "ChiaSeTaiKhoan": [],
+    "ChiaSeVaiTro": []
+  }
+},
+{
+  "_id": {
+    "$oid": "691d6a60b91300002000085d"
+  },
+  "MaMuc": "OM",
+  "TenMuc": "Oman",
+  "Metadata": {
+    "ThoiGianTao": {
+      "$numberLong": "1769754866807"
+    },
+    "ThoiGianCapNhat": {
+      "$numberLong": "1769754866807"
+    },
+    "NguoiTaoLap": "BXD-ADMIN",
+    "ChuSoHuu": "BXD-ADMIN",
+    "TrangThaiDuLieu": "Active",
+    "PhienBanDuLieu": "1",
+    "XuLyDuLieu": "",
+    "QRCode": "",
+    "PhanVungDuLieu": {
+      "MaMuc": "",
+      "TenMuc": ""
+    },
+    "ChiaSeTaiKhoan": [],
+    "ChiaSeVaiTro": []
+  }
+},
+{
+  "_id": {
+    "$oid": "691d6a60b91300002000085e"
+  },
+  "MaMuc": "PA",
+  "TenMuc": "Panama",
+  "Metadata": {
+    "ThoiGianTao": {
+      "$numberLong": "1769754866807"
+    },
+    "ThoiGianCapNhat": {
+      "$numberLong": "1769754866807"
+    },
+    "NguoiTaoLap": "BXD-ADMIN",
+    "ChuSoHuu": "BXD-ADMIN",
+    "TrangThaiDuLieu": "Active",
+    "PhienBanDuLieu": "1",
+    "XuLyDuLieu": "",
+    "QRCode": "",
+    "PhanVungDuLieu": {
+      "MaMuc": "",
+      "TenMuc": ""
+    },
+    "ChiaSeTaiKhoan": [],
+    "ChiaSeVaiTro": []
+  }
+},
+{
+  "_id": {
+    "$oid": "691d6a60b91300002000085f"
+  },
+  "MaMuc": "PE",
+  "TenMuc": "Peru",
+  "Metadata": {
+    "ThoiGianTao": {
+      "$numberLong": "1769754866807"
+    },
+    "ThoiGianCapNhat": {
+      "$numberLong": "1769754866807"
+    },
+    "NguoiTaoLap": "BXD-ADMIN",
+    "ChuSoHuu": "BXD-ADMIN",
+    "TrangThaiDuLieu": "Active",
+    "PhienBanDuLieu": "1",
+    "XuLyDuLieu": "",
+    "QRCode": "",
+    "PhanVungDuLieu": {
+      "MaMuc": "",
+      "TenMuc": ""
+    },
+    "ChiaSeTaiKhoan": [],
+    "ChiaSeVaiTro": []
+  }
+},
+{
+  "_id": {
+    "$oid": "691d6a60b913000020000860"
+  },
+  "MaMuc": "PF",
+  "TenMuc": "French Polynesia",
+  "Metadata": {
+    "ThoiGianTao": {
+      "$numberLong": "1769754866807"
+    },
+    "ThoiGianCapNhat": {
+      "$numberLong": "1769754866807"
+    },
+    "NguoiTaoLap": "BXD-ADMIN",
+    "ChuSoHuu": "BXD-ADMIN",
+    "TrangThaiDuLieu": "Active",
+    "PhienBanDuLieu": "1",
+    "XuLyDuLieu": "",
+    "QRCode": "",
+    "PhanVungDuLieu": {
+      "MaMuc": "",
+      "TenMuc": ""
+    },
+    "ChiaSeTaiKhoan": [],
+    "ChiaSeVaiTro": []
+  }
+},
+{
+  "_id": {
+    "$oid": "691d6a60b913000020000861"
+  },
+  "MaMuc": "PG",
+  "TenMuc": "Papua New Guinea",
+  "Metadata": {
+    "ThoiGianTao": {
+      "$numberLong": "1769754866807"
+    },
+    "ThoiGianCapNhat": {
+      "$numberLong": "1769754866807"
+    },
+    "NguoiTaoLap": "BXD-ADMIN",
+    "ChuSoHuu": "BXD-ADMIN",
+    "TrangThaiDuLieu": "Active",
+    "PhienBanDuLieu": "1",
+    "XuLyDuLieu": "",
+    "QRCode": "",
+    "PhanVungDuLieu": {
+      "MaMuc": "",
+      "TenMuc": ""
+    },
+    "ChiaSeTaiKhoan": [],
+    "ChiaSeVaiTro": []
+  }
+},
+{
+  "_id": {
+    "$oid": "691d6a60b913000020000862"
+  },
+  "MaMuc": "PH",
+  "TenMuc": "Philippines",
+  "Metadata": {
+    "ThoiGianTao": {
+      "$numberLong": "1769754866807"
+    },
+    "ThoiGianCapNhat": {
+      "$numberLong": "1769754866807"
+    },
+    "NguoiTaoLap": "BXD-ADMIN",
+    "ChuSoHuu": "BXD-ADMIN",
+    "TrangThaiDuLieu": "Active",
+    "PhienBanDuLieu": "1",
+    "XuLyDuLieu": "",
+    "QRCode": "",
+    "PhanVungDuLieu": {
+      "MaMuc": "",
+      "TenMuc": ""
+    },
+    "ChiaSeTaiKhoan": [],
+    "ChiaSeVaiTro": []
+  }
+},
+{
+  "_id": {
+    "$oid": "691d6a60b913000020000863"
+  },
+  "MaMuc": "PK",
+  "TenMuc": "Pakistan",
+  "Metadata": {
+    "ThoiGianTao": {
+      "$numberLong": "1769754866807"
+    },
+    "ThoiGianCapNhat": {
+      "$numberLong": "1769754866807"
+    },
+    "NguoiTaoLap": "BXD-ADMIN",
+    "ChuSoHuu": "BXD-ADMIN",
+    "TrangThaiDuLieu": "Active",
+    "PhienBanDuLieu": "1",
+    "XuLyDuLieu": "",
+    "QRCode": "",
+    "PhanVungDuLieu": {
+      "MaMuc": "",
+      "TenMuc": ""
+    },
+    "ChiaSeTaiKhoan": [],
+    "ChiaSeVaiTro": []
+  }
+},
+{
+  "_id": {
+    "$oid": "691d6a60b913000020000864"
+  },
+  "MaMuc": "PL",
+  "TenMuc": "Poland",
+  "Metadata": {
+    "ThoiGianTao": {
+      "$numberLong": "1769754866807"
+    },
+    "ThoiGianCapNhat": {
+      "$numberLong": "1769754866807"
+    },
+    "NguoiTaoLap": "BXD-ADMIN",
+    "ChuSoHuu": "BXD-ADMIN",
+    "TrangThaiDuLieu": "Active",
+    "PhienBanDuLieu": "1",
+    "XuLyDuLieu": "",
+    "QRCode": "",
+    "PhanVungDuLieu": {
+      "MaMuc": "",
+      "TenMuc": ""
+    },
+    "ChiaSeTaiKhoan": [],
+    "ChiaSeVaiTro": []
+  }
+},
+{
+  "_id": {
+    "$oid": "691d6a60b913000020000865"
+  },
+  "MaMuc": "PM",
+  "TenMuc": "Saint Pierre and Miquelon",
+  "Metadata": {
+    "ThoiGianTao": {
+      "$numberLong": "1769754866807"
+    },
+    "ThoiGianCapNhat": {
+      "$numberLong": "1769754866807"
+    },
+    "NguoiTaoLap": "BXD-ADMIN",
+    "ChuSoHuu": "BXD-ADMIN",
+    "TrangThaiDuLieu": "Active",
+    "PhienBanDuLieu": "1",
+    "XuLyDuLieu": "",
+    "QRCode": "",
+    "PhanVungDuLieu": {
+      "MaMuc": "",
+      "TenMuc": ""
+    },
+    "ChiaSeTaiKhoan": [],
+    "ChiaSeVaiTro": []
+  }
+},
+{
+  "_id": {
+    "$oid": "691d6a60b913000020000866"
+  },
+  "MaMuc": "PN",
+  "TenMuc": "Pitcairn",
+  "Metadata": {
+    "ThoiGianTao": {
+      "$numberLong": "1769754866807"
+    },
+    "ThoiGianCapNhat": {
+      "$numberLong": "1769754866807"
+    },
+    "NguoiTaoLap": "BXD-ADMIN",
+    "ChuSoHuu": "BXD-ADMIN",
+    "TrangThaiDuLieu": "Active",
+    "PhienBanDuLieu": "1",
+    "XuLyDuLieu": "",
+    "QRCode": "",
+    "PhanVungDuLieu": {
+      "MaMuc": "",
+      "TenMuc": ""
+    },
+    "ChiaSeTaiKhoan": [],
+    "ChiaSeVaiTro": []
+  }
+},
+{
+  "_id": {
+    "$oid": "691d6a60b913000020000867"
+  },
+  "MaMuc": "PR",
+  "TenMuc": "Puerto Rico",
+  "Metadata": {
+    "ThoiGianTao": {
+      "$numberLong": "1769754866807"
+    },
+    "ThoiGianCapNhat": {
+      "$numberLong": "1769754866807"
+    },
+    "NguoiTaoLap": "BXD-ADMIN",
+    "ChuSoHuu": "BXD-ADMIN",
+    "TrangThaiDuLieu": "Active",
+    "PhienBanDuLieu": "1",
+    "XuLyDuLieu": "",
+    "QRCode": "",
+    "PhanVungDuLieu": {
+      "MaMuc": "",
+      "TenMuc": ""
+    },
+    "ChiaSeTaiKhoan": [],
+    "ChiaSeVaiTro": []
+  }
+},
+{
+  "_id": {
+    "$oid": "691d6a60b913000020000868"
+  },
+  "MaMuc": "PS",
+  "TenMuc": "Palestine, State of",
+  "Metadata": {
+    "ThoiGianTao": {
+      "$numberLong": "1769754866807"
+    },
+    "ThoiGianCapNhat": {
+      "$numberLong": "1769754866807"
+    },
+    "NguoiTaoLap": "BXD-ADMIN",
+    "ChuSoHuu": "BXD-ADMIN",
+    "TrangThaiDuLieu": "Active",
+    "PhienBanDuLieu": "1",
+    "XuLyDuLieu": "",
+    "QRCode": "",
+    "PhanVungDuLieu": {
+      "MaMuc": "",
+      "TenMuc": ""
+    },
+    "ChiaSeTaiKhoan": [],
+    "ChiaSeVaiTro": []
+  }
+},
+{
+  "_id": {
+    "$oid": "691d6a60b913000020000869"
+  },
+  "MaMuc": "PT",
+  "TenMuc": "Portugal",
+  "Metadata": {
+    "ThoiGianTao": {
+      "$numberLong": "1769754866807"
+    },
+    "ThoiGianCapNhat": {
+      "$numberLong": "1769754866807"
+    },
+    "NguoiTaoLap": "BXD-ADMIN",
+    "ChuSoHuu": "BXD-ADMIN",
+    "TrangThaiDuLieu": "Active",
+    "PhienBanDuLieu": "1",
+    "XuLyDuLieu": "",
+    "QRCode": "",
+    "PhanVungDuLieu": {
+      "MaMuc": "",
+      "TenMuc": ""
+    },
+    "ChiaSeTaiKhoan": [],
+    "ChiaSeVaiTro": []
+  }
+},
+{
+  "_id": {
+    "$oid": "691d6a60b91300002000086a"
+  },
+  "MaMuc": "PW",
+  "TenMuc": "Palau",
+  "Metadata": {
+    "ThoiGianTao": {
+      "$numberLong": "1769754866807"
+    },
+    "ThoiGianCapNhat": {
+      "$numberLong": "1769754866807"
+    },
+    "NguoiTaoLap": "BXD-ADMIN",
+    "ChuSoHuu": "BXD-ADMIN",
+    "TrangThaiDuLieu": "Active",
+    "PhienBanDuLieu": "1",
+    "XuLyDuLieu": "",
+    "QRCode": "",
+    "PhanVungDuLieu": {
+      "MaMuc": "",
+      "TenMuc": ""
+    },
+    "ChiaSeTaiKhoan": [],
+    "ChiaSeVaiTro": []
+  }
+},
+{
+  "_id": {
+    "$oid": "691d6a60b91300002000086b"
+  },
+  "MaMuc": "PY",
+  "TenMuc": "Paraguay",
+  "Metadata": {
+    "ThoiGianTao": {
+      "$numberLong": "1769754866807"
+    },
+    "ThoiGianCapNhat": {
+      "$numberLong": "1769754866807"
+    },
+    "NguoiTaoLap": "BXD-ADMIN",
+    "ChuSoHuu": "BXD-ADMIN",
+    "TrangThaiDuLieu": "Active",
+    "PhienBanDuLieu": "1",
+    "XuLyDuLieu": "",
+    "QRCode": "",
+    "PhanVungDuLieu": {
+      "MaMuc": "",
+      "TenMuc": ""
+    },
+    "ChiaSeTaiKhoan": [],
+    "ChiaSeVaiTro": []
+  }
+},
+{
+  "_id": {
+    "$oid": "691d6a60b91300002000086c"
+  },
+  "MaMuc": "QA",
+  "TenMuc": "Qatar",
+  "Metadata": {
+    "ThoiGianTao": {
+      "$numberLong": "1769754866807"
+    },
+    "ThoiGianCapNhat": {
+      "$numberLong": "1769754866807"
+    },
+    "NguoiTaoLap": "BXD-ADMIN",
+    "ChuSoHuu": "BXD-ADMIN",
+    "TrangThaiDuLieu": "Active",
+    "PhienBanDuLieu": "1",
+    "XuLyDuLieu": "",
+    "QRCode": "",
+    "PhanVungDuLieu": {
+      "MaMuc": "",
+      "TenMuc": ""
+    },
+    "ChiaSeTaiKhoan": [],
+    "ChiaSeVaiTro": []
+  }
+},
+{
+  "_id": {
+    "$oid": "691d6a60b91300002000086d"
+  },
+  "MaMuc": "RE",
+  "TenMuc": "Réunion",
+  "Metadata": {
+    "ThoiGianTao": {
+      "$numberLong": "1769754866807"
+    },
+    "ThoiGianCapNhat": {
+      "$numberLong": "1769754866807"
+    },
+    "NguoiTaoLap": "BXD-ADMIN",
+    "ChuSoHuu": "BXD-ADMIN",
+    "TrangThaiDuLieu": "Active",
+    "PhienBanDuLieu": "1",
+    "XuLyDuLieu": "",
+    "QRCode": "",
+    "PhanVungDuLieu": {
+      "MaMuc": "",
+      "TenMuc": ""
+    },
+    "ChiaSeTaiKhoan": [],
+    "ChiaSeVaiTro": []
+  }
+},
+{
+  "_id": {
+    "$oid": "691d6a60b91300002000086e"
+  },
+  "MaMuc": "RO",
+  "TenMuc": "Romania",
+  "Metadata": {
+    "ThoiGianTao": {
+      "$numberLong": "1769754866807"
+    },
+    "ThoiGianCapNhat": {
+      "$numberLong": "1769754866807"
+    },
+    "NguoiTaoLap": "BXD-ADMIN",
+    "ChuSoHuu": "BXD-ADMIN",
+    "TrangThaiDuLieu": "Active",
+    "PhienBanDuLieu": "1",
+    "XuLyDuLieu": "",
+    "QRCode": "",
+    "PhanVungDuLieu": {
+      "MaMuc": "",
+      "TenMuc": ""
+    },
+    "ChiaSeTaiKhoan": [],
+    "ChiaSeVaiTro": []
+  }
+},
+{
+  "_id": {
+    "$oid": "691d6a60b91300002000086f"
+  },
+  "MaMuc": "RS",
+  "TenMuc": "Serbia",
+  "Metadata": {
+    "ThoiGianTao": {
+      "$numberLong": "1769754866807"
+    },
+    "ThoiGianCapNhat": {
+      "$numberLong": "1769754866807"
+    },
+    "NguoiTaoLap": "BXD-ADMIN",
+    "ChuSoHuu": "BXD-ADMIN",
+    "TrangThaiDuLieu": "Active",
+    "PhienBanDuLieu": "1",
+    "XuLyDuLieu": "",
+    "QRCode": "",
+    "PhanVungDuLieu": {
+      "MaMuc": "",
+      "TenMuc": ""
+    },
+    "ChiaSeTaiKhoan": [],
+    "ChiaSeVaiTro": []
+  }
+},
+{
+  "_id": {
+    "$oid": "691d6a60b913000020000870"
+  },
+  "MaMuc": "RU",
+  "TenMuc": "Russian Federation",
+  "Metadata": {
+    "ThoiGianTao": {
+      "$numberLong": "1769754866807"
+    },
+    "ThoiGianCapNhat": {
+      "$numberLong": "1769754866807"
+    },
+    "NguoiTaoLap": "BXD-ADMIN",
+    "ChuSoHuu": "BXD-ADMIN",
+    "TrangThaiDuLieu": "Active",
+    "PhienBanDuLieu": "1",
+    "XuLyDuLieu": "",
+    "QRCode": "",
+    "PhanVungDuLieu": {
+      "MaMuc": "",
+      "TenMuc": ""
+    },
+    "ChiaSeTaiKhoan": [],
+    "ChiaSeVaiTro": []
+  }
+},
+{
+  "_id": {
+    "$oid": "691d6a60b913000020000871"
+  },
+  "MaMuc": "RW",
+  "TenMuc": "Rwanda",
+  "Metadata": {
+    "ThoiGianTao": {
+      "$numberLong": "1769754866807"
+    },
+    "ThoiGianCapNhat": {
+      "$numberLong": "1769754866807"
+    },
+    "NguoiTaoLap": "BXD-ADMIN",
+    "ChuSoHuu": "BXD-ADMIN",
+    "TrangThaiDuLieu": "Active",
+    "PhienBanDuLieu": "1",
+    "XuLyDuLieu": "",
+    "QRCode": "",
+    "PhanVungDuLieu": {
+      "MaMuc": "",
+      "TenMuc": ""
+    },
+    "ChiaSeTaiKhoan": [],
+    "ChiaSeVaiTro": []
+  }
+},
+{
+  "_id": {
+    "$oid": "691d6a60b913000020000872"
+  },
+  "MaMuc": "SA",
+  "TenMuc": "Saudi Arabia",
+  "Metadata": {
+    "ThoiGianTao": {
+      "$numberLong": "1769754866807"
+    },
+    "ThoiGianCapNhat": {
+      "$numberLong": "1769754866807"
+    },
+    "NguoiTaoLap": "BXD-ADMIN",
+    "ChuSoHuu": "BXD-ADMIN",
+    "TrangThaiDuLieu": "Active",
+    "PhienBanDuLieu": "1",
+    "XuLyDuLieu": "",
+    "QRCode": "",
+    "PhanVungDuLieu": {
+      "MaMuc": "",
+      "TenMuc": ""
+    },
+    "ChiaSeTaiKhoan": [],
+    "ChiaSeVaiTro": []
+  }
+},
+{
+  "_id": {
+    "$oid": "691d6a60b913000020000873"
+  },
+  "MaMuc": "SB",
+  "TenMuc": "Solomon Islands",
+  "Metadata": {
+    "ThoiGianTao": {
+      "$numberLong": "1769754866807"
+    },
+    "ThoiGianCapNhat": {
+      "$numberLong": "1769754866807"
+    },
+    "NguoiTaoLap": "BXD-ADMIN",
+    "ChuSoHuu": "BXD-ADMIN",
+    "TrangThaiDuLieu": "Active",
+    "PhienBanDuLieu": "1",
+    "XuLyDuLieu": "",
+    "QRCode": "",
+    "PhanVungDuLieu": {
+      "MaMuc": "",
+      "TenMuc": ""
+    },
+    "ChiaSeTaiKhoan": [],
+    "ChiaSeVaiTro": []
+  }
+},
+{
+  "_id": {
+    "$oid": "691d6a60b913000020000874"
+  },
+  "MaMuc": "SC",
+  "TenMuc": "Seychelles",
+  "Metadata": {
+    "ThoiGianTao": {
+      "$numberLong": "1769754866807"
+    },
+    "ThoiGianCapNhat": {
+      "$numberLong": "1769754866807"
+    },
+    "NguoiTaoLap": "BXD-ADMIN",
+    "ChuSoHuu": "BXD-ADMIN",
+    "TrangThaiDuLieu": "Active",
+    "PhienBanDuLieu": "1",
+    "XuLyDuLieu": "",
+    "QRCode": "",
+    "PhanVungDuLieu": {
+      "MaMuc": "",
+      "TenMuc": ""
+    },
+    "ChiaSeTaiKhoan": [],
+    "ChiaSeVaiTro": []
+  }
+},
+{
+  "_id": {
+    "$oid": "691d6a60b913000020000875"
+  },
+  "MaMuc": "SD",
+  "TenMuc": "Sudan",
+  "Metadata": {
+    "ThoiGianTao": {
+      "$numberLong": "1769754866807"
+    },
+    "ThoiGianCapNhat": {
+      "$numberLong": "1769754866807"
+    },
+    "NguoiTaoLap": "BXD-ADMIN",
+    "ChuSoHuu": "BXD-ADMIN",
+    "TrangThaiDuLieu": "Active",
+    "PhienBanDuLieu": "1",
+    "XuLyDuLieu": "",
+    "QRCode": "",
+    "PhanVungDuLieu": {
+      "MaMuc": "",
+      "TenMuc": ""
+    },
+    "ChiaSeTaiKhoan": [],
+    "ChiaSeVaiTro": []
+  }
+},
+{
+  "_id": {
+    "$oid": "691d6a60b913000020000876"
+  },
+  "MaMuc": "SE",
+  "TenMuc": "Sweden",
+  "Metadata": {
+    "ThoiGianTao": {
+      "$numberLong": "1769754866807"
+    },
+    "ThoiGianCapNhat": {
+      "$numberLong": "1769754866807"
+    },
+    "NguoiTaoLap": "BXD-ADMIN",
+    "ChuSoHuu": "BXD-ADMIN",
+    "TrangThaiDuLieu": "Active",
+    "PhienBanDuLieu": "1",
+    "XuLyDuLieu": "",
+    "QRCode": "",
+    "PhanVungDuLieu": {
+      "MaMuc": "",
+      "TenMuc": ""
+    },
+    "ChiaSeTaiKhoan": [],
+    "ChiaSeVaiTro": []
+  }
+},
+{
+  "_id": {
+    "$oid": "691d6a60b913000020000877"
+  },
+  "MaMuc": "SG",
+  "TenMuc": "Singapore",
+  "Metadata": {
+    "ThoiGianTao": {
+      "$numberLong": "1769754866807"
+    },
+    "ThoiGianCapNhat": {
+      "$numberLong": "1769754866807"
+    },
+    "NguoiTaoLap": "BXD-ADMIN",
+    "ChuSoHuu": "BXD-ADMIN",
+    "TrangThaiDuLieu": "Active",
+    "PhienBanDuLieu": "1",
+    "XuLyDuLieu": "",
+    "QRCode": "",
+    "PhanVungDuLieu": {
+      "MaMuc": "",
+      "TenMuc": ""
+    },
+    "ChiaSeTaiKhoan": [],
+    "ChiaSeVaiTro": []
+  }
+},
+{
+  "_id": {
+    "$oid": "691d6a60b913000020000878"
+  },
+  "MaMuc": "SH",
+  "TenMuc": "Saint Helena, Ascension and Tristan da Cunha",
+  "Metadata": {
+    "ThoiGianTao": {
+      "$numberLong": "1769754866807"
+    },
+    "ThoiGianCapNhat": {
+      "$numberLong": "1769754866807"
+    },
+    "NguoiTaoLap": "BXD-ADMIN",
+    "ChuSoHuu": "BXD-ADMIN",
+    "TrangThaiDuLieu": "Active",
+    "PhienBanDuLieu": "1",
+    "XuLyDuLieu": "",
+    "QRCode": "",
+    "PhanVungDuLieu": {
+      "MaMuc": "",
+      "TenMuc": ""
+    },
+    "ChiaSeTaiKhoan": [],
+    "ChiaSeVaiTro": []
+  }
+},
+{
+  "_id": {
+    "$oid": "691d6a60b913000020000879"
+  },
+  "MaMuc": "SI",
+  "TenMuc": "Slovenia",
+  "Metadata": {
+    "ThoiGianTao": {
+      "$numberLong": "1769754866807"
+    },
+    "ThoiGianCapNhat": {
+      "$numberLong": "1769754866807"
+    },
+    "NguoiTaoLap": "BXD-ADMIN",
+    "ChuSoHuu": "BXD-ADMIN",
+    "TrangThaiDuLieu": "Active",
+    "PhienBanDuLieu": "1",
+    "XuLyDuLieu": "",
+    "QRCode": "",
+    "PhanVungDuLieu": {
+      "MaMuc": "",
+      "TenMuc": ""
+    },
+    "ChiaSeTaiKhoan": [],
+    "ChiaSeVaiTro": []
+  }
+},
+{
+  "_id": {
+    "$oid": "691d6a60b91300002000087a"
+  },
+  "MaMuc": "SJ",
+  "TenMuc": "Svalbard and Jan Mayen",
+  "Metadata": {
+    "ThoiGianTao": {
+      "$numberLong": "1769754866807"
+    },
+    "ThoiGianCapNhat": {
+      "$numberLong": "1769754866807"
+    },
+    "NguoiTaoLap": "BXD-ADMIN",
+    "ChuSoHuu": "BXD-ADMIN",
+    "TrangThaiDuLieu": "Active",
+    "PhienBanDuLieu": "1",
+    "XuLyDuLieu": "",
+    "QRCode": "",
+    "PhanVungDuLieu": {
+      "MaMuc": "",
+      "TenMuc": ""
+    },
+    "ChiaSeTaiKhoan": [],
+    "ChiaSeVaiTro": []
+  }
+},
+{
+  "_id": {
+    "$oid": "691d6a60b91300002000087b"
+  },
+  "MaMuc": "SK",
+  "TenMuc": "Slovakia",
+  "Metadata": {
+    "ThoiGianTao": {
+      "$numberLong": "1769754866807"
+    },
+    "ThoiGianCapNhat": {
+      "$numberLong": "1769754866807"
+    },
+    "NguoiTaoLap": "BXD-ADMIN",
+    "ChuSoHuu": "BXD-ADMIN",
+    "TrangThaiDuLieu": "Active",
+    "PhienBanDuLieu": "1",
+    "XuLyDuLieu": "",
+    "QRCode": "",
+    "PhanVungDuLieu": {
+      "MaMuc": "",
+      "TenMuc": ""
+    },
+    "ChiaSeTaiKhoan": [],
+    "ChiaSeVaiTro": []
+  }
+},
+{
+  "_id": {
+    "$oid": "691d6a60b91300002000087c"
+  },
+  "MaMuc": "SL",
+  "TenMuc": "Sierra Leone",
+  "Metadata": {
+    "ThoiGianTao": {
+      "$numberLong": "1769754866807"
+    },
+    "ThoiGianCapNhat": {
+      "$numberLong": "1769754866807"
+    },
+    "NguoiTaoLap": "BXD-ADMIN",
+    "ChuSoHuu": "BXD-ADMIN",
+    "TrangThaiDuLieu": "Active",
+    "PhienBanDuLieu": "1",
+    "XuLyDuLieu": "",
+    "QRCode": "",
+    "PhanVungDuLieu": {
+      "MaMuc": "",
+      "TenMuc": ""
+    },
+    "ChiaSeTaiKhoan": [],
+    "ChiaSeVaiTro": []
+  }
+},
+{
+  "_id": {
+    "$oid": "691d6a60b91300002000087d"
+  },
+  "MaMuc": "SM",
+  "TenMuc": "San Marino",
+  "Metadata": {
+    "ThoiGianTao": {
+      "$numberLong": "1769754866807"
+    },
+    "ThoiGianCapNhat": {
+      "$numberLong": "1769754866807"
+    },
+    "NguoiTaoLap": "BXD-ADMIN",
+    "ChuSoHuu": "BXD-ADMIN",
+    "TrangThaiDuLieu": "Active",
+    "PhienBanDuLieu": "1",
+    "XuLyDuLieu": "",
+    "QRCode": "",
+    "PhanVungDuLieu": {
+      "MaMuc": "",
+      "TenMuc": ""
+    },
+    "ChiaSeTaiKhoan": [],
+    "ChiaSeVaiTro": []
+  }
+},
+{
+  "_id": {
+    "$oid": "691d6a60b91300002000087e"
+  },
+  "MaMuc": "SN",
+  "TenMuc": "Senegal",
+  "Metadata": {
+    "ThoiGianTao": {
+      "$numberLong": "1769754866807"
+    },
+    "ThoiGianCapNhat": {
+      "$numberLong": "1769754866807"
+    },
+    "NguoiTaoLap": "BXD-ADMIN",
+    "ChuSoHuu": "BXD-ADMIN",
+    "TrangThaiDuLieu": "Active",
+    "PhienBanDuLieu": "1",
+    "XuLyDuLieu": "",
+    "QRCode": "",
+    "PhanVungDuLieu": {
+      "MaMuc": "",
+      "TenMuc": ""
+    },
+    "ChiaSeTaiKhoan": [],
+    "ChiaSeVaiTro": []
+  }
+},
+{
+  "_id": {
+    "$oid": "691d6a60b91300002000087f"
+  },
+  "MaMuc": "SO",
+  "TenMuc": "Somalia",
+  "Metadata": {
+    "ThoiGianTao": {
+      "$numberLong": "1769754866807"
+    },
+    "ThoiGianCapNhat": {
+      "$numberLong": "1769754866807"
+    },
+    "NguoiTaoLap": "BXD-ADMIN",
+    "ChuSoHuu": "BXD-ADMIN",
+    "TrangThaiDuLieu": "Active",
+    "PhienBanDuLieu": "1",
+    "XuLyDuLieu": "",
+    "QRCode": "",
+    "PhanVungDuLieu": {
+      "MaMuc": "",
+      "TenMuc": ""
+    },
+    "ChiaSeTaiKhoan": [],
+    "ChiaSeVaiTro": []
+  }
+},
+{
+  "_id": {
+    "$oid": "691d6a60b913000020000880"
+  },
+  "MaMuc": "SR",
+  "TenMuc": "Suriname",
+  "Metadata": {
+    "ThoiGianTao": {
+      "$numberLong": "1769754866807"
+    },
+    "ThoiGianCapNhat": {
+      "$numberLong": "1769754866807"
+    },
+    "NguoiTaoLap": "BXD-ADMIN",
+    "ChuSoHuu": "BXD-ADMIN",
+    "TrangThaiDuLieu": "Active",
+    "PhienBanDuLieu": "1",
+    "XuLyDuLieu": "",
+    "QRCode": "",
+    "PhanVungDuLieu": {
+      "MaMuc": "",
+      "TenMuc": ""
+    },
+    "ChiaSeTaiKhoan": [],
+    "ChiaSeVaiTro": []
+  }
+},
+{
+  "_id": {
+    "$oid": "691d6a60b913000020000881"
+  },
+  "MaMuc": "SS",
+  "TenMuc": "South Sudan",
+  "Metadata": {
+    "ThoiGianTao": {
+      "$numberLong": "1769754866807"
+    },
+    "ThoiGianCapNhat": {
+      "$numberLong": "1769754866807"
+    },
+    "NguoiTaoLap": "BXD-ADMIN",
+    "ChuSoHuu": "BXD-ADMIN",
+    "TrangThaiDuLieu": "Active",
+    "PhienBanDuLieu": "1",
+    "XuLyDuLieu": "",
+    "QRCode": "",
+    "PhanVungDuLieu": {
+      "MaMuc": "",
+      "TenMuc": ""
+    },
+    "ChiaSeTaiKhoan": [],
+    "ChiaSeVaiTro": []
+  }
+},
+{
+  "_id": {
+    "$oid": "691d6a60b913000020000882"
+  },
+  "MaMuc": "ST",
+  "TenMuc": "Sao Tome and Principe",
+  "Metadata": {
+    "ThoiGianTao": {
+      "$numberLong": "1769754866807"
+    },
+    "ThoiGianCapNhat": {
+      "$numberLong": "1769754866807"
+    },
+    "NguoiTaoLap": "BXD-ADMIN",
+    "ChuSoHuu": "BXD-ADMIN",
+    "TrangThaiDuLieu": "Active",
+    "PhienBanDuLieu": "1",
+    "XuLyDuLieu": "",
+    "QRCode": "",
+    "PhanVungDuLieu": {
+      "MaMuc": "",
+      "TenMuc": ""
+    },
+    "ChiaSeTaiKhoan": [],
+    "ChiaSeVaiTro": []
+  }
+},
+{
+  "_id": {
+    "$oid": "691d6a60b913000020000883"
+  },
+  "MaMuc": "SV",
+  "TenMuc": "El Salvador",
+  "Metadata": {
+    "ThoiGianTao": {
+      "$numberLong": "1769754866807"
+    },
+    "ThoiGianCapNhat": {
+      "$numberLong": "1769754866807"
+    },
+    "NguoiTaoLap": "BXD-ADMIN",
+    "ChuSoHuu": "BXD-ADMIN",
+    "TrangThaiDuLieu": "Active",
+    "PhienBanDuLieu": "1",
+    "XuLyDuLieu": "",
+    "QRCode": "",
+    "PhanVungDuLieu": {
+      "MaMuc": "",
+      "TenMuc": ""
+    },
+    "ChiaSeTaiKhoan": [],
+    "ChiaSeVaiTro": []
+  }
+},
+{
+  "_id": {
+    "$oid": "691d6a60b913000020000884"
+  },
+  "MaMuc": "SX",
+  "TenMuc": "Sint Maarten (Dutch part)",
+  "Metadata": {
+    "ThoiGianTao": {
+      "$numberLong": "1769754866807"
+    },
+    "ThoiGianCapNhat": {
+      "$numberLong": "1769754866807"
+    },
+    "NguoiTaoLap": "BXD-ADMIN",
+    "ChuSoHuu": "BXD-ADMIN",
+    "TrangThaiDuLieu": "Active",
+    "PhienBanDuLieu": "1",
+    "XuLyDuLieu": "",
+    "QRCode": "",
+    "PhanVungDuLieu": {
+      "MaMuc": "",
+      "TenMuc": ""
+    },
+    "ChiaSeTaiKhoan": [],
+    "ChiaSeVaiTro": []
+  }
+},
+{
+  "_id": {
+    "$oid": "691d6a60b913000020000885"
+  },
+  "MaMuc": "SY",
+  "TenMuc": "Syrian Arab Republic",
+  "Metadata": {
+    "ThoiGianTao": {
+      "$numberLong": "1769754866807"
+    },
+    "ThoiGianCapNhat": {
+      "$numberLong": "1769754866807"
+    },
+    "NguoiTaoLap": "BXD-ADMIN",
+    "ChuSoHuu": "BXD-ADMIN",
+    "TrangThaiDuLieu": "Active",
+    "PhienBanDuLieu": "1",
+    "XuLyDuLieu": "",
+    "QRCode": "",
+    "PhanVungDuLieu": {
+      "MaMuc": "",
+      "TenMuc": ""
+    },
+    "ChiaSeTaiKhoan": [],
+    "ChiaSeVaiTro": []
+  }
+},
+{
+  "_id": {
+    "$oid": "691d6a60b913000020000886"
+  },
+  "MaMuc": "SZ",
+  "TenMuc": "Swaziland",
+  "Metadata": {
+    "ThoiGianTao": {
+      "$numberLong": "1769754866807"
+    },
+    "ThoiGianCapNhat": {
+      "$numberLong": "1769754866807"
+    },
+    "NguoiTaoLap": "BXD-ADMIN",
+    "ChuSoHuu": "BXD-ADMIN",
+    "TrangThaiDuLieu": "Active",
+    "PhienBanDuLieu": "1",
+    "XuLyDuLieu": "",
+    "QRCode": "",
+    "PhanVungDuLieu": {
+      "MaMuc": "",
+      "TenMuc": ""
+    },
+    "ChiaSeTaiKhoan": [],
+    "ChiaSeVaiTro": []
+  }
+},
+{
+  "_id": {
+    "$oid": "691d6a60b913000020000887"
+  },
+  "MaMuc": "TC",
+  "TenMuc": "Turks and Caicos Islands",
+  "Metadata": {
+    "ThoiGianTao": {
+      "$numberLong": "1769754866807"
+    },
+    "ThoiGianCapNhat": {
+      "$numberLong": "1769754866807"
+    },
+    "NguoiTaoLap": "BXD-ADMIN",
+    "ChuSoHuu": "BXD-ADMIN",
+    "TrangThaiDuLieu": "Active",
+    "PhienBanDuLieu": "1",
+    "XuLyDuLieu": "",
+    "QRCode": "",
+    "PhanVungDuLieu": {
+      "MaMuc": "",
+      "TenMuc": ""
+    },
+    "ChiaSeTaiKhoan": [],
+    "ChiaSeVaiTro": []
+  }
+},
+{
+  "_id": {
+    "$oid": "691d6a60b913000020000888"
+  },
+  "MaMuc": "TD",
+  "TenMuc": "Chad",
+  "Metadata": {
+    "ThoiGianTao": {
+      "$numberLong": "1769754866807"
+    },
+    "ThoiGianCapNhat": {
+      "$numberLong": "1769754866807"
+    },
+    "NguoiTaoLap": "BXD-ADMIN",
+    "ChuSoHuu": "BXD-ADMIN",
+    "TrangThaiDuLieu": "Active",
+    "PhienBanDuLieu": "1",
+    "XuLyDuLieu": "",
+    "QRCode": "",
+    "PhanVungDuLieu": {
+      "MaMuc": "",
+      "TenMuc": ""
+    },
+    "ChiaSeTaiKhoan": [],
+    "ChiaSeVaiTro": []
+  }
+},
+{
+  "_id": {
+    "$oid": "691d6a60b913000020000889"
+  },
+  "MaMuc": "TF",
+  "TenMuc": "French Southern Territories",
+  "Metadata": {
+    "ThoiGianTao": {
+      "$numberLong": "1769754866807"
+    },
+    "ThoiGianCapNhat": {
+      "$numberLong": "1769754866807"
+    },
+    "NguoiTaoLap": "BXD-ADMIN",
+    "ChuSoHuu": "BXD-ADMIN",
+    "TrangThaiDuLieu": "Active",
+    "PhienBanDuLieu": "1",
+    "XuLyDuLieu": "",
+    "QRCode": "",
+    "PhanVungDuLieu": {
+      "MaMuc": "",
+      "TenMuc": ""
+    },
+    "ChiaSeTaiKhoan": [],
+    "ChiaSeVaiTro": []
+  }
+},
+{
+  "_id": {
+    "$oid": "691d6a60b91300002000088a"
+  },
+  "MaMuc": "TG",
+  "TenMuc": "Togo",
+  "Metadata": {
+    "ThoiGianTao": {
+      "$numberLong": "1769754866807"
+    },
+    "ThoiGianCapNhat": {
+      "$numberLong": "1769754866807"
+    },
+    "NguoiTaoLap": "BXD-ADMIN",
+    "ChuSoHuu": "BXD-ADMIN",
+    "TrangThaiDuLieu": "Active",
+    "PhienBanDuLieu": "1",
+    "XuLyDuLieu": "",
+    "QRCode": "",
+    "PhanVungDuLieu": {
+      "MaMuc": "",
+      "TenMuc": ""
+    },
+    "ChiaSeTaiKhoan": [],
+    "ChiaSeVaiTro": []
+  }
+},
+{
+  "_id": {
+    "$oid": "691d6a60b91300002000088b"
+  },
+  "MaMuc": "TH",
+  "TenMuc": "Thailand",
+  "Metadata": {
+    "ThoiGianTao": {
+      "$numberLong": "1769754866807"
+    },
+    "ThoiGianCapNhat": {
+      "$numberLong": "1769754866807"
+    },
+    "NguoiTaoLap": "BXD-ADMIN",
+    "ChuSoHuu": "BXD-ADMIN",
+    "TrangThaiDuLieu": "Active",
+    "PhienBanDuLieu": "1",
+    "XuLyDuLieu": "",
+    "QRCode": "",
+    "PhanVungDuLieu": {
+      "MaMuc": "",
+      "TenMuc": ""
+    },
+    "ChiaSeTaiKhoan": [],
+    "ChiaSeVaiTro": []
+  }
+},
+{
+  "_id": {
+    "$oid": "691d6a60b91300002000088c"
+  },
+  "MaMuc": "TJ",
+  "TenMuc": "Tajikistan",
+  "Metadata": {
+    "ThoiGianTao": {
+      "$numberLong": "1769754866807"
+    },
+    "ThoiGianCapNhat": {
+      "$numberLong": "1769754866807"
+    },
+    "NguoiTaoLap": "BXD-ADMIN",
+    "ChuSoHuu": "BXD-ADMIN",
+    "TrangThaiDuLieu": "Active",
+    "PhienBanDuLieu": "1",
+    "XuLyDuLieu": "",
+    "QRCode": "",
+    "PhanVungDuLieu": {
+      "MaMuc": "",
+      "TenMuc": ""
+    },
+    "ChiaSeTaiKhoan": [],
+    "ChiaSeVaiTro": []
+  }
+},
+{
+  "_id": {
+    "$oid": "691d6a60b91300002000088d"
+  },
+  "MaMuc": "TK",
+  "TenMuc": "Tokelau",
+  "Metadata": {
+    "ThoiGianTao": {
+      "$numberLong": "1769754866807"
+    },
+    "ThoiGianCapNhat": {
+      "$numberLong": "1769754866807"
+    },
+    "NguoiTaoLap": "BXD-ADMIN",
+    "ChuSoHuu": "BXD-ADMIN",
+    "TrangThaiDuLieu": "Active",
+    "PhienBanDuLieu": "1",
+    "XuLyDuLieu": "",
+    "QRCode": "",
+    "PhanVungDuLieu": {
+      "MaMuc": "",
+      "TenMuc": ""
+    },
+    "ChiaSeTaiKhoan": [],
+    "ChiaSeVaiTro": []
+  }
+},
+{
+  "_id": {
+    "$oid": "691d6a60b91300002000088e"
+  },
+  "MaMuc": "TL",
+  "TenMuc": "Timor-Leste",
+  "Metadata": {
+    "ThoiGianTao": {
+      "$numberLong": "1769754866807"
+    },
+    "ThoiGianCapNhat": {
+      "$numberLong": "1769754866807"
+    },
+    "NguoiTaoLap": "BXD-ADMIN",
+    "ChuSoHuu": "BXD-ADMIN",
+    "TrangThaiDuLieu": "Active",
+    "PhienBanDuLieu": "1",
+    "XuLyDuLieu": "",
+    "QRCode": "",
+    "PhanVungDuLieu": {
+      "MaMuc": "",
+      "TenMuc": ""
+    },
+    "ChiaSeTaiKhoan": [],
+    "ChiaSeVaiTro": []
+  }
+},
+{
+  "_id": {
+    "$oid": "691d6a60b91300002000088f"
+  },
+  "MaMuc": "TM",
+  "TenMuc": "Turkmenistan",
+  "Metadata": {
+    "ThoiGianTao": {
+      "$numberLong": "1769754866807"
+    },
+    "ThoiGianCapNhat": {
+      "$numberLong": "1769754866807"
+    },
+    "NguoiTaoLap": "BXD-ADMIN",
+    "ChuSoHuu": "BXD-ADMIN",
+    "TrangThaiDuLieu": "Active",
+    "PhienBanDuLieu": "1",
+    "XuLyDuLieu": "",
+    "QRCode": "",
+    "PhanVungDuLieu": {
+      "MaMuc": "",
+      "TenMuc": ""
+    },
+    "ChiaSeTaiKhoan": [],
+    "ChiaSeVaiTro": []
+  }
+},
+{
+  "_id": {
+    "$oid": "691d6a60b913000020000890"
+  },
+  "MaMuc": "TN",
+  "TenMuc": "Tunisia",
+  "Metadata": {
+    "ThoiGianTao": {
+      "$numberLong": "1769754866807"
+    },
+    "ThoiGianCapNhat": {
+      "$numberLong": "1769754866807"
+    },
+    "NguoiTaoLap": "BXD-ADMIN",
+    "ChuSoHuu": "BXD-ADMIN",
+    "TrangThaiDuLieu": "Active",
+    "PhienBanDuLieu": "1",
+    "XuLyDuLieu": "",
+    "QRCode": "",
+    "PhanVungDuLieu": {
+      "MaMuc": "",
+      "TenMuc": ""
+    },
+    "ChiaSeTaiKhoan": [],
+    "ChiaSeVaiTro": []
+  }
+},
+{
+  "_id": {
+    "$oid": "691d6a60b913000020000891"
+  },
+  "MaMuc": "TO",
+  "TenMuc": "Tonga",
+  "Metadata": {
+    "ThoiGianTao": {
+      "$numberLong": "1769754866807"
+    },
+    "ThoiGianCapNhat": {
+      "$numberLong": "1769754866807"
+    },
+    "NguoiTaoLap": "BXD-ADMIN",
+    "ChuSoHuu": "BXD-ADMIN",
+    "TrangThaiDuLieu": "Active",
+    "PhienBanDuLieu": "1",
+    "XuLyDuLieu": "",
+    "QRCode": "",
+    "PhanVungDuLieu": {
+      "MaMuc": "",
+      "TenMuc": ""
+    },
+    "ChiaSeTaiKhoan": [],
+    "ChiaSeVaiTro": []
+  }
+},
+{
+  "_id": {
+    "$oid": "691d6a60b913000020000892"
+  },
+  "MaMuc": "TR",
+  "TenMuc": "Turkey",
+  "Metadata": {
+    "ThoiGianTao": {
+      "$numberLong": "1769754866807"
+    },
+    "ThoiGianCapNhat": {
+      "$numberLong": "1769754866807"
+    },
+    "NguoiTaoLap": "BXD-ADMIN",
+    "ChuSoHuu": "BXD-ADMIN",
+    "TrangThaiDuLieu": "Active",
+    "PhienBanDuLieu": "1",
+    "XuLyDuLieu": "",
+    "QRCode": "",
+    "PhanVungDuLieu": {
+      "MaMuc": "",
+      "TenMuc": ""
+    },
+    "ChiaSeTaiKhoan": [],
+    "ChiaSeVaiTro": []
+  }
+},
+{
+  "_id": {
+    "$oid": "691d6a60b913000020000893"
+  },
+  "MaMuc": "TT",
+  "TenMuc": "Trinidad and Tobago",
+  "Metadata": {
+    "ThoiGianTao": {
+      "$numberLong": "1769754866807"
+    },
+    "ThoiGianCapNhat": {
+      "$numberLong": "1769754866807"
+    },
+    "NguoiTaoLap": "BXD-ADMIN",
+    "ChuSoHuu": "BXD-ADMIN",
+    "TrangThaiDuLieu": "Active",
+    "PhienBanDuLieu": "1",
+    "XuLyDuLieu": "",
+    "QRCode": "",
+    "PhanVungDuLieu": {
+      "MaMuc": "",
+      "TenMuc": ""
+    },
+    "ChiaSeTaiKhoan": [],
+    "ChiaSeVaiTro": []
+  }
+},
+{
+  "_id": {
+    "$oid": "691d6a60b913000020000894"
+  },
+  "MaMuc": "TV",
+  "TenMuc": "Tuvalu",
+  "Metadata": {
+    "ThoiGianTao": {
+      "$numberLong": "1769754866807"
+    },
+    "ThoiGianCapNhat": {
+      "$numberLong": "1769754866807"
+    },
+    "NguoiTaoLap": "BXD-ADMIN",
+    "ChuSoHuu": "BXD-ADMIN",
+    "TrangThaiDuLieu": "Active",
+    "PhienBanDuLieu": "1",
+    "XuLyDuLieu": "",
+    "QRCode": "",
+    "PhanVungDuLieu": {
+      "MaMuc": "",
+      "TenMuc": ""
+    },
+    "ChiaSeTaiKhoan": [],
+    "ChiaSeVaiTro": []
+  }
+},
+{
+  "_id": {
+    "$oid": "691d6a60b913000020000895"
+  },
+  "MaMuc": "TW",
+  "TenMuc": "Taiwan, Province of China",
+  "Metadata": {
+    "ThoiGianTao": {
+      "$numberLong": "1769754866807"
+    },
+    "ThoiGianCapNhat": {
+      "$numberLong": "1769754866807"
+    },
+    "NguoiTaoLap": "BXD-ADMIN",
+    "ChuSoHuu": "BXD-ADMIN",
+    "TrangThaiDuLieu": "Active",
+    "PhienBanDuLieu": "1",
+    "XuLyDuLieu": "",
+    "QRCode": "",
+    "PhanVungDuLieu": {
+      "MaMuc": "",
+      "TenMuc": ""
+    },
+    "ChiaSeTaiKhoan": [],
+    "ChiaSeVaiTro": []
+  }
+},
+{
+  "_id": {
+    "$oid": "691d6a60b913000020000896"
+  },
+  "MaMuc": "TZ",
+  "TenMuc": "Tanzania, United Republic of",
+  "Metadata": {
+    "ThoiGianTao": {
+      "$numberLong": "1769754866807"
+    },
+    "ThoiGianCapNhat": {
+      "$numberLong": "1769754866807"
+    },
+    "NguoiTaoLap": "BXD-ADMIN",
+    "ChuSoHuu": "BXD-ADMIN",
+    "TrangThaiDuLieu": "Active",
+    "PhienBanDuLieu": "1",
+    "XuLyDuLieu": "",
+    "QRCode": "",
+    "PhanVungDuLieu": {
+      "MaMuc": "",
+      "TenMuc": ""
+    },
+    "ChiaSeTaiKhoan": [],
+    "ChiaSeVaiTro": []
+  }
+},
+{
+  "_id": {
+    "$oid": "691d6a60b913000020000897"
+  },
+  "MaMuc": "UA",
+  "TenMuc": "Ukraine",
+  "Metadata": {
+    "ThoiGianTao": {
+      "$numberLong": "1769754866807"
+    },
+    "ThoiGianCapNhat": {
+      "$numberLong": "1769754866807"
+    },
+    "NguoiTaoLap": "BXD-ADMIN",
+    "ChuSoHuu": "BXD-ADMIN",
+    "TrangThaiDuLieu": "Active",
+    "PhienBanDuLieu": "1",
+    "XuLyDuLieu": "",
+    "QRCode": "",
+    "PhanVungDuLieu": {
+      "MaMuc": "",
+      "TenMuc": ""
+    },
+    "ChiaSeTaiKhoan": [],
+    "ChiaSeVaiTro": []
+  }
+},
+{
+  "_id": {
+    "$oid": "691d6a60b913000020000898"
+  },
+  "MaMuc": "UG",
+  "TenMuc": "Uganda",
+  "Metadata": {
+    "ThoiGianTao": {
+      "$numberLong": "1769754866807"
+    },
+    "ThoiGianCapNhat": {
+      "$numberLong": "1769754866807"
+    },
+    "NguoiTaoLap": "BXD-ADMIN",
+    "ChuSoHuu": "BXD-ADMIN",
+    "TrangThaiDuLieu": "Active",
+    "PhienBanDuLieu": "1",
+    "XuLyDuLieu": "",
+    "QRCode": "",
+    "PhanVungDuLieu": {
+      "MaMuc": "",
+      "TenMuc": ""
+    },
+    "ChiaSeTaiKhoan": [],
+    "ChiaSeVaiTro": []
+  }
+},
+{
+  "_id": {
+    "$oid": "691d6a60b913000020000899"
+  },
+  "MaMuc": "UM",
+  "TenMuc": "United States Minor Outlying Islands",
+  "Metadata": {
+    "ThoiGianTao": {
+      "$numberLong": "1769754866807"
+    },
+    "ThoiGianCapNhat": {
+      "$numberLong": "1769754866807"
+    },
+    "NguoiTaoLap": "BXD-ADMIN",
+    "ChuSoHuu": "BXD-ADMIN",
+    "TrangThaiDuLieu": "Active",
+    "PhienBanDuLieu": "1",
+    "XuLyDuLieu": "",
+    "QRCode": "",
+    "PhanVungDuLieu": {
+      "MaMuc": "",
+      "TenMuc": ""
+    },
+    "ChiaSeTaiKhoan": [],
+    "ChiaSeVaiTro": []
+  }
+},
+{
+  "_id": {
+    "$oid": "691d6a60b91300002000089a"
+  },
+  "MaMuc": "US",
+  "TenMuc": "United States of America",
+  "Metadata": {
+    "ThoiGianTao": {
+      "$numberLong": "1769754866807"
+    },
+    "ThoiGianCapNhat": {
+      "$numberLong": "1769754866807"
+    },
+    "NguoiTaoLap": "BXD-ADMIN",
+    "ChuSoHuu": "BXD-ADMIN",
+    "TrangThaiDuLieu": "Active",
+    "PhienBanDuLieu": "1",
+    "XuLyDuLieu": "",
+    "QRCode": "",
+    "PhanVungDuLieu": {
+      "MaMuc": "",
+      "TenMuc": ""
+    },
+    "ChiaSeTaiKhoan": [],
+    "ChiaSeVaiTro": []
+  }
+},
+{
+  "_id": {
+    "$oid": "691d6a60b91300002000089b"
+  },
+  "MaMuc": "UY",
+  "TenMuc": "Uruguay",
+  "Metadata": {
+    "ThoiGianTao": {
+      "$numberLong": "1769754866807"
+    },
+    "ThoiGianCapNhat": {
+      "$numberLong": "1769754866807"
+    },
+    "NguoiTaoLap": "BXD-ADMIN",
+    "ChuSoHuu": "BXD-ADMIN",
+    "TrangThaiDuLieu": "Active",
+    "PhienBanDuLieu": "1",
+    "XuLyDuLieu": "",
+    "QRCode": "",
+    "PhanVungDuLieu": {
+      "MaMuc": "",
+      "TenMuc": ""
+    },
+    "ChiaSeTaiKhoan": [],
+    "ChiaSeVaiTro": []
+  }
+},
+{
+  "_id": {
+    "$oid": "691d6a60b91300002000089c"
+  },
+  "MaMuc": "UZ",
+  "TenMuc": "Uzbekistan",
+  "Metadata": {
+    "ThoiGianTao": {
+      "$numberLong": "1769754866807"
+    },
+    "ThoiGianCapNhat": {
+      "$numberLong": "1769754866807"
+    },
+    "NguoiTaoLap": "BXD-ADMIN",
+    "ChuSoHuu": "BXD-ADMIN",
+    "TrangThaiDuLieu": "Active",
+    "PhienBanDuLieu": "1",
+    "XuLyDuLieu": "",
+    "QRCode": "",
+    "PhanVungDuLieu": {
+      "MaMuc": "",
+      "TenMuc": ""
+    },
+    "ChiaSeTaiKhoan": [],
+    "ChiaSeVaiTro": []
+  }
+},
+{
+  "_id": {
+    "$oid": "691d6a60b91300002000089d"
+  },
+  "MaMuc": "VA",
+  "TenMuc": "Holy See",
+  "Metadata": {
+    "ThoiGianTao": {
+      "$numberLong": "1769754866807"
+    },
+    "ThoiGianCapNhat": {
+      "$numberLong": "1769754866807"
+    },
+    "NguoiTaoLap": "BXD-ADMIN",
+    "ChuSoHuu": "BXD-ADMIN",
+    "TrangThaiDuLieu": "Active",
+    "PhienBanDuLieu": "1",
+    "XuLyDuLieu": "",
+    "QRCode": "",
+    "PhanVungDuLieu": {
+      "MaMuc": "",
+      "TenMuc": ""
+    },
+    "ChiaSeTaiKhoan": [],
+    "ChiaSeVaiTro": []
+  }
+},
+{
+  "_id": {
+    "$oid": "691d6a60b91300002000089e"
+  },
+  "MaMuc": "VC",
+  "TenMuc": "Saint Vincent and the Grenadines",
+  "Metadata": {
+    "ThoiGianTao": {
+      "$numberLong": "1769754866807"
+    },
+    "ThoiGianCapNhat": {
+      "$numberLong": "1769754866807"
+    },
+    "NguoiTaoLap": "BXD-ADMIN",
+    "ChuSoHuu": "BXD-ADMIN",
+    "TrangThaiDuLieu": "Active",
+    "PhienBanDuLieu": "1",
+    "XuLyDuLieu": "",
+    "QRCode": "",
+    "PhanVungDuLieu": {
+      "MaMuc": "",
+      "TenMuc": ""
+    },
+    "ChiaSeTaiKhoan": [],
+    "ChiaSeVaiTro": []
+  }
+},
+{
+  "_id": {
+    "$oid": "691d6a60b91300002000089f"
+  },
+  "MaMuc": "VE",
+  "TenMuc": "Venezuela, Bolivarian Republic of",
+  "Metadata": {
+    "ThoiGianTao": {
+      "$numberLong": "1769754866807"
+    },
+    "ThoiGianCapNhat": {
+      "$numberLong": "1769754866807"
+    },
+    "NguoiTaoLap": "BXD-ADMIN",
+    "ChuSoHuu": "BXD-ADMIN",
+    "TrangThaiDuLieu": "Active",
+    "PhienBanDuLieu": "1",
+    "XuLyDuLieu": "",
+    "QRCode": "",
+    "PhanVungDuLieu": {
+      "MaMuc": "",
+      "TenMuc": ""
+    },
+    "ChiaSeTaiKhoan": [],
+    "ChiaSeVaiTro": []
+  }
+},
+{
+  "_id": {
+    "$oid": "691d6a60b9130000200008a0"
+  },
+  "MaMuc": "VG",
+  "TenMuc": "Virgin Islands, British",
+  "Metadata": {
+    "ThoiGianTao": {
+      "$numberLong": "1769754866807"
+    },
+    "ThoiGianCapNhat": {
+      "$numberLong": "1769754866807"
+    },
+    "NguoiTaoLap": "BXD-ADMIN",
+    "ChuSoHuu": "BXD-ADMIN",
+    "TrangThaiDuLieu": "Active",
+    "PhienBanDuLieu": "1",
+    "XuLyDuLieu": "",
+    "QRCode": "",
+    "PhanVungDuLieu": {
+      "MaMuc": "",
+      "TenMuc": ""
+    },
+    "ChiaSeTaiKhoan": [],
+    "ChiaSeVaiTro": []
+  }
+},
+{
+  "_id": {
+    "$oid": "691d6a60b9130000200008a1"
+  },
+  "MaMuc": "VI",
+  "TenMuc": "Virgin Islands, U.S.",
+  "Metadata": {
+    "ThoiGianTao": {
+      "$numberLong": "1769754866807"
+    },
+    "ThoiGianCapNhat": {
+      "$numberLong": "1769754866807"
+    },
+    "NguoiTaoLap": "BXD-ADMIN",
+    "ChuSoHuu": "BXD-ADMIN",
+    "TrangThaiDuLieu": "Active",
+    "PhienBanDuLieu": "1",
+    "XuLyDuLieu": "",
+    "QRCode": "",
+    "PhanVungDuLieu": {
+      "MaMuc": "",
+      "TenMuc": ""
+    },
+    "ChiaSeTaiKhoan": [],
+    "ChiaSeVaiTro": []
+  }
+},
+{
+  "_id": {
+    "$oid": "691d6a60b9130000200008a2"
+  },
+  "MaMuc": "VN",
+  "TenMuc": "Viet Nam",
+  "Metadata": {
+    "ThoiGianTao": {
+      "$numberLong": "1769754866807"
+    },
+    "ThoiGianCapNhat": {
+      "$numberLong": "1769754866807"
+    },
+    "NguoiTaoLap": "BXD-ADMIN",
+    "ChuSoHuu": "BXD-ADMIN",
+    "TrangThaiDuLieu": "Active",
+    "PhienBanDuLieu": "1",
+    "XuLyDuLieu": "",
+    "QRCode": "",
+    "PhanVungDuLieu": {
+      "MaMuc": "",
+      "TenMuc": ""
+    },
+    "ChiaSeTaiKhoan": [],
+    "ChiaSeVaiTro": []
+  }
+},
+{
+  "_id": {
+    "$oid": "691d6a60b9130000200008a3"
+  },
+  "MaMuc": "VU",
+  "TenMuc": "Vanuatu",
+  "Metadata": {
+    "ThoiGianTao": {
+      "$numberLong": "1769754866807"
+    },
+    "ThoiGianCapNhat": {
+      "$numberLong": "1769754866807"
+    },
+    "NguoiTaoLap": "BXD-ADMIN",
+    "ChuSoHuu": "BXD-ADMIN",
+    "TrangThaiDuLieu": "Active",
+    "PhienBanDuLieu": "1",
+    "XuLyDuLieu": "",
+    "QRCode": "",
+    "PhanVungDuLieu": {
+      "MaMuc": "",
+      "TenMuc": ""
+    },
+    "ChiaSeTaiKhoan": [],
+    "ChiaSeVaiTro": []
+  }
+},
+{
+  "_id": {
+    "$oid": "691d6a60b9130000200008a4"
+  },
+  "MaMuc": "WF",
+  "TenMuc": "Wallis and Futuna",
+  "Metadata": {
+    "ThoiGianTao": {
+      "$numberLong": "1769754866807"
+    },
+    "ThoiGianCapNhat": {
+      "$numberLong": "1769754866807"
+    },
+    "NguoiTaoLap": "BXD-ADMIN",
+    "ChuSoHuu": "BXD-ADMIN",
+    "TrangThaiDuLieu": "Active",
+    "PhienBanDuLieu": "1",
+    "XuLyDuLieu": "",
+    "QRCode": "",
+    "PhanVungDuLieu": {
+      "MaMuc": "",
+      "TenMuc": ""
+    },
+    "ChiaSeTaiKhoan": [],
+    "ChiaSeVaiTro": []
+  }
+},
+{
+  "_id": {
+    "$oid": "691d6a60b9130000200008a5"
+  },
+  "MaMuc": "WS",
+  "TenMuc": "Samoa",
+  "Metadata": {
+    "ThoiGianTao": {
+      "$numberLong": "1769754866807"
+    },
+    "ThoiGianCapNhat": {
+      "$numberLong": "1769754866807"
+    },
+    "NguoiTaoLap": "BXD-ADMIN",
+    "ChuSoHuu": "BXD-ADMIN",
+    "TrangThaiDuLieu": "Active",
+    "PhienBanDuLieu": "1",
+    "XuLyDuLieu": "",
+    "QRCode": "",
+    "PhanVungDuLieu": {
+      "MaMuc": "",
+      "TenMuc": ""
+    },
+    "ChiaSeTaiKhoan": [],
+    "ChiaSeVaiTro": []
+  }
+},
+{
+  "_id": {
+    "$oid": "691d6a60b9130000200008a6"
+  },
+  "MaMuc": "YE",
+  "TenMuc": "Yemen",
+  "Metadata": {
+    "ThoiGianTao": {
+      "$numberLong": "1769754866807"
+    },
+    "ThoiGianCapNhat": {
+      "$numberLong": "1769754866807"
+    },
+    "NguoiTaoLap": "BXD-ADMIN",
+    "ChuSoHuu": "BXD-ADMIN",
+    "TrangThaiDuLieu": "Active",
+    "PhienBanDuLieu": "1",
+    "XuLyDuLieu": "",
+    "QRCode": "",
+    "PhanVungDuLieu": {
+      "MaMuc": "",
+      "TenMuc": ""
+    },
+    "ChiaSeTaiKhoan": [],
+    "ChiaSeVaiTro": []
+  }
+},
+{
+  "_id": {
+    "$oid": "691d6a60b9130000200008a7"
+  },
+  "MaMuc": "YT",
+  "TenMuc": "Mayotte",
+  "Metadata": {
+    "ThoiGianTao": {
+      "$numberLong": "1769754866807"
+    },
+    "ThoiGianCapNhat": {
+      "$numberLong": "1769754866807"
+    },
+    "NguoiTaoLap": "BXD-ADMIN",
+    "ChuSoHuu": "BXD-ADMIN",
+    "TrangThaiDuLieu": "Active",
+    "PhienBanDuLieu": "1",
+    "XuLyDuLieu": "",
+    "QRCode": "",
+    "PhanVungDuLieu": {
+      "MaMuc": "",
+      "TenMuc": ""
+    },
+    "ChiaSeTaiKhoan": [],
+    "ChiaSeVaiTro": []
+  }
+},
+{
+  "_id": {
+    "$oid": "691d6a60b9130000200008a8"
+  },
+  "MaMuc": "ZA",
+  "TenMuc": "South Africa",
+  "Metadata": {
+    "ThoiGianTao": {
+      "$numberLong": "1769754866807"
+    },
+    "ThoiGianCapNhat": {
+      "$numberLong": "1769754866807"
+    },
+    "NguoiTaoLap": "BXD-ADMIN",
+    "ChuSoHuu": "BXD-ADMIN",
+    "TrangThaiDuLieu": "Active",
+    "PhienBanDuLieu": "1",
+    "XuLyDuLieu": "",
+    "QRCode": "",
+    "PhanVungDuLieu": {
+      "MaMuc": "",
+      "TenMuc": ""
+    },
+    "ChiaSeTaiKhoan": [],
+    "ChiaSeVaiTro": []
+  }
+},
+{
+  "_id": {
+    "$oid": "691d6a60b9130000200008a9"
+  },
+  "MaMuc": "ZM",
+  "TenMuc": "Zambia",
+  "Metadata": {
+    "ThoiGianTao": {
+      "$numberLong": "1769754866807"
+    },
+    "ThoiGianCapNhat": {
+      "$numberLong": "1769754866807"
+    },
+    "NguoiTaoLap": "BXD-ADMIN",
+    "ChuSoHuu": "BXD-ADMIN",
+    "TrangThaiDuLieu": "Active",
+    "PhienBanDuLieu": "1",
+    "XuLyDuLieu": "",
+    "QRCode": "",
+    "PhanVungDuLieu": {
+      "MaMuc": "",
+      "TenMuc": ""
+    },
+    "ChiaSeTaiKhoan": [],
+    "ChiaSeVaiTro": []
+  }
+},
+{
+  "_id": {
+    "$oid": "691d6a60b9130000200008aa"
+  },
+  "MaMuc": "ZW",
+  "TenMuc": "Zimbabwe",
+  "Metadata": {
+    "ThoiGianTao": {
+      "$numberLong": "1769754866807"
+    },
+    "ThoiGianCapNhat": {
+      "$numberLong": "1769754866807"
+    },
+    "NguoiTaoLap": "BXD-ADMIN",
+    "ChuSoHuu": "BXD-ADMIN",
+    "TrangThaiDuLieu": "Active",
+    "PhienBanDuLieu": "1",
+    "XuLyDuLieu": "",
+    "QRCode": "",
+    "PhanVungDuLieu": {
+      "MaMuc": "",
+      "TenMuc": ""
+    },
+    "ChiaSeTaiKhoan": [],
+    "ChiaSeVaiTro": []
+  }
+}]

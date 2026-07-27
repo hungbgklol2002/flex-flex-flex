@@ -1,0 +1,107 @@
+[{
+  "_id": {
+    "$oid": "6a05796014f816834509b305"
+  },
+  "MaMuc": "0",
+  "TenMuc": "Động cơ đốt trong",
+  "Metadata": {
+    "ThoiGianTao": {
+      "$numberLong": "1778743648970"
+    },
+    "ThoiGianCapNhat": {
+      "$numberLong": "1778743648970"
+    },
+    "NguoiTaoLap": "BXD-ADMIN",
+    "ChuSoHuu": "BXD-ADMIN",
+    "TrangThaiDuLieu": "Active",
+    "PhienBanDuLieu": "1",
+    "NguonThamChieu": {
+      "NguonDuLieu": "",
+      "MaThamChieu": "0",
+      "ThoiGianXuLy": {
+        "$numberLong": "1778743648445"
+      }
+    },
+    "XuLyDuLieu": "ee09a8f6-1d53-4279-9391-4225327d96fd",
+    "QRCode": "",
+    "PhanVungDuLieu": {
+      "MaMuc": "",
+      "TenMuc": ""
+    },
+    "ChiaSeTaiKhoan": [],
+    "ChiaSeVaiTro": []
+  }
+},
+{
+  "_id": {
+    "$oid": "6a05796b14f816834509b307"
+  },
+  "MaMuc": "1",
+  "TenMuc": "Động cơ điện",
+  "Metadata": {
+    "ThoiGianTao": {
+      "$numberLong": "1778743659041"
+    },
+    "ThoiGianCapNhat": {
+      "$numberLong": "1780547902268"
+    },
+    "NguoiTaoLap": "BXD-ADMIN",
+    "ChuSoHuu": "BXD-ADMIN",
+    "TrangThaiDuLieu": "Active",
+    "PhienBanDuLieu": "3",
+    "NguonThamChieu": {
+      "NguonDuLieu": "",
+      "MaThamChieu": "1",
+      "ThoiGianXuLy": {
+        "$numberLong": "1780547902262"
+      }
+    },
+    "XuLyDuLieu": "2651466b-d17e-4821-9200-79c021cbda08",
+    "QRCode": "",
+    "PhanVungDuLieu": {
+      "MaMuc": "",
+      "TenMuc": ""
+    },
+    "ChiaSeTaiKhoan": [],
+    "ChiaSeVaiTro": [],
+    "CSFLE": {
+      "keyAltName": "csdlpt"
+    },
+    "DongBoDuLieu": [],
+    "NguoiSuaDoi": "BXD-ADMIN"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a057974d6044a9dc12c65d9"
+  },
+  "MaMuc": "2",
+  "TenMuc": "Không có động cơ",
+  "Metadata": {
+    "ThoiGianTao": {
+      "$numberLong": "1778743668836"
+    },
+    "ThoiGianCapNhat": {
+      "$numberLong": "1778743668836"
+    },
+    "NguoiTaoLap": "BXD-ADMIN",
+    "ChuSoHuu": "BXD-ADMIN",
+    "TrangThaiDuLieu": "Active",
+    "PhienBanDuLieu": "1",
+    "NguonThamChieu": {
+      "NguonDuLieu": "",
+      "MaThamChieu": "2",
+      "ThoiGianXuLy": {
+        "$numberLong": "1778743668826"
+      }
+    },
+    "XuLyDuLieu": "5ad5a725-a6bd-4488-887d-560a6da44550",
+    "QRCode": "",
+    "PhanVungDuLieu": {
+      "MaMuc": "",
+      "TenMuc": ""
+    },
+    "ChiaSeTaiKhoan": [],
+    "ChiaSeVaiTro": []
+  }
+}]

@@ -1,0 +1,152 @@
+[{
+  "_id": {
+    "$oid": "68a2dfff5e6b000082007e6f"
+  },
+  "MaMuc": "01",
+  "TenMuc": "Tàu chở hàng",
+  "Metadata": {
+    "ThoiGianTao": {
+      "$numberLong": "1778644175190"
+    },
+    "ThoiGianCapNhat": {
+      "$numberLong": "1778644175190"
+    },
+    "NguoiTaoLap": "BXD-ADMIN",
+    "ChuSoHuu": "BXD-ADMIN",
+    "TrangThaiDuLieu": "Active",
+    "PhienBanDuLieu": "1",
+    "NguonThamChieu": {
+      "NguonDuLieu": "",
+      "MaThamChieu": "11",
+      "ThoiGianXuLy": {
+        "$numberLong": "1778644175173"
+      }
+    },
+    "XuLyDuLieu": "2b54d87d-bdf0-4048-a0ec-58458563f3d4",
+    "QRCode": "",
+    "PhanVungDuLieu": {
+      "MaMuc": "",
+      "TenMuc": ""
+    },
+    "ChiaSeTaiKhoan": [],
+    "ChiaSeVaiTro": [],
+    "CSFLE": {
+      "keyAltName": "csdlpt",
+      "fields": {}
+    }
+  }
+},
+{
+  "_id": {
+    "$oid": "68a2dfff5e6b000082007e70"
+  },
+  "MaMuc": "02",
+  "TenMuc": "Tàu chở người",
+  "Metadata": {
+    "ThoiGianTao": {
+      "$numberLong": "1778644175190"
+    },
+    "ThoiGianCapNhat": {
+      "$numberLong": "1778644175190"
+    },
+    "NguoiTaoLap": "BXD-ADMIN",
+    "ChuSoHuu": "BXD-ADMIN",
+    "TrangThaiDuLieu": "Active",
+    "PhienBanDuLieu": "1",
+    "NguonThamChieu": {
+      "NguonDuLieu": "",
+      "MaThamChieu": "11",
+      "ThoiGianXuLy": {
+        "$numberLong": "1778644175173"
+      }
+    },
+    "XuLyDuLieu": "2b54d87d-bdf0-4048-a0ec-58458563f3d4",
+    "QRCode": "",
+    "PhanVungDuLieu": {
+      "MaMuc": "",
+      "TenMuc": ""
+    },
+    "ChiaSeTaiKhoan": [],
+    "ChiaSeVaiTro": [],
+    "CSFLE": {
+      "keyAltName": "csdlpt",
+      "fields": {}
+    }
+  }
+},
+{
+  "_id": {
+    "$oid": "68a2dfff5e6b000082007e71"
+  },
+  "MaMuc": "03",
+  "TenMuc": "Tàu khách",
+  "Metadata": {
+    "ThoiGianTao": {
+      "$numberLong": "1778644175190"
+    },
+    "ThoiGianCapNhat": {
+      "$numberLong": "1778644175190"
+    },
+    "NguoiTaoLap": "BXD-ADMIN",
+    "ChuSoHuu": "BXD-ADMIN",
+    "TrangThaiDuLieu": "Active",
+    "PhienBanDuLieu": "1",
+    "NguonThamChieu": {
+      "NguonDuLieu": "",
+      "MaThamChieu": "11",
+      "ThoiGianXuLy": {
+        "$numberLong": "1778644175173"
+      }
+    },
+    "XuLyDuLieu": "2b54d87d-bdf0-4048-a0ec-58458563f3d4",
+    "QRCode": "",
+    "PhanVungDuLieu": {
+      "MaMuc": "",
+      "TenMuc": ""
+    },
+    "ChiaSeTaiKhoan": [],
+    "ChiaSeVaiTro": [],
+    "CSFLE": {
+      "keyAltName": "csdlpt",
+      "fields": {}
+    }
+  }
+},
+{
+  "_id": {
+    "$oid": "68a2dfff5e6b000082007e72"
+  },
+  "MaMuc": "99",
+  "TenMuc": "Tàu khác",
+  "Metadata": {
+    "ThoiGianTao": {
+      "$numberLong": "1778644175190"
+    },
+    "ThoiGianCapNhat": {
+      "$numberLong": "1778644175190"
+    },
+    "NguoiTaoLap": "BXD-ADMIN",
+    "ChuSoHuu": "BXD-ADMIN",
+    "TrangThaiDuLieu": "Active",
+    "PhienBanDuLieu": "1",
+    "NguonThamChieu": {
+      "NguonDuLieu": "",
+      "MaThamChieu": "11",
+      "ThoiGianXuLy": {
+        "$numberLong": "1778644175173"
+      }
+    },
+    "XuLyDuLieu": "2b54d87d-bdf0-4048-a0ec-58458563f3d4",
+    "QRCode": "",
+    "PhanVungDuLieu": {
+      "MaMuc": "",
+      "TenMuc": ""
+    },
+    "ChiaSeTaiKhoan": [],
+    "ChiaSeVaiTro": [],
+    "CSFLE": {
+      "keyAltName": "csdlpt",
+      "fields": {}
+    }
+  }
+}]

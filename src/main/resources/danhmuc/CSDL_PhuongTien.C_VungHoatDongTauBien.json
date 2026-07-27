@@ -1,0 +1,820 @@
+[{
+  "_id": {
+    "$oid": "6a1d2571a42aac25b3c7b5b2"
+  },
+  "MaMuc": "01",
+  "TenMuc": "Biển hạn chế I (Cách bờ hoặc nơi trú ẩn không quá ... hải lý)",
+  "Metadata": {
+    "ThoiGianTao": {
+      "$numberLong": "1780295025150"
+    },
+    "ThoiGianCapNhat": {
+      "$numberLong": "1782180003767"
+    },
+    "NguoiTaoLap": "BXD-ADMIN",
+    "ChuSoHuu": "BXD-ADMIN",
+    "TrangThaiDuLieu": "Active",
+    "PhienBanDuLieu": "2",
+    "NguonThamChieu": {
+      "NguonDuLieu": "",
+      "MaThamChieu": "01",
+      "ThoiGianXuLy": {
+        "$numberLong": "1782180003660"
+      }
+    },
+    "XuLyDuLieu": "fb98b4ef-4648-4895-9b46-2a3ce558ae12",
+    "QRCode": "",
+    "PhanVungDuLieu": {
+      "MaMuc": "",
+      "TenMuc": ""
+    },
+    "ChiaSeTaiKhoan": [],
+    "ChiaSeVaiTro": [],
+    "CSFLE": {
+      "keyAltName": "csdlpt",
+      "fields": {}
+    },
+    "DongBoDuLieu": [
+      {
+        "MaDongBo": "13b9cb4b-c470-479e-b78d-b08e2eb876b8",
+        "DichVuDongBo": {
+          "MaMuc": "C12_C_VungHoatDongTauBien",
+          "TenMuc": "API tiếp nhận dữ liệu Danh mục vùng hoạt động tàu biển"
+        },
+        "TrangThaiDongBo": "OK"
+      }
+    ],
+    "NguoiSuaDoi": "BXD-ADMIN"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a1d2580a42aac25b3c7b62c"
+  },
+  "MaMuc": "02",
+  "TenMuc": "Biển hạn chế II (Cách bờ hoặc nơi trú ẩn không quá ... hải lý)",
+  "Metadata": {
+    "ThoiGianTao": {
+      "$numberLong": "1780295040572"
+    },
+    "ThoiGianCapNhat": {
+      "$numberLong": "1782180028319"
+    },
+    "NguoiTaoLap": "BXD-ADMIN",
+    "ChuSoHuu": "BXD-ADMIN",
+    "TrangThaiDuLieu": "Active",
+    "PhienBanDuLieu": "2",
+    "NguonThamChieu": {
+      "NguonDuLieu": "",
+      "MaThamChieu": "02",
+      "ThoiGianXuLy": {
+        "$numberLong": "1782180028281"
+      }
+    },
+    "XuLyDuLieu": "7171bba0-15d4-43b1-a9c6-bbf2a120dee3",
+    "QRCode": "",
+    "PhanVungDuLieu": {
+      "MaMuc": "",
+      "TenMuc": ""
+    },
+    "ChiaSeTaiKhoan": [],
+    "ChiaSeVaiTro": [],
+    "CSFLE": {
+      "keyAltName": "csdlpt",
+      "fields": {}
+    },
+    "DongBoDuLieu": [
+      {
+        "MaDongBo": "a54bce55-7b9d-4ca9-a385-5733c7a13cf5",
+        "DichVuDongBo": {
+          "MaMuc": "C12_C_VungHoatDongTauBien",
+          "TenMuc": "API tiếp nhận dữ liệu Danh mục vùng hoạt động tàu biển"
+        },
+        "TrangThaiDongBo": "OK"
+      }
+    ],
+    "NguoiSuaDoi": "BXD-ADMIN"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a1d258da42aac25b3c7b6c2"
+  },
+  "MaMuc": "03",
+  "TenMuc": "Biển hạn chế III (Cách bờ hoặc nơi trú ẩn không quá ... hải lý)",
+  "Metadata": {
+    "ThoiGianTao": {
+      "$numberLong": "1780295053325"
+    },
+    "ThoiGianCapNhat": {
+      "$numberLong": "1782180036218"
+    },
+    "NguoiTaoLap": "BXD-ADMIN",
+    "ChuSoHuu": "BXD-ADMIN",
+    "TrangThaiDuLieu": "Active",
+    "PhienBanDuLieu": "2",
+    "NguonThamChieu": {
+      "NguonDuLieu": "",
+      "MaThamChieu": "03",
+      "ThoiGianXuLy": {
+        "$numberLong": "1782180036149"
+      }
+    },
+    "XuLyDuLieu": "755071ac-0067-42a7-a8e9-c89240574ed5",
+    "QRCode": "",
+    "PhanVungDuLieu": {
+      "MaMuc": "",
+      "TenMuc": ""
+    },
+    "ChiaSeTaiKhoan": [],
+    "ChiaSeVaiTro": [],
+    "CSFLE": {
+      "keyAltName": "csdlpt",
+      "fields": {}
+    },
+    "DongBoDuLieu": [
+      {
+        "MaDongBo": "9558cb83-3794-42ae-8039-98b88dc30472",
+        "DichVuDongBo": {
+          "MaMuc": "C12_C_VungHoatDongTauBien",
+          "TenMuc": "API tiếp nhận dữ liệu Danh mục vùng hoạt động tàu biển"
+        },
+        "TrangThaiDongBo": "OK"
+      }
+    ],
+    "NguoiSuaDoi": "BXD-ADMIN"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a1d2597a42aac25b3c7b733"
+  },
+  "MaMuc": "04",
+  "TenMuc": "Không hạn chế",
+  "Metadata": {
+    "ThoiGianTao": {
+      "$numberLong": "1780295063796"
+    },
+    "ThoiGianCapNhat": {
+      "$numberLong": "1782180152435"
+    },
+    "NguoiTaoLap": "BXD-ADMIN",
+    "ChuSoHuu": "BXD-ADMIN",
+    "TrangThaiDuLieu": "Active",
+    "PhienBanDuLieu": "2",
+    "NguonThamChieu": {
+      "NguonDuLieu": "",
+      "MaThamChieu": "04",
+      "ThoiGianXuLy": {
+        "$numberLong": "1782180152403"
+      }
+    },
+    "XuLyDuLieu": "42218af7-4f24-4eb8-8e5d-1af346e2016b",
+    "QRCode": "",
+    "PhanVungDuLieu": {
+      "MaMuc": "",
+      "TenMuc": ""
+    },
+    "ChiaSeTaiKhoan": [],
+    "ChiaSeVaiTro": [],
+    "CSFLE": {
+      "keyAltName": "csdlpt",
+      "fields": {}
+    },
+    "DongBoDuLieu": [
+      {
+        "MaDongBo": "6d67013f-2d55-452b-aedf-1b4d7a7c26aa",
+        "DichVuDongBo": {
+          "MaMuc": "C12_C_VungHoatDongTauBien",
+          "TenMuc": "API tiếp nhận dữ liệu Danh mục vùng hoạt động tàu biển"
+        },
+        "TrangThaiDongBo": "OK"
+      }
+    ],
+    "NguoiSuaDoi": "BXD-ADMIN"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a39e967767e301db2192b3d"
+  },
+  "MaMuc": "10",
+  "TenMuc": "Du thuyền cấp A",
+  "Metadata": {
+    "ThoiGianTao": {
+      "$numberLong": "1782180199389"
+    },
+    "ThoiGianCapNhat": {
+      "$numberLong": "1782180199389"
+    },
+    "NguoiTaoLap": "BXD-ADMIN",
+    "ChuSoHuu": "BXD-ADMIN",
+    "TrangThaiDuLieu": "Active",
+    "PhienBanDuLieu": "1",
+    "NguonThamChieu": {
+      "NguonDuLieu": "",
+      "MaThamChieu": "10",
+      "ThoiGianXuLy": {
+        "$numberLong": "1782180199307"
+      }
+    },
+    "XuLyDuLieu": "da958ec8-a605-4b51-9e46-7443ab75cfb6",
+    "QRCode": "",
+    "PhanVungDuLieu": {
+      "MaMuc": "",
+      "TenMuc": ""
+    },
+    "ChiaSeTaiKhoan": [],
+    "ChiaSeVaiTro": [],
+    "CSFLE": {
+      "keyAltName": "csdlpt",
+      "fields": {}
+    },
+    "DongBoDuLieu": [
+      {
+        "MaDongBo": "391d475f-4264-4aca-96d0-1ea702692eda",
+        "DichVuDongBo": {
+          "MaMuc": "C12_C_VungHoatDongTauBien",
+          "TenMuc": "API tiếp nhận dữ liệu Danh mục vùng hoạt động tàu biển"
+        },
+        "TrangThaiDongBo": "OK"
+      }
+    ]
+  }
+},
+{
+  "_id": {
+    "$oid": "6a39e973767e301db2192b3f"
+  },
+  "MaMuc": "11",
+  "TenMuc": "Du thuyền cấp A1",
+  "Metadata": {
+    "ThoiGianTao": {
+      "$numberLong": "1782180211878"
+    },
+    "ThoiGianCapNhat": {
+      "$numberLong": "1782180211878"
+    },
+    "NguoiTaoLap": "BXD-ADMIN",
+    "ChuSoHuu": "BXD-ADMIN",
+    "TrangThaiDuLieu": "Active",
+    "PhienBanDuLieu": "1",
+    "NguonThamChieu": {
+      "NguonDuLieu": "",
+      "MaThamChieu": "11",
+      "ThoiGianXuLy": {
+        "$numberLong": "1782180211862"
+      }
+    },
+    "XuLyDuLieu": "db26e172-18f5-4e18-b86b-9cfdfac5ba71",
+    "QRCode": "",
+    "PhanVungDuLieu": {
+      "MaMuc": "",
+      "TenMuc": ""
+    },
+    "ChiaSeTaiKhoan": [],
+    "ChiaSeVaiTro": [],
+    "CSFLE": {
+      "keyAltName": "csdlpt",
+      "fields": {}
+    },
+    "DongBoDuLieu": [
+      {
+        "MaDongBo": "8d8933cb-54e0-4681-96b9-4cb55bc077b9",
+        "DichVuDongBo": {
+          "MaMuc": "C12_C_VungHoatDongTauBien",
+          "TenMuc": "API tiếp nhận dữ liệu Danh mục vùng hoạt động tàu biển"
+        },
+        "TrangThaiDongBo": "OK"
+      }
+    ]
+  }
+},
+{
+  "_id": {
+    "$oid": "6a39e97a767e301db2192b41"
+  },
+  "MaMuc": "12",
+  "TenMuc": "Du thuyền cấp A2",
+  "Metadata": {
+    "ThoiGianTao": {
+      "$numberLong": "1782180218305"
+    },
+    "ThoiGianCapNhat": {
+      "$numberLong": "1782180218305"
+    },
+    "NguoiTaoLap": "BXD-ADMIN",
+    "ChuSoHuu": "BXD-ADMIN",
+    "TrangThaiDuLieu": "Active",
+    "PhienBanDuLieu": "1",
+    "NguonThamChieu": {
+      "NguonDuLieu": "",
+      "MaThamChieu": "12",
+      "ThoiGianXuLy": {
+        "$numberLong": "1782180218295"
+      }
+    },
+    "XuLyDuLieu": "437a50be-1199-48e4-a156-4ab8c3f0b551",
+    "QRCode": "",
+    "PhanVungDuLieu": {
+      "MaMuc": "",
+      "TenMuc": ""
+    },
+    "ChiaSeTaiKhoan": [],
+    "ChiaSeVaiTro": [],
+    "CSFLE": {
+      "keyAltName": "csdlpt",
+      "fields": {}
+    },
+    "DongBoDuLieu": [
+      {
+        "MaDongBo": "28b14cb4-e23c-41b0-890b-8a36fd28e9f4",
+        "DichVuDongBo": {
+          "MaMuc": "C12_C_VungHoatDongTauBien",
+          "TenMuc": "API tiếp nhận dữ liệu Danh mục vùng hoạt động tàu biển"
+        },
+        "TrangThaiDongBo": "OK"
+      }
+    ]
+  }
+},
+{
+  "_id": {
+    "$oid": "6a39e988b182391905b47e9b"
+  },
+  "MaMuc": "13",
+  "TenMuc": "Du thuyền cấp B",
+  "Metadata": {
+    "ThoiGianTao": {
+      "$numberLong": "1782180232339"
+    },
+    "ThoiGianCapNhat": {
+      "$numberLong": "1782180232339"
+    },
+    "NguoiTaoLap": "BXD-ADMIN",
+    "ChuSoHuu": "BXD-ADMIN",
+    "TrangThaiDuLieu": "Active",
+    "PhienBanDuLieu": "1",
+    "NguonThamChieu": {
+      "NguonDuLieu": "",
+      "MaThamChieu": "13",
+      "ThoiGianXuLy": {
+        "$numberLong": "1782180232323"
+      }
+    },
+    "XuLyDuLieu": "23d45ca7-96f2-42ef-9ba4-1a8ec93a7d66",
+    "QRCode": "",
+    "PhanVungDuLieu": {
+      "MaMuc": "",
+      "TenMuc": ""
+    },
+    "ChiaSeTaiKhoan": [],
+    "ChiaSeVaiTro": [],
+    "CSFLE": {
+      "keyAltName": "csdlpt",
+      "fields": {}
+    },
+    "DongBoDuLieu": [
+      {
+        "MaDongBo": "ddaf470e-974e-4076-9201-2b39519b0754",
+        "DichVuDongBo": {
+          "MaMuc": "C12_C_VungHoatDongTauBien",
+          "TenMuc": "API tiếp nhận dữ liệu Danh mục vùng hoạt động tàu biển"
+        },
+        "TrangThaiDongBo": "OK"
+      }
+    ]
+  }
+},
+{
+  "_id": {
+    "$oid": "6a39e98fb182391905b47e9d"
+  },
+  "MaMuc": "14",
+  "TenMuc": "Du thuyền cấp C",
+  "Metadata": {
+    "ThoiGianTao": {
+      "$numberLong": "1782180239815"
+    },
+    "ThoiGianCapNhat": {
+      "$numberLong": "1782180239815"
+    },
+    "NguoiTaoLap": "BXD-ADMIN",
+    "ChuSoHuu": "BXD-ADMIN",
+    "TrangThaiDuLieu": "Active",
+    "PhienBanDuLieu": "1",
+    "NguonThamChieu": {
+      "NguonDuLieu": "",
+      "MaThamChieu": "14",
+      "ThoiGianXuLy": {
+        "$numberLong": "1782180239799"
+      }
+    },
+    "XuLyDuLieu": "162403c9-6d17-4170-8914-7535c1049ca9",
+    "QRCode": "",
+    "PhanVungDuLieu": {
+      "MaMuc": "",
+      "TenMuc": ""
+    },
+    "ChiaSeTaiKhoan": [],
+    "ChiaSeVaiTro": [],
+    "CSFLE": {
+      "keyAltName": "csdlpt",
+      "fields": {}
+    },
+    "DongBoDuLieu": [
+      {
+        "MaDongBo": "0364cc2e-3f79-4b10-87d7-fa574fbf6755",
+        "DichVuDongBo": {
+          "MaMuc": "C12_C_VungHoatDongTauBien",
+          "TenMuc": "API tiếp nhận dữ liệu Danh mục vùng hoạt động tàu biển"
+        },
+        "TrangThaiDongBo": "OK"
+      }
+    ]
+  }
+},
+{
+  "_id": {
+    "$oid": "6a39e995b182391905b47e9f"
+  },
+  "MaMuc": "15",
+  "TenMuc": "Du thuyền cấp C1",
+  "Metadata": {
+    "ThoiGianTao": {
+      "$numberLong": "1782180245021"
+    },
+    "ThoiGianCapNhat": {
+      "$numberLong": "1782180245021"
+    },
+    "NguoiTaoLap": "BXD-ADMIN",
+    "ChuSoHuu": "BXD-ADMIN",
+    "TrangThaiDuLieu": "Active",
+    "PhienBanDuLieu": "1",
+    "NguonThamChieu": {
+      "NguonDuLieu": "",
+      "MaThamChieu": "15",
+      "ThoiGianXuLy": {
+        "$numberLong": "1782180244991"
+      }
+    },
+    "XuLyDuLieu": "e093f4a3-7b16-4f72-9ebc-4dc823e741f6",
+    "QRCode": "",
+    "PhanVungDuLieu": {
+      "MaMuc": "",
+      "TenMuc": ""
+    },
+    "ChiaSeTaiKhoan": [],
+    "ChiaSeVaiTro": [],
+    "CSFLE": {
+      "keyAltName": "csdlpt",
+      "fields": {}
+    },
+    "DongBoDuLieu": [
+      {
+        "MaDongBo": "1705de0d-eb72-4a48-aa66-366259bb703d",
+        "DichVuDongBo": {
+          "MaMuc": "C12_C_VungHoatDongTauBien",
+          "TenMuc": "API tiếp nhận dữ liệu Danh mục vùng hoạt động tàu biển"
+        },
+        "TrangThaiDongBo": "OK"
+      }
+    ]
+  }
+},
+{
+  "_id": {
+    "$oid": "6a39e99b767e301db2192b43"
+  },
+  "MaMuc": "16",
+  "TenMuc": "Du thuyền cấp C2",
+  "Metadata": {
+    "ThoiGianTao": {
+      "$numberLong": "1782180251421"
+    },
+    "ThoiGianCapNhat": {
+      "$numberLong": "1782180251421"
+    },
+    "NguoiTaoLap": "BXD-ADMIN",
+    "ChuSoHuu": "BXD-ADMIN",
+    "TrangThaiDuLieu": "Active",
+    "PhienBanDuLieu": "1",
+    "NguonThamChieu": {
+      "NguonDuLieu": "",
+      "MaThamChieu": "16",
+      "ThoiGianXuLy": {
+        "$numberLong": "1782180251404"
+      }
+    },
+    "XuLyDuLieu": "7789946c-06d4-486e-b797-b8f537c1ccc5",
+    "QRCode": "",
+    "PhanVungDuLieu": {
+      "MaMuc": "",
+      "TenMuc": ""
+    },
+    "ChiaSeTaiKhoan": [],
+    "ChiaSeVaiTro": [],
+    "CSFLE": {
+      "keyAltName": "csdlpt",
+      "fields": {}
+    },
+    "DongBoDuLieu": [
+      {
+        "MaDongBo": "a6ea5ef6-a7ad-41ce-bcd0-814f974710f7",
+        "DichVuDongBo": {
+          "MaMuc": "C12_C_VungHoatDongTauBien",
+          "TenMuc": "API tiếp nhận dữ liệu Danh mục vùng hoạt động tàu biển"
+        },
+        "TrangThaiDongBo": "OK"
+      }
+    ]
+  }
+},
+{
+  "_id": {
+    "$oid": "6a39e9a3b182391905b47ea1"
+  },
+  "MaMuc": "17",
+  "TenMuc": "Du thuyền cấp C3",
+  "Metadata": {
+    "ThoiGianTao": {
+      "$numberLong": "1782180259309"
+    },
+    "ThoiGianCapNhat": {
+      "$numberLong": "1782180259309"
+    },
+    "NguoiTaoLap": "BXD-ADMIN",
+    "ChuSoHuu": "BXD-ADMIN",
+    "TrangThaiDuLieu": "Active",
+    "PhienBanDuLieu": "1",
+    "NguonThamChieu": {
+      "NguonDuLieu": "",
+      "MaThamChieu": "17",
+      "ThoiGianXuLy": {
+        "$numberLong": "1782180259283"
+      }
+    },
+    "XuLyDuLieu": "f0bfc97e-e6d8-4287-a24a-3bac9894fd04",
+    "QRCode": "",
+    "PhanVungDuLieu": {
+      "MaMuc": "",
+      "TenMuc": ""
+    },
+    "ChiaSeTaiKhoan": [],
+    "ChiaSeVaiTro": [],
+    "CSFLE": {
+      "keyAltName": "csdlpt",
+      "fields": {}
+    },
+    "DongBoDuLieu": [
+      {
+        "MaDongBo": "b9c96a9f-1104-4ebb-b7fa-5eb1bc31546d",
+        "DichVuDongBo": {
+          "MaMuc": "C12_C_VungHoatDongTauBien",
+          "TenMuc": "API tiếp nhận dữ liệu Danh mục vùng hoạt động tàu biển"
+        },
+        "TrangThaiDongBo": "OK"
+      }
+    ]
+  }
+},
+{
+  "_id": {
+    "$oid": "6a39e9ab767e301db2192b45"
+  },
+  "MaMuc": "18",
+  "TenMuc": "Du thuyền cấp D",
+  "Metadata": {
+    "ThoiGianTao": {
+      "$numberLong": "1782180267830"
+    },
+    "ThoiGianCapNhat": {
+      "$numberLong": "1782180267830"
+    },
+    "NguoiTaoLap": "BXD-ADMIN",
+    "ChuSoHuu": "BXD-ADMIN",
+    "TrangThaiDuLieu": "Active",
+    "PhienBanDuLieu": "1",
+    "NguonThamChieu": {
+      "NguonDuLieu": "",
+      "MaThamChieu": "18",
+      "ThoiGianXuLy": {
+        "$numberLong": "1782180267810"
+      }
+    },
+    "XuLyDuLieu": "58ee5e7e-1a60-46b9-9bfd-f7734ab9ab9e",
+    "QRCode": "",
+    "PhanVungDuLieu": {
+      "MaMuc": "",
+      "TenMuc": ""
+    },
+    "ChiaSeTaiKhoan": [],
+    "ChiaSeVaiTro": [],
+    "CSFLE": {
+      "keyAltName": "csdlpt",
+      "fields": {}
+    },
+    "DongBoDuLieu": [
+      {
+        "MaDongBo": "e6c0b82b-3304-4ec0-9343-4161e54b6db6",
+        "DichVuDongBo": {
+          "MaMuc": "C12_C_VungHoatDongTauBien",
+          "TenMuc": "API tiếp nhận dữ liệu Danh mục vùng hoạt động tàu biển"
+        },
+        "TrangThaiDongBo": "OK"
+      }
+    ]
+  }
+},
+{
+  "_id": {
+    "$oid": "6a39e9b9767e301db2192b47"
+  },
+  "MaMuc": "19",
+  "TenMuc": "Biển hạn chế cách bờ hoặc nơi trú ẩn không quá 100 hải lý",
+  "Metadata": {
+    "ThoiGianTao": {
+      "$numberLong": "1782180281358"
+    },
+    "ThoiGianCapNhat": {
+      "$numberLong": "1782180281358"
+    },
+    "NguoiTaoLap": "BXD-ADMIN",
+    "ChuSoHuu": "BXD-ADMIN",
+    "TrangThaiDuLieu": "Active",
+    "PhienBanDuLieu": "1",
+    "NguonThamChieu": {
+      "NguonDuLieu": "",
+      "MaThamChieu": "19",
+      "ThoiGianXuLy": {
+        "$numberLong": "1782180281344"
+      }
+    },
+    "XuLyDuLieu": "0bfb7180-b407-4e08-a20d-6a05c07cf2f8",
+    "QRCode": "",
+    "PhanVungDuLieu": {
+      "MaMuc": "",
+      "TenMuc": ""
+    },
+    "ChiaSeTaiKhoan": [],
+    "ChiaSeVaiTro": [],
+    "CSFLE": {
+      "keyAltName": "csdlpt",
+      "fields": {}
+    },
+    "DongBoDuLieu": [
+      {
+        "MaDongBo": "3bf210d1-d9a7-4b12-8f57-2cefaa1e0d42",
+        "DichVuDongBo": {
+          "MaMuc": "C12_C_VungHoatDongTauBien",
+          "TenMuc": "API tiếp nhận dữ liệu Danh mục vùng hoạt động tàu biển"
+        },
+        "TrangThaiDongBo": "OK"
+      }
+    ]
+  }
+},
+{
+  "_id": {
+    "$oid": "6a39e9c7b182391905b47ea3"
+  },
+  "MaMuc": "20",
+  "TenMuc": "Biển hạn chế cách bờ hoặc nơi trú ẩn không quá 150 hải lý",
+  "Metadata": {
+    "ThoiGianTao": {
+      "$numberLong": "1782180295030"
+    },
+    "ThoiGianCapNhat": {
+      "$numberLong": "1782180295030"
+    },
+    "NguoiTaoLap": "BXD-ADMIN",
+    "ChuSoHuu": "BXD-ADMIN",
+    "TrangThaiDuLieu": "Active",
+    "PhienBanDuLieu": "1",
+    "NguonThamChieu": {
+      "NguonDuLieu": "",
+      "MaThamChieu": "20",
+      "ThoiGianXuLy": {
+        "$numberLong": "1782180295007"
+      }
+    },
+    "XuLyDuLieu": "629c25d6-418b-4e83-b256-a46207e89510",
+    "QRCode": "",
+    "PhanVungDuLieu": {
+      "MaMuc": "",
+      "TenMuc": ""
+    },
+    "ChiaSeTaiKhoan": [],
+    "ChiaSeVaiTro": [],
+    "CSFLE": {
+      "keyAltName": "csdlpt",
+      "fields": {}
+    },
+    "DongBoDuLieu": [
+      {
+        "MaDongBo": "cdc4768a-7d51-43ad-b018-9a2cf1eeef3f",
+        "DichVuDongBo": {
+          "MaMuc": "C12_C_VungHoatDongTauBien",
+          "TenMuc": "API tiếp nhận dữ liệu Danh mục vùng hoạt động tàu biển"
+        },
+        "TrangThaiDongBo": "OK"
+      }
+    ]
+  }
+},
+{
+  "_id": {
+    "$oid": "6a39e9d0767e301db2192b49"
+  },
+  "MaMuc": "21",
+  "TenMuc": "Biển hạn chế cách bờ hoặc nơi trú ẩn không quá 200 hải lý",
+  "Metadata": {
+    "ThoiGianTao": {
+      "$numberLong": "1782180304858"
+    },
+    "ThoiGianCapNhat": {
+      "$numberLong": "1782180304858"
+    },
+    "NguoiTaoLap": "BXD-ADMIN",
+    "ChuSoHuu": "BXD-ADMIN",
+    "TrangThaiDuLieu": "Active",
+    "PhienBanDuLieu": "1",
+    "NguonThamChieu": {
+      "NguonDuLieu": "",
+      "MaThamChieu": "21",
+      "ThoiGianXuLy": {
+        "$numberLong": "1782180304849"
+      }
+    },
+    "XuLyDuLieu": "758dd32d-d584-4ff8-9b2c-07c1d2814bea",
+    "QRCode": "",
+    "PhanVungDuLieu": {
+      "MaMuc": "",
+      "TenMuc": ""
+    },
+    "ChiaSeTaiKhoan": [],
+    "ChiaSeVaiTro": [],
+    "CSFLE": {
+      "keyAltName": "csdlpt",
+      "fields": {}
+    },
+    "DongBoDuLieu": [
+      {
+        "MaDongBo": "fe41c039-840c-4b76-a7b5-cdd6373365ba",
+        "DichVuDongBo": {
+          "MaMuc": "C12_C_VungHoatDongTauBien",
+          "TenMuc": "API tiếp nhận dữ liệu Danh mục vùng hoạt động tàu biển"
+        },
+        "TrangThaiDongBo": "OK"
+      }
+    ]
+  }
+},
+{
+  "_id": {
+    "$oid": "6a39e9da767e301db2192b4b"
+  },
+  "MaMuc": "22",
+  "TenMuc": "Biển hạn chế cách bờ hoặc nơi trú ẩn không quá 12 hải lý",
+  "Metadata": {
+    "ThoiGianTao": {
+      "$numberLong": "1782180314608"
+    },
+    "ThoiGianCapNhat": {
+      "$numberLong": "1782180314608"
+    },
+    "NguoiTaoLap": "BXD-ADMIN",
+    "ChuSoHuu": "BXD-ADMIN",
+    "TrangThaiDuLieu": "Active",
+    "PhienBanDuLieu": "1",
+    "NguonThamChieu": {
+      "NguonDuLieu": "",
+      "MaThamChieu": "22",
+      "ThoiGianXuLy": {
+        "$numberLong": "1782180314584"
+      }
+    },
+    "XuLyDuLieu": "8ce28488-eb66-49c6-a829-8491b92df659",
+    "QRCode": "",
+    "PhanVungDuLieu": {
+      "MaMuc": "",
+      "TenMuc": ""
+    },
+    "ChiaSeTaiKhoan": [],
+    "ChiaSeVaiTro": [],
+    "CSFLE": {
+      "keyAltName": "csdlpt",
+      "fields": {}
+    },
+    "DongBoDuLieu": [
+      {
+        "MaDongBo": "44aa369b-8fd6-4874-b1b8-8d5c22b47ddd",
+        "DichVuDongBo": {
+          "MaMuc": "C12_C_VungHoatDongTauBien",
+          "TenMuc": "API tiếp nhận dữ liệu Danh mục vùng hoạt động tàu biển"
+        },
+        "TrangThaiDongBo": "OK"
+      }
+    ]
+  }
+}]

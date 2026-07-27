@@ -1,0 +1,76 @@
+[{
+  "_id": {
+    "$oid": "6a0fcfeac5f2320291677e6e"
+  },
+  "MaMuc": "0",
+  "TenMuc": "Sản xuất lắp ráp",
+  "Metadata": {
+    "ThoiGianTao": {
+      "$numberLong": "1778644175190"
+    },
+    "ThoiGianCapNhat": {
+      "$numberLong": "1778644175190"
+    },
+    "NguoiTaoLap": "BXD-ADMIN",
+    "ChuSoHuu": "BXD-ADMIN",
+    "TrangThaiDuLieu": "Active",
+    "PhienBanDuLieu": "1",
+    "NguonThamChieu": {
+      "NguonDuLieu": "",
+      "MaThamChieu": "11",
+      "ThoiGianXuLy": {
+        "$numberLong": "1778644175173"
+      }
+    },
+    "XuLyDuLieu": "2b54d87d-bdf0-4048-a0ec-58458563f3d4",
+    "QRCode": "",
+    "PhanVungDuLieu": {
+      "MaMuc": "",
+      "TenMuc": ""
+    },
+    "ChiaSeTaiKhoan": [],
+    "ChiaSeVaiTro": [],
+    "CSFLE": {
+      "keyAltName": "csdlpt",
+      "fields": {}
+    }
+  }
+},
+{
+  "_id": {
+    "$oid": "6a0fcff70a6155937e8de361"
+  },
+  "MaMuc": "1",
+  "TenMuc": "Nhập khẩu",
+  "Metadata": {
+    "ThoiGianTao": {
+      "$numberLong": "1778644175190"
+    },
+    "ThoiGianCapNhat": {
+      "$numberLong": "1778644175190"
+    },
+    "NguoiTaoLap": "BXD-ADMIN",
+    "ChuSoHuu": "BXD-ADMIN",
+    "TrangThaiDuLieu": "Active",
+    "PhienBanDuLieu": "1",
+    "NguonThamChieu": {
+      "NguonDuLieu": "",
+      "MaThamChieu": "11",
+      "ThoiGianXuLy": {
+        "$numberLong": "1778644175173"
+      }
+    },
+    "XuLyDuLieu": "2b54d87d-bdf0-4048-a0ec-58458563f3d4",
+    "QRCode": "",
+    "PhanVungDuLieu": {
+      "MaMuc": "",
+      "TenMuc": ""
+    },
+    "ChiaSeTaiKhoan": [],
+    "ChiaSeVaiTro": [],
+    "CSFLE": {
+      "keyAltName": "csdlpt",
+      "fields": {}
+    }
+  }
+}]

@@ -1,0 +1,1 @@
+2026-06-15T10:04:02.682822 | SoGiay: 09466/21 | Id: 2905V-09466/21 | Reason: Sync API error. Status: 500 INTERNAL_SERVER_ERROR, Body: {"DuLieu":null,"ChiTietLoi":null,"MaLoi":"500","MoTa":"Lỗi khi upload file!"}

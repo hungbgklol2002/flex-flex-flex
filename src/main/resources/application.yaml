@@ -1,0 +1,43 @@
+spring:
+  application:
+    name: jobcrawlgiaydangkiemxecogioi
+
+  main:
+    web-application-type: servlet
+
+  datasource:
+#    url: jdbc:jtds:sqlserver://localhost:14330/BXD_DKPT;useNTLMv2=true
+    url: jdbc:jtds:sqlserver://10.21.236.2:1433/BXD_DKPT;useNTLMv2=true
+    username: dbgtvt
+    password: Abc@1234
+    driver-class-name: net.sourceforge.jtds.jdbc.Driver
+
+    hikari:
+      connection-test-query: SELECT 1
+      validation-timeout: 5000
+
+  jackson:
+    time-zone: Asia/Ho_Chi_Minh
+
+sync:
+  job:
+    xcg:
+      cron: "2000"
+    tb:
+      cron: "2000"
+    dt:
+      cron: "2000"
+    zone: "Asia/Ho_Chi_Minh"
+    api-url:
+#       xcg: "https://api.moc.gov.vn/s/api/bxd/csdl/pt/duongbo/1.0/GiayDangKiemXeCoGioi/bcreate"
+       xcg: "https://api.moc.gov.vn/s/api/bxd/csdl/pt/duongbo/1.0/GiayDangKiemXeCoGioi/bupsert"
+       tb: "https://api.moc.gov.vn/s/api/bxd/csdl/pt/hanghai/1.0/GiayDangKiemPhuongTienTauBien/bupsert"
+       dt: "https://api.moc.gov.vn/s/api/bxd/csdl/pt/duongthuy/1.0/GiayDangKiemPhuongTienDTND/bcreate"
+    api-url-token: "https://api.moc.gov.vn/s/api/bxd/1.0/token"
+    clientID: default-client
+    clientSecret: KBZHeD6dXH9Tt0RkAeKZPRuuxkj6ALaC
+    username: pt.dangkiem
+    password: lgsp@2024
+    apikey: eyJ4NXQjUzI1NiI6Ik5XUXdPVFJrTWpBNU9XRmpObVUyTnpCbE5UTTNaRFV3T0RVellqWXdabUpsWlROa1pEQTRPRFU0WlRVd1pHSXdObVV5TW1abVpUTmhaRGt5TmpRMlpBPT0iLCJraWQiOiJnYXRld2F5X2NlcnRpZmljYXRlX2FsaWFzIiwidHlwIjoiSldUIiwiYWxnIjoiUlMyNTYifQ==.eyJzdWIiOiJhbGxvY2F0b3JAY2FyYm9uLnN1cGVyIiwiYXBwbGljYXRpb24iOnsiaWQiOjcxLCJ1dWlkIjoiMmI4NWYxMzUtMDFhMS00YmFiLTkxMGMtZWM5MWIwNDU3Yzg4In0sImlzcyI6Imh0dHBzOlwvXC9hcGltLm1vYy5nb3Yudm46NDQzXC9vYXV0aDJcL3Rva2VuIiwia2V5dHlwZSI6IlBST0RVQ1RJT04iLCJwZXJtaXR0ZWRSZWZlcmVyIjoiIiwiZXhwIjoxNzkyMDUzMDY4LCJ0b2tlbl90eXBlIjoiYXBpS2V5IiwicGVybWl0dGVkSVAiOiIiLCJpYXQiOjE3NjA1MTcwNjgsImp0aSI6IjhjYmJiMmYxLTEwZDAtNDU2Zi1hODhmLTdlYWI5NWVhZDEyOSJ9.fymsOrrSA_Y81q8gdOTLGxc84qSZIwVdFTOCqeIQMtfmbOBRTtaLlTbX5_pNAspGidVW3uwCoFVVNlFyQwwxS2OsBOKMnwiZzsRZDQkfhZLxf4CCmZgVkXQ3UrahYLUsZPxUnAKgMeN5ZxxdCziy36oYae3-sWNADoYZTKoo6ZIpFK1g6-mDzlJUPCkmiyzbSilKxCSEr3LwMHWlA5LdNAFuMlooNVNwgfFFym8HS1HYWHtd3nlkN7HwoI6jWLHiKXgFZfYN7usOFWifJjam-BJKBYxoJQu_j2skOYXgkj-Q7nBcLvrSXAsYs8IdUwkPvKZXOZvfZtA2uc-6nLywlQ==
+    batch-size: 100
+    order-by-column: "Id"
