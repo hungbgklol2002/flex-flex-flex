@@ -30,10 +30,17 @@ public class GiayDangKiemPhuongTienTauBienRepository {
                     TB_GiayChungNhan.SoGiayChungNhan
                         AS '__CHECKPOINT_SO_GIAY',
 
-                    PARSENAME(
-                        REPLACE(TB_Tau.SoDangKy, '-', '.'),
-                        2
-                    ) AS 'PhuongTien.MaDinhDanh',
+                    CASE
+                        WHEN TB_Tau.SoDangKyCucHH LIKE '[A-Z][A-Z]-[A-Z][A-Z][A-Z]-[0-9][0-9][0-9][0-9][0-9][0-9]-[0-9]'
+                        THEN PARSENAME(REPLACE(TB_Tau.SoDangKyCucHH, '-', '.'), 2)
+                        ELSE NULL
+                    END AS 'PhuongTien.MaDinhDanh',
+
+                    TB_Tau.SoPhanCap
+                        AS '__TAU_BIEN_SO_PHAN_CAP',
+
+                    TB_Tau.SoDangKyCucHH
+                        AS '__TAU_BIEN_SO_DANG_KY_CUC_HH',
 
                     TB_GiayChungNhan.SoGiayChungNhan
                         AS 'MaDinhDanh',
@@ -156,7 +163,10 @@ public class GiayDangKiemPhuongTienTauBienRepository {
                         AS 'PhuongTien.NamHoanCai',
 
                     TB_Tau.NoiHoanCai
-                        AS 'PhuongTien.NoiHoanCai'
+                        AS 'PhuongTien.NoiHoanCai' ,
+                        
+                    TB_Tau.ToChucDangKiem
+                        AS 'PhuongTien.ToChucDangKiem'
 
                 FROM dbo.TB_Tau
 
@@ -168,8 +178,7 @@ public class GiayDangKiemPhuongTienTauBienRepository {
                     ON TB_GiayChungNhan.DonViCap =
                        DMDonViDK_KhoiThuy.MaDonVi
 
-                WHERE TB_Tau.SoDangKy LIKE '%%-%%-%%-%%'
-                  AND TB_GiayChungNhan.NgayCap IS NOT NULL
+                WHERE TB_GiayChungNhan.NgayCap IS NOT NULL
                   AND (
                         TB_GiayChungNhan.NgayCap > ?
                         OR (

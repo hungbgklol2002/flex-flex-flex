@@ -1,0 +1,2536 @@
+[
+  {
+    "MaDinhDanh": "000795",
+    "TenTau": "HỒNG BÀNG 68",
+    "SoIMO": null,
+    "SoPhanCap": "VR143552",
+    "SoDangKyCucHH": "VN-3709-VT"
+  },
+  {
+    "MaDinhDanh": "001037",
+    "TenTau": "NAM THỊNH 26",
+    "SoIMO": null,
+    "SoPhanCap": "VR103371",
+    "SoDangKyCucHH": "VN-3578-VT"
+  },
+  {
+    "MaDinhDanh": "000458",
+    "TenTau": "SAO BIỂN 16",
+    "SoIMO": null,
+    "SoPhanCap": "VR082957",
+    "SoDangKyCucHH": "VN-2872-VT"
+  },
+  {
+    "MaDinhDanh": "000767",
+    "TenTau": "ROYAL 89",
+    "SoIMO": "9600059",
+    "SoPhanCap": "VR123784",
+    "SoDangKyCucHH": "VN-3501-VT"
+  },
+  {
+    "MaDinhDanh": "000769",
+    "TenTau": "ROYAL 88",
+    "SoIMO": "9600047",
+    "SoPhanCap": "VR123785",
+    "SoDangKyCucHH": "VN-3502-VT"
+  },
+  {
+    "MaDinhDanh": "001217",
+    "TenTau": "ROYAL 27",
+    "SoIMO": "9600061",
+    "SoPhanCap": "VR153781",
+    "SoDangKyCucHH": "VN-3925-VT"
+  },
+  {
+    "MaDinhDanh": "000124",
+    "TenTau": "ROYAL 18",
+    "SoIMO": "9591662",
+    "SoPhanCap": "VR103444",
+    "SoDangKyCucHH": "VN-3183-VT"
+  },
+  {
+    "MaDinhDanh": "000291",
+    "TenTau": "ROYAL 16",
+    "SoIMO": "9600011",
+    "SoPhanCap": "VR113669",
+    "SoDangKyCucHH": "VN-3283-VT"
+  },
+  {
+    "MaDinhDanh": "002100",
+    "TenTau": "TÂN CẢNG P3",
+    "SoIMO": null,
+    "SoPhanCap": "-",
+    "SoDangKyCucHH": "VNSG-2235-CN"
+  },
+  {
+    "MaDinhDanh": "001898",
+    "TenTau": "TAN CANG 63",
+    "SoIMO": "9282352",
+    "SoPhanCap": "-",
+    "SoDangKyCucHH": "16/TT/2014"
+  },
+  {
+    "MaDinhDanh": "000826",
+    "TenTau": "THỊNH LONG 26",
+    "SoIMO": null,
+    "SoPhanCap": "VR153558",
+    "SoDangKyCucHH": "VN-3868-VT"
+  },
+  {
+    "MaDinhDanh": "002605",
+    "TenTau": "LONG PHÁT 79",
+    "SoIMO": null,
+    "SoPhanCap": "-",
+    "SoDangKyCucHH": "VNSG-2243-CN"
+  },
+  {
+    "MaDinhDanh": "000038",
+    "TenTau": "CẢNG VỤ HÀNG HẢI THỪA THIÊN HUẾ 05",
+    "SoIMO": "9769685",
+    "SoPhanCap": "VR143914",
+    "SoDangKyCucHH": "ĐN-FAL-000038-4"
+  },
+  {
+    "MaDinhDanh": "001861",
+    "TenTau": "PVT MERCURY",
+    "SoIMO": "9426946",
+    "SoPhanCap": "-",
+    "SoDangKyCucHH": "VNSG-2171-TD"
+  },
+  {
+    "MaDinhDanh": "000605",
+    "TenTau": "HP 02",
+    "SoIMO": null,
+    "SoPhanCap": "VR",
+    "SoDangKyCucHH": "VN-1734-HB"
+  },
+  {
+    "MaDinhDanh": "001912",
+    "TenTau": "THRIVING 3",
+    "SoIMO": null,
+    "SoPhanCap": "-",
+    "SoDangKyCucHH": "VNSG-2229-TKH"
+  },
+  {
+    "MaDinhDanh": "002995",
+    "TenTau": "CVHHĐN 05",
+    "SoIMO": null,
+    "SoPhanCap": "VR174237",
+    "SoDangKyCucHH": "ĐN-FAL-002995-1"
+  },
+  {
+    "MaDinhDanh": "001948",
+    "TenTau": "CẢNG VỤ HÀNG HẢI ĐÀ NẴNG 02",
+    "SoIMO": "9769673",
+    "SoPhanCap": "VR143915",
+    "SoDangKyCucHH": "ĐN-FAL-001948-5"
+  },
+  {
+    "MaDinhDanh": "001957",
+    "TenTau": "SL TRỤC VỚT 05",
+    "SoIMO": null,
+    "SoPhanCap": "VR753100",
+    "SoDangKyCucHH": "VNĐN-305-SL"
+  },
+  {
+    "MaDinhDanh": "001956",
+    "TenTau": "TRỤC VỚT 11",
+    "SoIMO": null,
+    "SoPhanCap": "VR753119",
+    "SoDangKyCucHH": "VNĐN-284-SL"
+  },
+  {
+    "MaDinhDanh": "001152",
+    "TenTau": "TRỤC VỚT 09",
+    "SoIMO": null,
+    "SoPhanCap": "VR981390",
+    "SoDangKyCucHH": "VNĐN-283-SL"
+  },
+  {
+    "MaDinhDanh": "000954",
+    "TenTau": "TRƯỜNG AN 16",
+    "SoIMO": null,
+    "SoPhanCap": "VR",
+    "SoDangKyCucHH": "VN-3414-VT"
+  },
+  {
+    "MaDinhDanh": "000168",
+    "TenTau": "THÁI BÌNH DƯƠNG 06",
+    "SoIMO": null,
+    "SoPhanCap": "VR113606",
+    "SoDangKyCucHH": "VN-3339-VT"
+  },
+  {
+    "MaDinhDanh": "000564",
+    "TenTau": "BẠCH LONG",
+    "SoIMO": null,
+    "SoPhanCap": "VR",
+    "SoDangKyCucHH": "VN-1512-TKH"
+  },
+  {
+    "MaDinhDanh": "002826",
+    "TenTau": "HAI DUONG 39",
+    "SoIMO": "9752541",
+    "SoPhanCap": "300/19TB-CL",
+    "SoDangKyCucHH": "OTH-002826-5"
+  },
+  {
+    "MaDinhDanh": "002856",
+    "TenTau": "HAI DUONG 68",
+    "SoIMO": "9568665",
+    "SoPhanCap": "01865/19VT-CL",
+    "SoDangKyCucHH": "TUG-002856-4"
+  },
+  {
+    "MaDinhDanh": "002857",
+    "TenTau": "HAI DUONG 79",
+    "SoIMO": "9427653",
+    "SoPhanCap": "01866/19VT-CL",
+    "SoDangKyCucHH": "TUG-002857-4"
+  },
+  {
+    "MaDinhDanh": "001078",
+    "TenTau": "EASTERN SEA",
+    "SoIMO": "8868264",
+    "SoPhanCap": "VR860237",
+    "SoDangKyCucHH": "VN-3686-TD"
+  },
+  {
+    "MaDinhDanh": "000972",
+    "TenTau": "NORTHERN SEA 01",
+    "SoIMO": "7621097",
+    "SoPhanCap": "VR760076",
+    "SoDangKyCucHH": "VN-3998-TD"
+  },
+  {
+    "MaDinhDanh": "002926",
+    "TenTau": "CẢNG VỤ HÀNG HẢI QUẢNG NGÃI - 03",
+    "SoIMO": null,
+    "SoPhanCap": "VR204517",
+    "SoDangKyCucHH": "ĐN-FAL-002926-2"
+  },
+  {
+    "MaDinhDanh": "000949",
+    "TenTau": "NASICO EAGLE",
+    "SoIMO": "9561966",
+    "SoPhanCap": "VR",
+    "SoDangKyCucHH": "VN-3401-VT"
+  },
+  {
+    "MaDinhDanh": "000862",
+    "TenTau": "NASICO NAVIGATOR",
+    "SoIMO": "9111230",
+    "SoPhanCap": "VR",
+    "SoDangKyCucHH": "VN-2590-VT"
+  },
+  {
+    "MaDinhDanh": "000751",
+    "TenTau": "THÀNH MINH 36",
+    "SoIMO": null,
+    "SoPhanCap": "VR072724",
+    "SoDangKyCucHH": "VN-2439-VT"
+  },
+  {
+    "MaDinhDanh": "002634",
+    "TenTau": "TÂN CẢNG 06",
+    "SoIMO": null,
+    "SoPhanCap": "VR7506669",
+    "SoDangKyCucHH": "VNSG-1466-TK"
+  },
+  {
+    "MaDinhDanh": "000757",
+    "TenTau": "NASICO OCEAN",
+    "SoIMO": "9560871",
+    "SoPhanCap": "VR113789",
+    "SoDangKyCucHH": "VN-3470-VT"
+  },
+  {
+    "MaDinhDanh": "000761",
+    "TenTau": "NASICO SKY",
+    "SoIMO": "9560883",
+    "SoPhanCap": "VR123790",
+    "SoDangKyCucHH": "VN-3475-VT"
+  },
+  {
+    "MaDinhDanh": "001043",
+    "TenTau": "GOLDEN SEA 999",
+    "SoIMO": "9026930",
+    "SoPhanCap": "VR052328",
+    "SoDangKyCucHH": "VN-4035-VT"
+  },
+  {
+    "MaDinhDanh": "002890",
+    "TenTau": "CẢNG VỤ HÀNG HẢI QUẢNG TRỊ 01",
+    "SoIMO": null,
+    "SoPhanCap": "VR154126",
+    "SoDangKyCucHH": "ĐN-FAL-002890-1"
+  },
+  {
+    "MaDinhDanh": "002126",
+    "TenTau": "DUNG QUẤT 19",
+    "SoIMO": "9622368",
+    "SoPhanCap": "VR103474",
+    "SoDangKyCucHH": "ĐN-TUG-002126-4"
+  },
+  {
+    "MaDinhDanh": "000823",
+    "TenTau": "TUẤN THÀNH 02",
+    "SoIMO": null,
+    "SoPhanCap": "VR",
+    "SoDangKyCucHH": "VN-2491-VT"
+  },
+  {
+    "MaDinhDanh": "000388",
+    "TenTau": "HÙNG MẠNH 388",
+    "SoIMO": null,
+    "SoPhanCap": "VR072542",
+    "SoDangKyCucHH": "VN-2671-VT"
+  },
+  {
+    "MaDinhDanh": "000839",
+    "TenTau": "LÊ QUỐC 01",
+    "SoIMO": "9474929",
+    "SoPhanCap": "VR",
+    "SoDangKyCucHH": "VN-2516-TK"
+  },
+  {
+    "MaDinhDanh": "001963",
+    "TenTau": "XUÂN THIỀU",
+    "SoIMO": "8925957",
+    "SoPhanCap": "VR910608",
+    "SoDangKyCucHH": "ĐN-TUG-001963-3"
+  },
+  {
+    "MaDinhDanh": "002814",
+    "TenTau": "CN-03",
+    "SoIMO": null,
+    "SoPhanCap": "VR133977",
+    "SoDangKyCucHH": "ĐN-FAL-002814-1"
+  },
+  {
+    "MaDinhDanh": "002150",
+    "TenTau": "TAYDO STAR",
+    "SoIMO": "9409687",
+    "SoPhanCap": "VR072516",
+    "SoDangKyCucHH": "VNSG-1832-TH"
+  },
+  {
+    "MaDinhDanh": "000163",
+    "TenTau": "FS PEARL",
+    "SoIMO": "9282118",
+    "SoPhanCap": "VR021931",
+    "SoDangKyCucHH": "VN-2648-VT"
+  },
+  {
+    "MaDinhDanh": "000021",
+    "TenTau": "AN PHÚ 168",
+    "SoIMO": "9355719",
+    "SoPhanCap": "VR052426",
+    "SoDangKyCucHH": "VN-4047-VT"
+  },
+  {
+    "MaDinhDanh": "001865",
+    "TenTau": "VSP-EXPRESS",
+    "SoIMO": "9674220",
+    "SoPhanCap": "-",
+    "SoDangKyCucHH": "VNSG-2175-TH+K"
+  },
+  {
+    "MaDinhDanh": "000666",
+    "TenTau": "PETROLIMEX",
+    "SoIMO": "9154490",
+    "SoPhanCap": "-",
+    "SoDangKyCucHH": "VN-1167-TK"
+  },
+  {
+    "MaDinhDanh": "002029",
+    "TenTau": "MÊ KÔNG",
+    "SoIMO": null,
+    "SoPhanCap": "VR960695",
+    "SoDangKyCucHH": "VNSG-1457-HB"
+  },
+  {
+    "MaDinhDanh": "001821",
+    "TenTau": "CN-02QNG",
+    "SoIMO": null,
+    "SoPhanCap": "VR012757",
+    "SoDangKyCucHH": "ĐN-FAL-001821-2"
+  },
+  {
+    "MaDinhDanh": "000684",
+    "TenTau": "CVTH-1369",
+    "SoIMO": null,
+    "SoPhanCap": "VR062492",
+    "SoDangKyCucHH": "VN-2178-CV"
+  },
+  {
+    "MaDinhDanh": "000679",
+    "TenTau": "TRUNG HƯNG 01",
+    "SoIMO": "8986963",
+    "SoPhanCap": "VR032137",
+    "SoDangKyCucHH": "VN-2162-VT"
+  },
+  {
+    "MaDinhDanh": "001307",
+    "TenTau": "CN02-TSA",
+    "SoIMO": null,
+    "SoPhanCap": "VR082998",
+    "SoDangKyCucHH": "VNĐN-288-CN"
+  },
+  {
+    "MaDinhDanh": "001303",
+    "TenTau": "CN-01",
+    "SoIMO": null,
+    "SoPhanCap": "VR992928",
+    "SoDangKyCucHH": "VNĐN-306-CN"
+  },
+  {
+    "MaDinhDanh": "001894",
+    "TenTau": "CANÔ CN01-TSA",
+    "SoIMO": null,
+    "SoPhanCap": "VR052368",
+    "SoDangKyCucHH": "VNĐN-285-CN"
+  },
+  {
+    "MaDinhDanh": "002039",
+    "TenTau": "MỸ AN 17",
+    "SoIMO": null,
+    "SoPhanCap": "-",
+    "SoDangKyCucHH": "VNSG-2100-SL/CẤPLẠI"
+  },
+  {
+    "MaDinhDanh": "000476",
+    "TenTau": "TUẦN CHÂU 01",
+    "SoIMO": null,
+    "SoPhanCap": "-",
+    "SoDangKyCucHH": "VN-2609-VT"
+  },
+  {
+    "MaDinhDanh": "000401",
+    "TenTau": "CẢNG VỤ 07",
+    "SoIMO": null,
+    "SoPhanCap": "VR082860",
+    "SoDangKyCucHH": "VN-2730-DV"
+  },
+  {
+    "MaDinhDanh": "001104",
+    "TenTau": "LONG CHÂU 02",
+    "SoIMO": "9024281",
+    "SoPhanCap": "VR021903",
+    "SoDangKyCucHH": "VN-3739-NV"
+  },
+  {
+    "MaDinhDanh": "001176",
+    "TenTau": "HA-97",
+    "SoIMO": null,
+    "SoPhanCap": "VR971384",
+    "SoDangKyCucHH": "VN-3872-HB"
+  },
+  {
+    "MaDinhDanh": "001105",
+    "TenTau": "HP-01",
+    "SoIMO": null,
+    "SoPhanCap": "VR941067",
+    "SoDangKyCucHH": "VN-3741-NV"
+  },
+  {
+    "MaDinhDanh": "002066",
+    "TenTau": "PHU QUY 01",
+    "SoIMO": null,
+    "SoPhanCap": "-",
+    "SoDangKyCucHH": "VNSG-1209K-TK"
+  },
+  {
+    "MaDinhDanh": "001103",
+    "TenTau": "LONG CHÂU",
+    "SoIMO": "7000516",
+    "SoPhanCap": "VR700113",
+    "SoDangKyCucHH": "VN-3738-NV"
+  },
+  {
+    "MaDinhDanh": "001746",
+    "TenTau": "HẢI VÂN",
+    "SoIMO": "9023251",
+    "SoPhanCap": "VR710251",
+    "SoDangKyCucHH": "ĐN-TUG-001746-3"
+  },
+  {
+    "MaDinhDanh": "002028",
+    "TenTau": "MASTERI",
+    "SoIMO": null,
+    "SoPhanCap": "-",
+    "SoDangKyCucHH": "VNSG-1907-DT"
+  },
+  {
+    "MaDinhDanh": "001364",
+    "TenTau": "PTSC NN THĂNG LONG-HÀ NỘI 02",
+    "SoIMO": "9577379",
+    "SoPhanCap": "VR103507",
+    "SoDangKyCucHH": "VNĐN-279-TK"
+  },
+  {
+    "MaDinhDanh": "001139",
+    "TenTau": "HC 43",
+    "SoIMO": "9210452",
+    "SoPhanCap": "VR991533",
+    "SoDangKyCucHH": "VN-3812-TK"
+  },
+  {
+    "MaDinhDanh": "000450",
+    "TenTau": "TRƯỜNG THÀNH 09",
+    "SoIMO": null,
+    "SoPhanCap": "VR941042",
+    "SoDangKyCucHH": "VN-1617-VT"
+  },
+  {
+    "MaDinhDanh": "001140",
+    "TenTau": "HC 44",
+    "SoIMO": "9211470",
+    "SoPhanCap": "VR991534",
+    "SoDangKyCucHH": "VN-3813-TK"
+  },
+  {
+    "MaDinhDanh": "001365",
+    "TenTau": "PTSC NN THĂNG LONG-HÀ NỘI 03",
+    "SoIMO": "9577381",
+    "SoPhanCap": "VR103508",
+    "SoDangKyCucHH": "VNĐN-280-TK"
+  },
+  {
+    "MaDinhDanh": "001754",
+    "TenTau": "THU BỒN",
+    "SoIMO": null,
+    "SoPhanCap": "VR680870",
+    "SoDangKyCucHH": "VNĐN-273-TK"
+  },
+  {
+    "MaDinhDanh": "001294",
+    "TenTau": "CHÂN MÂY 01",
+    "SoIMO": "8989733",
+    "SoPhanCap": "VR032022",
+    "SoDangKyCucHH": "VNĐN-199-LD"
+  },
+  {
+    "MaDinhDanh": "001736",
+    "TenTau": "LIÊN CHIỂU",
+    "SoIMO": null,
+    "SoPhanCap": "VR001744",
+    "SoDangKyCucHH": "VNĐN-274-TK"
+  },
+  {
+    "MaDinhDanh": "001363",
+    "TenTau": "PTSC 04",
+    "SoIMO": "9624952",
+    "SoPhanCap": "VR113543",
+    "SoDangKyCucHH": "VNĐN-270-TK"
+  },
+  {
+    "MaDinhDanh": "000420",
+    "TenTau": "TOÀN THẮNG 27",
+    "SoIMO": "8838958*",
+    "SoPhanCap": "VR021905",
+    "SoDangKyCucHH": "VN-2778-VT"
+  },
+  {
+    "MaDinhDanh": "001208",
+    "TenTau": "HẢI PHƯƠNG 107",
+    "SoIMO": "9560742",
+    "SoPhanCap": "VR093176",
+    "SoDangKyCucHH": "VN-3911-VT"
+  },
+  {
+    "MaDinhDanh": "000019",
+    "TenTau": "TRƯỜNG XUÂN 36",
+    "SoIMO": null,
+    "SoPhanCap": "VR093228",
+    "SoDangKyCucHH": "VN-3536-VT"
+  },
+  {
+    "MaDinhDanh": "000986",
+    "TenTau": "MINH DƯƠNG 8888",
+    "SoIMO": null,
+    "SoPhanCap": "VR093246",
+    "SoDangKyCucHH": "VN-3483-VT"
+  },
+  {
+    "MaDinhDanh": "001282",
+    "TenTau": "TRƯỜNG XUÂN 16",
+    "SoIMO": null,
+    "SoPhanCap": "VR163676",
+    "SoDangKyCucHH": "VN-4034-VT"
+  },
+  {
+    "MaDinhDanh": "002244",
+    "TenTau": "VIETSOVPETRO-02",
+    "SoIMO": "8666355",
+    "SoPhanCap": "-",
+    "SoDangKyCucHH": "VNSG-2092-TD"
+  },
+  {
+    "MaDinhDanh": "000931",
+    "TenTau": "CÁI LÂN 08",
+    "SoIMO": null,
+    "SoPhanCap": "VR",
+    "SoDangKyCucHH": "VN-3354-TK"
+  },
+  {
+    "MaDinhDanh": "001071",
+    "TenTau": "GREAT OCEAN",
+    "SoIMO": "9306536",
+    "SoPhanCap": "VR052521",
+    "SoDangKyCucHH": "VN-3664-TD"
+  },
+  {
+    "MaDinhDanh": "000930",
+    "TenTau": "CÁI LÂN 06",
+    "SoIMO": null,
+    "SoPhanCap": "VR",
+    "SoDangKyCucHH": "VN-3353-TK"
+  },
+  {
+    "MaDinhDanh": "002257",
+    "TenTau": "HOÀNG PHÚC 07",
+    "SoIMO": null,
+    "SoPhanCap": "VR941761",
+    "SoDangKyCucHH": "VNSG-1930-TH"
+  },
+  {
+    "MaDinhDanh": "002067",
+    "TenTau": "PHÚ QÚY 07",
+    "SoIMO": null,
+    "SoPhanCap": "VR011734",
+    "SoDangKyCucHH": "VNSG-1577-TK+H."
+  },
+  {
+    "MaDinhDanh": "001237",
+    "TenTau": "PTS HAI PHONG 02",
+    "SoIMO": "9200976",
+    "SoPhanCap": "VR993358",
+    "SoDangKyCucHH": "VN-3971-TD"
+  },
+  {
+    "MaDinhDanh": "001906",
+    "TenTau": "SÔNG TRÀ",
+    "SoIMO": null,
+    "SoPhanCap": "VR083023",
+    "SoDangKyCucHH": "VNĐN-258-CV"
+  },
+  {
+    "MaDinhDanh": "001253",
+    "TenTau": "DYNAMIC OCEAN 16",
+    "SoIMO": "9785653",
+    "SoPhanCap": "VR163845",
+    "SoDangKyCucHH": "VN-3969-TD"
+  },
+  {
+    "MaDinhDanh": "001794",
+    "TenTau": "SAR 274",
+    "SoIMO": null,
+    "SoPhanCap": "VR042309",
+    "SoDangKyCucHH": "VNĐN-207-CV"
+  },
+  {
+    "MaDinhDanh": "000668",
+    "TenTau": "ĐÔNG BA",
+    "SoIMO": "9391543",
+    "SoPhanCap": "NK062382;VR062449",
+    "SoDangKyCucHH": "VN-2137-VT"
+  },
+  {
+    "MaDinhDanh": "001288",
+    "TenTau": "CHÂN MÂY 02",
+    "SoIMO": "8989745",
+    "SoPhanCap": "VR032023",
+    "SoDangKyCucHH": "VNĐN-198-LD"
+  },
+  {
+    "MaDinhDanh": "001487",
+    "TenTau": "VINAFCO 28",
+    "SoIMO": "9128984",
+    "SoPhanCap": "VR962676",
+    "SoDangKyCucHH": "VN-3900-VT"
+  },
+  {
+    "MaDinhDanh": "000450",
+    "TenTau": "TRƯỜNG THÀNH 09",
+    "SoIMO": null,
+    "SoPhanCap": "VR941042",
+    "SoDangKyCucHH": "VN-1617-VT"
+  },
+  {
+    "MaDinhDanh": "001556",
+    "TenTau": "ANH THẮNG 16",
+    "SoIMO": "1464-07",
+    "SoPhanCap": "VR",
+    "SoDangKyCucHH": "VN-2332-VT"
+  },
+  {
+    "MaDinhDanh": "001714",
+    "TenTau": "MỸ KHÊ",
+    "SoIMO": null,
+    "SoPhanCap": "VR072744",
+    "SoDangKyCucHH": "VNĐN-277-TK"
+  },
+  {
+    "MaDinhDanh": "001755",
+    "TenTau": "HƯNG PHÁT 01",
+    "SoIMO": null,
+    "SoPhanCap": "VR032059",
+    "SoDangKyCucHH": "055/ĐKĐN-2013"
+  },
+  {
+    "MaDinhDanh": "001762",
+    "TenTau": "DUNG QUẤT 01",
+    "SoIMO": null,
+    "SoPhanCap": "VR133749",
+    "SoDangKyCucHH": "VNĐN-298-TK"
+  },
+  {
+    "MaDinhDanh": "001824",
+    "TenTau": "CẢNG VỤ HÀNG HẢI THỪA THIÊN HUẾ 02",
+    "SoIMO": null,
+    "SoPhanCap": "VR062517",
+    "SoDangKyCucHH": "VNĐN-230-CV"
+  },
+  {
+    "MaDinhDanh": "001250",
+    "TenTau": "ĐA PHƯỚC",
+    "SoIMO": null,
+    "SoPhanCap": "VR154102",
+    "SoDangKyCucHH": "VNĐN-312-TK"
+  },
+  {
+    "MaDinhDanh": "000329",
+    "TenTau": "NGỌC LINH 19-BLC",
+    "SoIMO": "8666848",
+    "SoPhanCap": "-",
+    "SoDangKyCucHH": "VN-2588-VT"
+  },
+  {
+    "MaDinhDanh": "001256",
+    "TenTau": "VĨNH PHÁT 12",
+    "SoIMO": null,
+    "SoPhanCap": "VR072711",
+    "SoDangKyCucHH": "VN-3973-VT"
+  },
+  {
+    "MaDinhDanh": "001247",
+    "TenTau": "PHÚC LỘC 02",
+    "SoIMO": null,
+    "SoPhanCap": "VR052348",
+    "SoDangKyCucHH": "VN-3959-DV"
+  },
+  {
+    "MaDinhDanh": "000807",
+    "TenTau": "THANH THÀNH ĐẠT 99",
+    "SoIMO": "9223655",
+    "SoPhanCap": "VR014079",
+    "SoDangKyCucHH": "VN-3773-VT"
+  },
+  {
+    "MaDinhDanh": "000959",
+    "TenTau": "HẢI ÂU 17",
+    "SoIMO": null,
+    "SoPhanCap": "VR961585",
+    "SoDangKyCucHH": "VN-3431-TK"
+  },
+  {
+    "MaDinhDanh": "001059",
+    "TenTau": "TRƯỜNG THÀNH 8888",
+    "SoIMO": null,
+    "SoPhanCap": "VR072595",
+    "SoDangKyCucHH": "VN-3630-SL"
+  },
+  {
+    "MaDinhDanh": "001114",
+    "TenTau": "BÌNH DƯƠNG 856",
+    "SoIMO": null,
+    "SoPhanCap": "VR072674",
+    "SoDangKyCucHH": "VN-3758-VT"
+  },
+  {
+    "MaDinhDanh": "001264",
+    "TenTau": "PKH 555",
+    "SoIMO": null,
+    "SoPhanCap": "VR",
+    "SoDangKyCucHH": "VN-3981-TD"
+  },
+  {
+    "MaDinhDanh": "000358",
+    "TenTau": "HẢI NAM 39",
+    "SoIMO": "9276755",
+    "SoPhanCap": "VR034138",
+    "SoDangKyCucHH": "VN-3922-VT"
+  },
+  {
+    "MaDinhDanh": "001246",
+    "TenTau": "PHÚC LỘC 01",
+    "SoIMO": null,
+    "SoPhanCap": "VR052308",
+    "SoDangKyCucHH": "VN-3958-HB"
+  },
+  {
+    "MaDinhDanh": "000344",
+    "TenTau": "BÌNH DƯƠNG 126",
+    "SoIMO": "8666032",
+    "SoPhanCap": "VR082777",
+    "SoDangKyCucHH": "VN-3784-VT"
+  },
+  {
+    "MaDinhDanh": "001197",
+    "TenTau": "TRƯỜNG XUÂN 02",
+    "SoIMO": "8656427",
+    "SoPhanCap": "VR093168",
+    "SoDangKyCucHH": "VN-3899-TD"
+  },
+  {
+    "MaDinhDanh": "001134",
+    "TenTau": "AN THÀNH",
+    "SoIMO": "7801348",
+    "SoPhanCap": "VR781025",
+    "SoDangKyCucHH": "VN-3800-VT"
+  },
+  {
+    "MaDinhDanh": "000982",
+    "TenTau": "NAM VỸ 69",
+    "SoIMO": null,
+    "SoPhanCap": "VR082835",
+    "SoDangKyCucHH": "VN-3467-VT"
+  },
+  {
+    "MaDinhDanh": "001137",
+    "TenTau": "MINH ĐỨC PHÁT 68",
+    "SoIMO": "8668133",
+    "SoPhanCap": "VR093221",
+    "SoDangKyCucHH": "VN-3810-VT"
+  },
+  {
+    "MaDinhDanh": "001163",
+    "TenTau": "HẢI CHÂU 06",
+    "SoIMO": null,
+    "SoPhanCap": "VR103369",
+    "SoDangKyCucHH": "VN-3850-TK"
+  },
+  {
+    "MaDinhDanh": "000989",
+    "TenTau": "ĐẠI LỘC 36",
+    "SoIMO": null,
+    "SoPhanCap": "VR021959",
+    "SoDangKyCucHH": "VN-3496-VT"
+  },
+  {
+    "MaDinhDanh": "000764",
+    "TenTau": "HẢI HÀ 558",
+    "SoIMO": "9647966",
+    "SoPhanCap": "VR123534",
+    "SoDangKyCucHH": "VN-3499-TD"
+  },
+  {
+    "MaDinhDanh": "001006",
+    "TenTau": "HOÀNG HUY 18",
+    "SoIMO": null,
+    "SoPhanCap": "VR093222",
+    "SoDangKyCucHH": "VN-3534-VT"
+  },
+  {
+    "MaDinhDanh": "000884",
+    "TenTau": "ĐẠI DƯƠNG 125",
+    "SoIMO": "8999104",
+    "SoPhanCap": "VR",
+    "SoDangKyCucHH": "VN-3253-VT"
+  },
+  {
+    "MaDinhDanh": "001051",
+    "TenTau": "LỘC THỊNH AN 27",
+    "SoIMO": null,
+    "SoPhanCap": "VR082916",
+    "SoDangKyCucHH": "VN-3611-VT"
+  },
+  {
+    "MaDinhDanh": "000963",
+    "TenTau": "ĐẠI NAM 36",
+    "SoIMO": null,
+    "SoPhanCap": "VR062438",
+    "SoDangKyCucHH": "VN-3436-VT"
+  },
+  {
+    "MaDinhDanh": "000973",
+    "TenTau": "ĐẠI NAM 38",
+    "SoIMO": "9025986",
+    "SoPhanCap": "VR032083",
+    "SoDangKyCucHH": "VN-3457-VT"
+  },
+  {
+    "MaDinhDanh": "000136",
+    "TenTau": "ĐỨC THỌ 07",
+    "SoIMO": null,
+    "SoPhanCap": "VR042178",
+    "SoDangKyCucHH": "VN-3219-VT"
+  },
+  {
+    "MaDinhDanh": "000014",
+    "TenTau": "BÌNH DƯƠNG 636",
+    "SoIMO": null,
+    "SoPhanCap": "VR",
+    "SoDangKyCucHH": "VN-3275-VT"
+  },
+  {
+    "MaDinhDanh": "000946",
+    "TenTau": "HỒNG PHƯỢNG 68",
+    "SoIMO": null,
+    "SoPhanCap": "VR",
+    "SoDangKyCucHH": "VN-3391-VT"
+  },
+  {
+    "MaDinhDanh": "000922",
+    "TenTau": "NAM PHAT STAR",
+    "SoIMO": "9563835",
+    "SoPhanCap": "VR113670",
+    "SoDangKyCucHH": "VN-3332-VT"
+  },
+  {
+    "MaDinhDanh": "000927",
+    "TenTau": "HOÀNG THỊNH 16",
+    "SoIMO": "2748-2011",
+    "SoPhanCap": "VR082938",
+    "SoDangKyCucHH": "VN-3348-VT"
+  },
+  {
+    "MaDinhDanh": "000727",
+    "TenTau": "NAM PHÁT 02",
+    "SoIMO": null,
+    "SoPhanCap": "VR103503",
+    "SoDangKyCucHH": "VN-3229-VT"
+  },
+  {
+    "MaDinhDanh": "000172",
+    "TenTau": "THANH THÀNH ĐẠT 45",
+    "SoIMO": "9548720",
+    "SoPhanCap": "VR",
+    "SoDangKyCucHH": "VN-3248-VT"
+  },
+  {
+    "MaDinhDanh": "000898",
+    "TenTau": "ĐÔNG HẢI 68",
+    "SoIMO": "2632-2011",
+    "SoPhanCap": "VR011765",
+    "SoDangKyCucHH": "VN-3270-VT"
+  },
+  {
+    "MaDinhDanh": "000774",
+    "TenTau": "ĐỨC CƯỜNG 39",
+    "SoIMO": null,
+    "SoPhanCap": "VN-2469-VT",
+    "SoDangKyCucHH": "VN-2469-VT"
+  },
+  {
+    "MaDinhDanh": "000821",
+    "TenTau": "LONG THÀNH 09",
+    "SoIMO": null,
+    "SoPhanCap": "VR",
+    "SoDangKyCucHH": "VN-2483-VT"
+  },
+  {
+    "MaDinhDanh": "000798",
+    "TenTau": "HOÀNG HUÂN 16",
+    "SoIMO": null,
+    "SoPhanCap": "VR",
+    "SoDangKyCucHH": "VN-2478-VT"
+  },
+  {
+    "MaDinhDanh": "000848",
+    "TenTau": "ĐÔNG PHONG 17",
+    "SoIMO": null,
+    "SoPhanCap": "VR",
+    "SoDangKyCucHH": "VN-2539-VT"
+  },
+  {
+    "MaDinhDanh": "000878",
+    "TenTau": "TRUNG NGHĨA 07",
+    "SoIMO": null,
+    "SoPhanCap": "VR022006",
+    "SoDangKyCucHH": "VN-3245-VT"
+  },
+  {
+    "MaDinhDanh": "000833",
+    "TenTau": "VICCO-07",
+    "SoIMO": null,
+    "SoPhanCap": "-",
+    "SoDangKyCucHH": "VN-2499-TK"
+  },
+  {
+    "MaDinhDanh": "000691",
+    "TenTau": "HC 54",
+    "SoIMO": null,
+    "SoPhanCap": "VR",
+    "SoDangKyCucHH": "VN-3196-TK"
+  },
+  {
+    "MaDinhDanh": "001610",
+    "TenTau": "NEW ENERGY",
+    "SoIMO": "9306524",
+    "SoPhanCap": "VR052349",
+    "SoDangKyCucHH": "VN-3171-VT"
+  },
+  {
+    "MaDinhDanh": "000023",
+    "TenTau": "CH 800",
+    "SoIMO": null,
+    "SoPhanCap": "-",
+    "SoDangKyCucHH": "VNSG-2287-SL"
+  },
+  {
+    "MaDinhDanh": "002528",
+    "TenTau": "PHÚ HƯNG",
+    "SoIMO": null,
+    "SoPhanCap": "-",
+    "SoDangKyCucHH": "VNSG-2036-TK"
+  },
+  {
+    "MaDinhDanh": "000239",
+    "TenTau": "THÀNH TRUNG 36",
+    "SoIMO": null,
+    "SoPhanCap": "-",
+    "SoDangKyCucHH": "VN-3124-VT"
+  },
+  {
+    "MaDinhDanh": "000743",
+    "TenTau": "SÔNG GIANH 09",
+    "SoIMO": null,
+    "SoPhanCap": "VR",
+    "SoDangKyCucHH": "VN-2417-VT"
+  },
+  {
+    "MaDinhDanh": "000724",
+    "TenTau": "THUỶ AN 27",
+    "SoIMO": null,
+    "SoPhanCap": "VR",
+    "SoDangKyCucHH": "VN-3226-VT"
+  },
+  {
+    "MaDinhDanh": "001195",
+    "TenTau": "ĐỨC PHÁT 66",
+    "SoIMO": null,
+    "SoPhanCap": "VR082732",
+    "SoDangKyCucHH": "VN-4046-VT"
+  },
+  {
+    "MaDinhDanh": "001944",
+    "TenTau": "BÌNH THUẬN 18",
+    "SoIMO": null,
+    "SoPhanCap": "-",
+    "SoDangKyCucHH": "VNSG-1948-TKH"
+  },
+  {
+    "MaDinhDanh": "002476",
+    "TenTau": "FAR EAST",
+    "SoIMO": "8102086",
+    "SoPhanCap": "-",
+    "SoDangKyCucHH": "VNSG-2023-TH"
+  },
+  {
+    "MaDinhDanh": "000174",
+    "TenTau": "TRƯỜNG XUÂN 09",
+    "SoIMO": "9026760",
+    "SoPhanCap": "VR042263",
+    "SoDangKyCucHH": "VN-4049-VT"
+  },
+  {
+    "MaDinhDanh": "000563",
+    "TenTau": "DUY KHÁNH 136",
+    "SoIMO": null,
+    "SoPhanCap": "VR032051",
+    "SoDangKyCucHH": "VN-3151-VT"
+  },
+  {
+    "MaDinhDanh": "001026",
+    "TenTau": "TRƯỜNG THÀNH 189",
+    "SoIMO": null,
+    "SoPhanCap": "VR123903",
+    "SoDangKyCucHH": "VN-4026-SL"
+  },
+  {
+    "MaDinhDanh": "000102",
+    "TenTau": "VIỆT TRUNG 10-ALCI",
+    "SoIMO": null,
+    "SoPhanCap": "VR032141",
+    "SoDangKyCucHH": "VN-1775-VT"
+  },
+  {
+    "MaDinhDanh": "000003",
+    "TenTau": "SEA DRAGON 9999",
+    "SoIMO": "9609263",
+    "SoPhanCap": "-",
+    "SoDangKyCucHH": "VNSG-2295-TH"
+  },
+  {
+    "MaDinhDanh": "002529",
+    "TenTau": "PHÚ LONG",
+    "SoIMO": null,
+    "SoPhanCap": "-",
+    "SoDangKyCucHH": "VNSG-1903-DT"
+  },
+  {
+    "MaDinhDanh": "002437",
+    "TenTau": "CN-01-07",
+    "SoIMO": null,
+    "SoPhanCap": "-",
+    "SoDangKyCucHH": "VNSG-2065-CN"
+  },
+  {
+    "MaDinhDanh": "002127",
+    "TenTau": "SÀ LAN VISAL 800T",
+    "SoIMO": null,
+    "SoPhanCap": "-",
+    "SoDangKyCucHH": "VNSG-2083-SL"
+  },
+  {
+    "MaDinhDanh": "000012",
+    "TenTau": "XUÂN ĐẠT 86-BLC",
+    "SoIMO": "8649876",
+    "SoPhanCap": "VR093251",
+    "SoDangKyCucHH": "VN-2961-VT"
+  },
+  {
+    "MaDinhDanh": "002104",
+    "TenTau": "THÀNH PHÁT 01",
+    "SoIMO": null,
+    "SoPhanCap": "-",
+    "SoDangKyCucHH": "VNSG-2165-THC"
+  },
+  {
+    "MaDinhDanh": "001017",
+    "TenTau": "TRƯỜNG THÀNH 185",
+    "SoIMO": null,
+    "SoPhanCap": "VR133918",
+    "SoDangKyCucHH": "VN-4022-SL"
+  },
+  {
+    "MaDinhDanh": "002094",
+    "TenTau": "VINABUNKER 06",
+    "SoIMO": "9338943",
+    "SoPhanCap": "-",
+    "SoDangKyCucHH": "VNSG-2262-TD"
+  },
+  {
+    "MaDinhDanh": "001421",
+    "TenTau": "MEKONG",
+    "SoIMO": "9550979",
+    "SoPhanCap": "-",
+    "SoDangKyCucHH": "VNSG-2157-TH"
+  },
+  {
+    "MaDinhDanh": "002096",
+    "TenTau": "TAN CANG 65",
+    "SoIMO": "9738650",
+    "SoPhanCap": "-",
+    "SoDangKyCucHH": "VNSG-2254-TK"
+  },
+  {
+    "MaDinhDanh": "001362",
+    "TenTau": "GOLDEN STAR",
+    "SoIMO": "9146900",
+    "SoPhanCap": "-",
+    "SoDangKyCucHH": "VNSG-2227-TH"
+  },
+  {
+    "MaDinhDanh": "002033",
+    "TenTau": "MG-02",
+    "SoIMO": null,
+    "SoPhanCap": "-",
+    "SoDangKyCucHH": "VNSG-2147-TK"
+  },
+  {
+    "MaDinhDanh": "002062",
+    "TenTau": "PHÚ MỸ 02",
+    "SoIMO": null,
+    "SoPhanCap": "-",
+    "SoDangKyCucHH": "VNSG-2057-TK"
+  },
+  {
+    "MaDinhDanh": "000364",
+    "TenTau": "HẢI ANH 18",
+    "SoIMO": "9024035",
+    "SoPhanCap": "VR11801",
+    "SoDangKyCucHH": "VN-3486-VT"
+  },
+  {
+    "MaDinhDanh": "000050",
+    "TenTau": "HÒA BÌNH CARRARA",
+    "SoIMO": null,
+    "SoPhanCap": "-",
+    "SoDangKyCucHH": "VNSG-2286-DT"
+  },
+  {
+    "MaDinhDanh": "000974",
+    "TenTau": "NAM KHÁNH 36",
+    "SoIMO": "8664905",
+    "SoPhanCap": "VR082910",
+    "SoDangKyCucHH": "VN-4000-VT"
+  },
+  {
+    "MaDinhDanh": "002384",
+    "TenTau": "MEKONG - HOÀNG YẾN",
+    "SoIMO": null,
+    "SoPhanCap": "VR",
+    "SoDangKyCucHH": "VN-2057-TKH"
+  },
+  {
+    "MaDinhDanh": "000975",
+    "TenTau": "CỬA LÒ 16",
+    "SoIMO": null,
+    "SoPhanCap": "VR123886",
+    "SoDangKyCucHH": "VN-4001-TK"
+  },
+  {
+    "MaDinhDanh": "000808",
+    "TenTau": "THANH THÀNH ĐẠT 999",
+    "SoIMO": "9256444",
+    "SoPhanCap": "VR014149",
+    "SoDangKyCucHH": "VN-3999-VT"
+  },
+  {
+    "MaDinhDanh": "002093",
+    "TenTau": "VINABUNKER 05",
+    "SoIMO": "9310965",
+    "SoPhanCap": "-",
+    "SoDangKyCucHH": "VNSG-2145-TD"
+  },
+  {
+    "MaDinhDanh": "001009",
+    "TenTau": "ĐẠI PHÚC 18",
+    "SoIMO": null,
+    "SoPhanCap": "VR163865",
+    "SoDangKyCucHH": "VN-4014-VT"
+  },
+  {
+    "MaDinhDanh": "000877",
+    "TenTau": "PVC",
+    "SoIMO": null,
+    "SoPhanCap": "VR",
+    "SoDangKyCucHH": "VN-3243-SL"
+  },
+  {
+    "MaDinhDanh": "000902",
+    "TenTau": "SUNRISE 6",
+    "SoIMO": "8500977",
+    "SoPhanCap": "VR863157",
+    "SoDangKyCucHH": "VN-3287-VT"
+  },
+  {
+    "MaDinhDanh": "000979",
+    "TenTau": "MINH KHANG 01",
+    "SoIMO": "9026277",
+    "SoPhanCap": "VR032122",
+    "SoDangKyCucHH": "VN-4008-VT"
+  },
+  {
+    "MaDinhDanh": "000976",
+    "TenTau": "MINH PHÚ 9",
+    "SoIMO": "9489003",
+    "SoPhanCap": "VR082780",
+    "SoDangKyCucHH": "VN-4003-VT"
+  },
+  {
+    "MaDinhDanh": "000108",
+    "TenTau": "PHƯƠNG HƯNG 09",
+    "SoIMO": "9325403",
+    "SoPhanCap": "VR",
+    "SoDangKyCucHH": "VN-1791-VT"
+  },
+  {
+    "MaDinhDanh": "000915",
+    "TenTau": "DXP 01",
+    "SoIMO": null,
+    "SoPhanCap": "VR103416",
+    "SoDangKyCucHH": "VN-3321-TK"
+  },
+  {
+    "MaDinhDanh": "000600",
+    "TenTau": "HẢI LONG 126",
+    "SoIMO": null,
+    "SoPhanCap": "-",
+    "SoDangKyCucHH": "VN-3168-TD"
+  },
+  {
+    "MaDinhDanh": "001274",
+    "TenTau": "BÌNH NGUYÊN 86",
+    "SoIMO": "8665648",
+    "SoPhanCap": "VR072698",
+    "SoDangKyCucHH": "VN-3989-VT"
+  },
+  {
+    "MaDinhDanh": "000886",
+    "TenTau": "TAN BINH 136",
+    "SoIMO": "9254745",
+    "SoPhanCap": "VR024144",
+    "SoDangKyCucHH": "VN-3967-VT"
+  },
+  {
+    "MaDinhDanh": "001278",
+    "TenTau": "HOÀNG THIÊN PHÚ 18",
+    "SoIMO": "9520326",
+    "SoPhanCap": "VR082864",
+    "SoDangKyCucHH": "VN-3995-VT"
+  },
+  {
+    "MaDinhDanh": "000357",
+    "TenTau": "TÂN KHOA 28-BLC",
+    "SoIMO": "8664943",
+    "SoPhanCap": "VR082774",
+    "SoDangKyCucHH": "VN-2503-VT"
+  },
+  {
+    "MaDinhDanh": "001984",
+    "TenTau": "GREAT LADY",
+    "SoIMO": "9525766",
+    "SoPhanCap": "-",
+    "SoDangKyCucHH": "VNSG-2112-TD"
+  },
+  {
+    "MaDinhDanh": "001897",
+    "TenTau": "PTSC HOA BINH",
+    "SoIMO": "9725811",
+    "SoPhanCap": "-",
+    "SoDangKyCucHH": "VNSG-2210-DV"
+  },
+  {
+    "MaDinhDanh": "000348",
+    "TenTau": "ĐẠI NGHĨA 89-BLC",
+    "SoIMO": "8669278",
+    "SoPhanCap": "VR082850",
+    "SoDangKyCucHH": "VN-2607-VT"
+  },
+  {
+    "MaDinhDanh": "000888",
+    "TenTau": "TAN BINH 129",
+    "SoIMO": "9244996",
+    "SoPhanCap": "VR024115",
+    "SoDangKyCucHH": "VN-3960-VT"
+  },
+  {
+    "MaDinhDanh": "001215",
+    "TenTau": "XUÂN LỘC 01",
+    "SoIMO": "9026538",
+    "SoPhanCap": "VR042185",
+    "SoDangKyCucHH": "VN-3921-VT"
+  },
+  {
+    "MaDinhDanh": "000356",
+    "TenTau": "DAI DUONG 01",
+    "SoIMO": "9243277",
+    "SoPhanCap": "VR012574",
+    "SoDangKyCucHH": "VN-3327-TK"
+  },
+  {
+    "MaDinhDanh": "001245",
+    "TenTau": "HỒNG GAI",
+    "SoIMO": "8925804",
+    "SoPhanCap": "VR731029",
+    "SoDangKyCucHH": "VN-3956-TK"
+  },
+  {
+    "MaDinhDanh": "000050",
+    "TenTau": "HÒA BÌNH CARRARA",
+    "SoIMO": null,
+    "SoPhanCap": "-",
+    "SoDangKyCucHH": "VNSG-2286-DT"
+  },
+  {
+    "MaDinhDanh": "001241",
+    "TenTau": "NAM HƯNG 26",
+    "SoIMO": "8985579",
+    "SoPhanCap": "VR021914",
+    "SoDangKyCucHH": "VN-3950-VT"
+  },
+  {
+    "MaDinhDanh": "000700",
+    "TenTau": "HẠ LONG 08",
+    "SoIMO": "9601041",
+    "SoPhanCap": "VR103449",
+    "SoDangKyCucHH": "VN-3955-TK"
+  },
+  {
+    "MaDinhDanh": "001857",
+    "TenTau": "THRIVING 4",
+    "SoIMO": null,
+    "SoPhanCap": "-",
+    "SoDangKyCucHH": "VNSG-2268-TKH"
+  },
+  {
+    "MaDinhDanh": "000341",
+    "TenTau": "HẢI GIANG 68-BLC",
+    "SoIMO": "8747501",
+    "SoPhanCap": "VR082851",
+    "SoDangKyCucHH": "VN-2606-VT"
+  },
+  {
+    "MaDinhDanh": "001222",
+    "TenTau": "GIA THÀNH 36",
+    "SoIMO": "9354595",
+    "SoPhanCap": "VR052357",
+    "SoDangKyCucHH": "VN-3932-VT"
+  },
+  {
+    "MaDinhDanh": "002653",
+    "TenTau": "TRÀ MY",
+    "SoIMO": "9559468",
+    "SoPhanCap": "-",
+    "SoDangKyCucHH": "VNSG-25-ĐKTT-TK"
+  },
+  {
+    "MaDinhDanh": "000334",
+    "TenTau": "AN PHÁT 18-BLC",
+    "SoIMO": "8666886",
+    "SoPhanCap": "VR082819",
+    "SoDangKyCucHH": "VN-2548-VT"
+  },
+  {
+    "MaDinhDanh": "002032",
+    "TenTau": "MG-01",
+    "SoIMO": null,
+    "SoPhanCap": "-",
+    "SoDangKyCucHH": "VNSG-2146-TK"
+  },
+  {
+    "MaDinhDanh": "002644",
+    "TenTau": "THẢO MY",
+    "SoIMO": "5395672",
+    "SoPhanCap": "-",
+    "SoDangKyCucHH": "VNSG-24-ĐKTT-SL"
+  },
+  {
+    "MaDinhDanh": "002109",
+    "TenTau": "THRIVING 2",
+    "SoIMO": null,
+    "SoPhanCap": "-",
+    "SoDangKyCucHH": "VNSG-2141-TKH"
+  },
+  {
+    "MaDinhDanh": "000740",
+    "TenTau": "THANH HẢI 18",
+    "SoIMO": "9369837",
+    "SoPhanCap": "VR052389",
+    "SoDangKyCucHH": "VN-2411-VT"
+  },
+  {
+    "MaDinhDanh": "002108",
+    "TenTau": "VAN PHONG 1",
+    "SoIMO": "9266372",
+    "SoPhanCap": "-",
+    "SoDangKyCucHH": "VNSG-2143-TD"
+  },
+  {
+    "MaDinhDanh": "000331",
+    "TenTau": "THỊNH LONG 36",
+    "SoIMO": "9409596",
+    "SoPhanCap": "VR062519",
+    "SoDangKyCucHH": "VN-3828-VT"
+  },
+  {
+    "MaDinhDanh": "002638",
+    "TenTau": "TÂY ĐÔ 06",
+    "SoIMO": "7916076",
+    "SoPhanCap": "VR790587",
+    "SoDangKyCucHH": "VNSG-1771-TH"
+  },
+  {
+    "MaDinhDanh": "001147",
+    "TenTau": "THANH THÀNH ĐẠT 19",
+    "SoIMO": "8650021",
+    "SoPhanCap": "VR093235",
+    "SoDangKyCucHH": "VN-3825-VT"
+  },
+  {
+    "MaDinhDanh": "001909",
+    "TenTau": "THALEXIM OIL",
+    "SoIMO": "9111034",
+    "SoPhanCap": "-",
+    "SoDangKyCucHH": "VNSG-2226-TD"
+  },
+  {
+    "MaDinhDanh": "000336",
+    "TenTau": "TRƯỜNG SƠN 18",
+    "SoIMO": "9294642",
+    "SoPhanCap": "VR032035",
+    "SoDangKyCucHH": "VN-3918-VT"
+  },
+  {
+    "MaDinhDanh": "002187",
+    "TenTau": "YẾT KIÊU P3",
+    "SoIMO": null,
+    "SoPhanCap": "VR611272",
+    "SoDangKyCucHH": "VNSG-1757-CCN"
+  },
+  {
+    "MaDinhDanh": "001180",
+    "TenTau": "TRÀNG AN 05",
+    "SoIMO": "9282077",
+    "SoPhanCap": "VR021955",
+    "SoDangKyCucHH": "VN-3876-VT"
+  },
+  {
+    "MaDinhDanh": "000832",
+    "TenTau": "ĐẠI DƯƠNG 06",
+    "SoIMO": null,
+    "SoPhanCap": "VR154098",
+    "SoDangKyCucHH": "VN-3890-TK"
+  },
+  {
+    "MaDinhDanh": "000328",
+    "TenTau": "THÀNH ĐẠT 18-BLC",
+    "SoIMO": "8666331",
+    "SoPhanCap": "VR082806",
+    "SoDangKyCucHH": "VN-2615-VT"
+  },
+  {
+    "MaDinhDanh": "002034",
+    "TenTau": "MG-03",
+    "SoIMO": null,
+    "SoPhanCap": "-",
+    "SoDangKyCucHH": "VNSG-2114-TK"
+  },
+  {
+    "MaDinhDanh": "001187",
+    "TenTau": "ĐẠI DƯƠNG 08",
+    "SoIMO": null,
+    "SoPhanCap": "VR154097",
+    "SoDangKyCucHH": "VN-3891-TK"
+  },
+  {
+    "MaDinhDanh": "002498",
+    "TenTau": "VINASHIN BẠCH ĐẰNG 02",
+    "SoIMO": "8741909",
+    "SoPhanCap": "VR093143",
+    "SoDangKyCucHH": "VN-3369-TK"
+  },
+  {
+    "MaDinhDanh": "000327",
+    "TenTau": "PRIME SUN",
+    "SoIMO": "9482158",
+    "SoPhanCap": "VR113823",
+    "SoDangKyCucHH": "VN-3409-TD"
+  },
+  {
+    "MaDinhDanh": "000319",
+    "TenTau": "VINASHIN BẠCH ĐẰNG 01",
+    "SoIMO": "8741894",
+    "SoPhanCap": "VR093144",
+    "SoDangKyCucHH": "VN-3368-TK"
+  },
+  {
+    "MaDinhDanh": "001141",
+    "TenTau": "HC 45",
+    "SoIMO": "9212632",
+    "SoPhanCap": "VR991535",
+    "SoDangKyCucHH": "VN-3814-TK"
+  },
+  {
+    "MaDinhDanh": "000312",
+    "TenTau": "THÀNH ĐẠT 02-BLC",
+    "SoIMO": "8666238",
+    "SoPhanCap": "VR093270",
+    "SoDangKyCucHH": "VN-3005-VT"
+  },
+  {
+    "MaDinhDanh": "002426",
+    "TenTau": "BRITOIL 6",
+    "SoIMO": null,
+    "SoPhanCap": "-",
+    "SoDangKyCucHH": "VNSG-06/TT/2015"
+  },
+  {
+    "MaDinhDanh": "001110",
+    "TenTau": "HẢI HÀ 18",
+    "SoIMO": "9611084",
+    "SoPhanCap": "VR103381",
+    "SoDangKyCucHH": "VN-3748-TD"
+  },
+  {
+    "MaDinhDanh": "000796",
+    "TenTau": "VINACOMIN CẨM PHẢ",
+    "SoIMO": null,
+    "SoPhanCap": "VR143880",
+    "SoDangKyCucHH": "VN-3715-VT"
+  },
+  {
+    "MaDinhDanh": "000800",
+    "TenTau": "CẢNG VỤ 01",
+    "SoIMO": null,
+    "SoPhanCap": "VR021951",
+    "SoDangKyCucHH": "VN-3747-CV"
+  },
+  {
+    "MaDinhDanh": "001127",
+    "TenTau": "SEA DRAGON 08",
+    "SoIMO": "9386029",
+    "SoPhanCap": "VR042437",
+    "SoDangKyCucHH": "VN-3790-TD"
+  },
+  {
+    "MaDinhDanh": "000506",
+    "TenTau": "VIỄN ĐÔNG 08",
+    "SoIMO": null,
+    "SoPhanCap": "-",
+    "SoDangKyCucHH": "VN-3061-VT"
+  },
+  {
+    "MaDinhDanh": "000604",
+    "TenTau": "THANH PHONG 27",
+    "SoIMO": null,
+    "SoPhanCap": "VR",
+    "SoDangKyCucHH": "VN-1725-VT"
+  },
+  {
+    "MaDinhDanh": "000505",
+    "TenTau": "HOÀNG GIA 56",
+    "SoIMO": null,
+    "SoPhanCap": "-",
+    "SoDangKyCucHH": "VN-3059-VT"
+  },
+  {
+    "MaDinhDanh": "001102",
+    "TenTau": "TRẦN HƯNG ĐẠO",
+    "SoIMO": "6922339",
+    "SoPhanCap": "VR690204",
+    "SoDangKyCucHH": "VN-3737-NV"
+  },
+  {
+    "MaDinhDanh": "001106",
+    "TenTau": "TĐC-96",
+    "SoIMO": null,
+    "SoPhanCap": "VR960658",
+    "SoDangKyCucHH": "VN-3742-SL"
+  },
+  {
+    "MaDinhDanh": "000298",
+    "TenTau": "NGUYÊN PHÁT 369-ALCI",
+    "SoIMO": "9354882",
+    "SoPhanCap": "VR052339",
+    "SoDangKyCucHH": "VN-1979-VT"
+  },
+  {
+    "MaDinhDanh": "000305",
+    "TenTau": "MINH ĐỨC 18-BLC",
+    "SoIMO": null,
+    "SoPhanCap": "VR093207",
+    "SoDangKyCucHH": "VN-2931-VT"
+  },
+  {
+    "MaDinhDanh": "000289",
+    "TenTau": "VINAFCO 26",
+    "SoIMO": "9138367",
+    "SoPhanCap": "VR974026",
+    "SoDangKyCucHH": "VN-3666-VT"
+  },
+  {
+    "MaDinhDanh": "001408",
+    "TenTau": "HOA BINH 54",
+    "SoIMO": "9693434",
+    "SoPhanCap": "-",
+    "SoDangKyCucHH": "VNSG-2200-TH"
+  },
+  {
+    "MaDinhDanh": "000799",
+    "TenTau": "HÒN NGƯ 68",
+    "SoIMO": null,
+    "SoPhanCap": "VR144008",
+    "SoDangKyCucHH": "VN-3728-CV"
+  },
+  {
+    "MaDinhDanh": "001866",
+    "TenTau": "THANH CHÂU 26",
+    "SoIMO": "7709813",
+    "SoPhanCap": "-",
+    "SoDangKyCucHH": "VNSG-2176-TD"
+  },
+  {
+    "MaDinhDanh": "001067",
+    "TenTau": "PHƯƠNG GIANG 189",
+    "SoIMO": "8977314",
+    "SoPhanCap": "VR021874",
+    "SoDangKyCucHH": "VN-3656-VT"
+  },
+  {
+    "MaDinhDanh": "002229",
+    "TenTau": "SÔNG GIANH",
+    "SoIMO": "9400722",
+    "SoPhanCap": "VR",
+    "SoDangKyCucHH": "VN-07.TT-VT"
+  },
+  {
+    "MaDinhDanh": "000900",
+    "TenTau": "LAM HỒNG 99",
+    "SoIMO": "9619634",
+    "SoPhanCap": "VR",
+    "SoDangKyCucHH": "VN-3279-VT"
+  },
+  {
+    "MaDinhDanh": "001948",
+    "TenTau": "CẢNG VỤ HÀNG HẢI ĐÀ NẴNG 02",
+    "SoIMO": "9769673",
+    "SoPhanCap": "VR143915",
+    "SoDangKyCucHH": "ĐN-FAL-001948-5"
+  },
+  {
+    "MaDinhDanh": "000267",
+    "TenTau": "TIẾN THÀNH 26",
+    "SoIMO": "9627071",
+    "SoPhanCap": "VR",
+    "SoDangKyCucHH": "VN-3360-TD"
+  },
+  {
+    "MaDinhDanh": "001346",
+    "TenTau": "THÁI BÌNH SEA",
+    "SoIMO": "9391610",
+    "SoPhanCap": "VR103451",
+    "SoDangKyCucHH": "VN-48.TT-VT"
+  },
+  {
+    "MaDinhDanh": "000250",
+    "TenTau": "AN PHÁT 36",
+    "SoIMO": "9555474",
+    "SoPhanCap": "VR093245",
+    "SoDangKyCucHH": "VN-2942-VT"
+  },
+  {
+    "MaDinhDanh": "001050",
+    "TenTau": "TRƯỜNG HẢI",
+    "SoIMO": "9342437",
+    "SoPhanCap": "VR042292",
+    "SoDangKyCucHH": "VN-3608-VT"
+  },
+  {
+    "MaDinhDanh": "000750",
+    "TenTau": "LAM HỒNG 18",
+    "SoIMO": "9026887",
+    "SoPhanCap": "VR",
+    "SoDangKyCucHH": "VN-2437-VT"
+  },
+  {
+    "MaDinhDanh": "001038",
+    "TenTau": "THANH THÀNH ĐẠT 67",
+    "SoIMO": "9340984",
+    "SoPhanCap": "VR042277",
+    "SoDangKyCucHH": "VN-3584-VT"
+  },
+  {
+    "MaDinhDanh": "001035",
+    "TenTau": "THANH THÀNH ĐẠT 35",
+    "SoIMO": "9399246",
+    "SoPhanCap": "VR062506",
+    "SoDangKyCucHH": "VN-3576-VT"
+  },
+  {
+    "MaDinhDanh": "000998",
+    "TenTau": "THANH THÀNH ĐẠT 69",
+    "SoIMO": "9545821",
+    "SoPhanCap": "VR093169",
+    "SoDangKyCucHH": "VN-3516-VT"
+  },
+  {
+    "MaDinhDanh": "000097",
+    "TenTau": "THÁI SƠN 02",
+    "SoIMO": "8836883",
+    "SoPhanCap": "VR860094",
+    "SoDangKyCucHH": "VN-2860-VT"
+  },
+  {
+    "MaDinhDanh": "002148",
+    "TenTau": "TÂN CẢNG 10",
+    "SoIMO": null,
+    "SoPhanCap": "VR751519",
+    "SoDangKyCucHH": "VNSG-1493-TK"
+  },
+  {
+    "MaDinhDanh": "002438",
+    "TenTau": "SEA DRAGON 05",
+    "SoIMO": "8021933",
+    "SoPhanCap": "VR810044",
+    "SoDangKyCucHH": "VN-3533-TD"
+  },
+  {
+    "MaDinhDanh": "000230",
+    "TenTau": "TV 02",
+    "SoIMO": null,
+    "SoPhanCap": "VR721416",
+    "SoDangKyCucHH": "VN-2791-CN"
+  },
+  {
+    "MaDinhDanh": "000936",
+    "TenTau": "STAR 89",
+    "SoIMO": "9558139",
+    "SoPhanCap": "VR093093",
+    "SoDangKyCucHH": "VN-3357-VT"
+  },
+  {
+    "MaDinhDanh": "001013",
+    "TenTau": "ĐÔNG HẢI 36",
+    "SoIMO": "9535979",
+    "SoPhanCap": "VR093027",
+    "SoDangKyCucHH": "VN-3542-VT"
+  },
+  {
+    "MaDinhDanh": "000943",
+    "TenTau": "HÀ AN 18",
+    "SoIMO": "9511404",
+    "SoPhanCap": "VR",
+    "SoDangKyCucHH": "VN-3383-VT"
+  },
+  {
+    "MaDinhDanh": "000232",
+    "TenTau": "TV 06",
+    "SoIMO": null,
+    "SoPhanCap": "VR721373",
+    "SoDangKyCucHH": "VN-2792-CN"
+  },
+  {
+    "MaDinhDanh": "001865",
+    "TenTau": "VSP-EXPRESS",
+    "SoIMO": "9674220",
+    "SoPhanCap": "-",
+    "SoDangKyCucHH": "VNSG-2175-TH+K"
+  },
+  {
+    "MaDinhDanh": "002067",
+    "TenTau": "PHÚ QUÝ 07",
+    "SoIMO": null,
+    "SoPhanCap": "-",
+    "SoDangKyCucHH": "VNSG-1577-TK+H"
+  },
+  {
+    "MaDinhDanh": "000481",
+    "TenTau": "HOÀNG GIA 46",
+    "SoIMO": null,
+    "SoPhanCap": "VR093256",
+    "SoDangKyCucHH": "VN-2988-VT"
+  },
+  {
+    "MaDinhDanh": "000489",
+    "TenTau": "HOÀNG ANH 98",
+    "SoIMO": "8976944",
+    "SoPhanCap": "VR021906",
+    "SoDangKyCucHH": "VN-3016-VT"
+  },
+  {
+    "MaDinhDanh": "001030",
+    "TenTau": "TIGER",
+    "SoIMO": "9452751",
+    "SoPhanCap": "VR072585",
+    "SoDangKyCucHH": "VN-3566-VT"
+  },
+  {
+    "MaDinhDanh": "000127",
+    "TenTau": "HOÀNG ANH 369-ALCI",
+    "SoIMO": "8987814",
+    "SoPhanCap": "VR042230",
+    "SoDangKyCucHH": "VN-2076-VT."
+  },
+  {
+    "MaDinhDanh": "000501",
+    "TenTau": "ANH DUY 168-BIDV",
+    "SoIMO": null,
+    "SoPhanCap": "VR093205",
+    "SoDangKyCucHH": "VN-3041-VT"
+  },
+  {
+    "MaDinhDanh": "000438",
+    "TenTau": "MẠNH TIẾN 08",
+    "SoIMO": "8967101",
+    "SoPhanCap": "VR011736",
+    "SoDangKyCucHH": "VN-2826-VT"
+  },
+  {
+    "MaDinhDanh": "000444",
+    "TenTau": "THUẬN AN 09",
+    "SoIMO": null,
+    "SoPhanCap": "VR093098",
+    "SoDangKyCucHH": "VN-2846-VT"
+  },
+  {
+    "MaDinhDanh": "000091",
+    "TenTau": "ĐỨC LỘC 16",
+    "SoIMO": null,
+    "SoPhanCap": "VR032077",
+    "SoDangKyCucHH": "VN-1694-VT"
+  },
+  {
+    "MaDinhDanh": "002068",
+    "TenTau": "PHÚ XUÂN 02",
+    "SoIMO": null,
+    "SoPhanCap": "-",
+    "SoDangKyCucHH": "VNSG-2014-SL"
+  },
+  {
+    "MaDinhDanh": "002651",
+    "TenTau": "TK 04",
+    "SoIMO": null,
+    "SoPhanCap": "VR881054",
+    "SoDangKyCucHH": "VNSG-1559-TK"
+  },
+  {
+    "MaDinhDanh": "000399",
+    "TenTau": "QUANG ANH 54",
+    "SoIMO": "9512006",
+    "SoPhanCap": "VR082971",
+    "SoDangKyCucHH": "VN-2724-VT"
+  },
+  {
+    "MaDinhDanh": "000414",
+    "TenTau": "MAI DƯƠNG 126",
+    "SoIMO": null,
+    "SoPhanCap": "VR082811",
+    "SoDangKyCucHH": "VN-2767-VT"
+  },
+  {
+    "MaDinhDanh": "000386",
+    "TenTau": "TOÀN THẮNG 08",
+    "SoIMO": "8893972",
+    "SoPhanCap": "VR",
+    "SoDangKyCucHH": "VN-2663-VT"
+  },
+  {
+    "MaDinhDanh": "000430",
+    "TenTau": "HOÀNG THỊNH 27",
+    "SoIMO": "9026796",
+    "SoPhanCap": "VR042269",
+    "SoDangKyCucHH": "VN-2809-VT"
+  },
+  {
+    "MaDinhDanh": "000465",
+    "TenTau": "HOÀNG GIA 45",
+    "SoIMO": null,
+    "SoPhanCap": "VR093182",
+    "SoDangKyCucHH": "VN-2906-VT"
+  },
+  {
+    "MaDinhDanh": "000412",
+    "TenTau": "THÀNH MINH 89",
+    "SoIMO": null,
+    "SoPhanCap": "VR082809",
+    "SoDangKyCucHH": "VN-2761-VT"
+  },
+  {
+    "MaDinhDanh": "000085",
+    "TenTau": "PHƯƠNG HƯNG 07",
+    "SoIMO": "8989991",
+    "SoPhanCap": "VR",
+    "SoDangKyCucHH": "VN-1562-VT"
+  },
+  {
+    "MaDinhDanh": "000424",
+    "TenTau": "HẢI BÌNH 99",
+    "SoIMO": "8981303",
+    "SoPhanCap": "VR021880",
+    "SoDangKyCucHH": "VN-2796-VT"
+  },
+  {
+    "MaDinhDanh": "000427",
+    "TenTau": "ĐÔNG PHÚ",
+    "SoIMO": "9525687",
+    "SoPhanCap": "VR093076",
+    "SoDangKyCucHH": "VN-2801-VT"
+  },
+  {
+    "MaDinhDanh": "002517",
+    "TenTau": "MỸ THO 01",
+    "SoIMO": null,
+    "SoPhanCap": "-",
+    "SoDangKyCucHH": "VNSG-1503-CN"
+  },
+  {
+    "MaDinhDanh": "001927",
+    "TenTau": "TAY DO 04",
+    "SoIMO": "8867260",
+    "SoPhanCap": "VR910869",
+    "SoDangKyCucHH": "VNSG-1753-TH"
+  },
+  {
+    "MaDinhDanh": "000842",
+    "TenTau": "TRƯỜNG HẢI 05",
+    "SoIMO": "8869141",
+    "SoPhanCap": "VR",
+    "SoDangKyCucHH": "VN-2524-VT"
+  },
+  {
+    "MaDinhDanh": "000726",
+    "TenTau": "HUẾ 18",
+    "SoIMO": "9303261",
+    "SoPhanCap": "VR021965",
+    "SoDangKyCucHH": "VN-3228-VT"
+  },
+  {
+    "MaDinhDanh": "000843",
+    "TenTau": "HOÀNG MAI 01",
+    "SoIMO": "9343223",
+    "SoPhanCap": "VR",
+    "SoDangKyCucHH": "VN-2523-VT"
+  },
+  {
+    "MaDinhDanh": "000926",
+    "TenTau": "QUANG ĐỈNH 36",
+    "SoIMO": "9511193",
+    "SoPhanCap": "VR",
+    "SoDangKyCucHH": "VN-3343-VT"
+  },
+  {
+    "MaDinhDanh": "000841",
+    "TenTau": "HẢI VIỆT 06",
+    "SoIMO": null,
+    "SoPhanCap": "VR",
+    "SoDangKyCucHH": "VN-2522-VT"
+  },
+  {
+    "MaDinhDanh": "002635",
+    "TenTau": "TÂN CẢNG 12",
+    "SoIMO": null,
+    "SoPhanCap": "VR881659",
+    "SoDangKyCucHH": "VNSG-1553-TK"
+  },
+  {
+    "MaDinhDanh": "002069",
+    "TenTau": "PHÚ XUÂN 03",
+    "SoIMO": null,
+    "SoPhanCap": "-",
+    "SoDangKyCucHH": "VNSG-2017-SL"
+  },
+  {
+    "MaDinhDanh": "000738",
+    "TenTau": "BIỂN VIỆT 05",
+    "SoIMO": null,
+    "SoPhanCap": "VR072633",
+    "SoDangKyCucHH": "VN-2406-VT"
+  },
+  {
+    "MaDinhDanh": "000044",
+    "TenTau": "CỬA LỤC",
+    "SoIMO": null,
+    "SoPhanCap": "VR",
+    "SoDangKyCucHH": "VN-1866-TK"
+  },
+  {
+    "MaDinhDanh": "000645",
+    "TenTau": "MINH TÂM 08",
+    "SoIMO": null,
+    "SoPhanCap": "VR052331",
+    "SoDangKyCucHH": "VN-1946-VT"
+  },
+  {
+    "MaDinhDanh": "000736",
+    "TenTau": "VINASHIN-INCO 27",
+    "SoIMO": "9340142",
+    "SoPhanCap": "VR",
+    "SoDangKyCucHH": "VN-2400-VT"
+  },
+  {
+    "MaDinhDanh": "000492",
+    "TenTau": "HÀ ANH 02",
+    "SoIMO": null,
+    "SoPhanCap": "-",
+    "SoDangKyCucHH": "VN-3028-VT"
+  },
+  {
+    "MaDinhDanh": "000093",
+    "TenTau": "PHÁT ĐẠT 08",
+    "SoIMO": null,
+    "SoPhanCap": "VR052316",
+    "SoDangKyCucHH": "VN-2252-VT"
+  },
+  {
+    "MaDinhDanh": "000072",
+    "TenTau": "SAO MAI 125",
+    "SoIMO": "9329617",
+    "SoPhanCap": "VR",
+    "SoDangKyCucHH": "VN-1857-VT"
+  },
+  {
+    "MaDinhDanh": "002342",
+    "TenTau": "VINASHIN SOUTHERN 18",
+    "SoIMO": "8420141",
+    "SoPhanCap": "VR840080",
+    "SoDangKyCucHH": "VNSG-1803-TH"
+  },
+  {
+    "MaDinhDanh": "000686",
+    "TenTau": "THÀNH CƯỜNG 01",
+    "SoIMO": null,
+    "SoPhanCap": "VR931728",
+    "SoDangKyCucHH": "VN-2195-VT"
+  },
+  {
+    "MaDinhDanh": "000075",
+    "TenTau": "MINH KHAI 19",
+    "SoIMO": null,
+    "SoPhanCap": "VR",
+    "SoDangKyCucHH": "VN-1887-VT"
+  },
+  {
+    "MaDinhDanh": "000709",
+    "TenTau": "TRUNG ĐỨC 10",
+    "SoIMO": "8836895",
+    "SoPhanCap": "VR",
+    "SoDangKyCucHH": "VN-2301-VT"
+  },
+  {
+    "MaDinhDanh": "000683",
+    "TenTau": "HẢI ĐĂNG 18",
+    "SoIMO": null,
+    "SoPhanCap": "VR032016",
+    "SoDangKyCucHH": "VN-2172-VT"
+  },
+  {
+    "MaDinhDanh": "000729",
+    "TenTau": "BẢO CHÂU 16",
+    "SoIMO": "8986951",
+    "SoPhanCap": "VR011802",
+    "SoDangKyCucHH": "VN-3234-VT"
+  },
+  {
+    "MaDinhDanh": "000699",
+    "TenTau": "TRUNG ĐÔNG 18",
+    "SoIMO": null,
+    "SoPhanCap": "VR",
+    "SoDangKyCucHH": "VN-2236-VT"
+  },
+  {
+    "MaDinhDanh": "000676",
+    "TenTau": "SAO MAI 136",
+    "SoIMO": "9023938",
+    "SoPhanCap": "VR011752",
+    "SoDangKyCucHH": "VN-2159-VT"
+  },
+  {
+    "MaDinhDanh": "000661",
+    "TenTau": "PHỤC VỤ 02",
+    "SoIMO": null,
+    "SoPhanCap": "VR",
+    "SoDangKyCucHH": "VN-2055-PV"
+  },
+  {
+    "MaDinhDanh": "000664",
+    "TenTau": "HOÀNG ANH 18",
+    "SoIMO": "8925763",
+    "SoPhanCap": "-",
+    "SoDangKyCucHH": "VN-2068-VT"
+  },
+  {
+    "MaDinhDanh": "000689",
+    "TenTau": "THÀNH CƯỜNG",
+    "SoIMO": "8838726",
+    "SoPhanCap": "VR880136",
+    "SoDangKyCucHH": "VN-2217-VT"
+  },
+  {
+    "MaDinhDanh": "002409",
+    "TenTau": "HAI AN",
+    "SoIMO": "7302328",
+    "SoPhanCap": "-",
+    "SoDangKyCucHH": "25/2012/TT"
+  },
+  {
+    "MaDinhDanh": "000615",
+    "TenTau": "HOÀNG THỊNH 28",
+    "SoIMO": null,
+    "SoPhanCap": "VR",
+    "SoDangKyCucHH": "VN-1811-VT"
+  },
+  {
+    "MaDinhDanh": "000603",
+    "TenTau": "MINH SƠN 27",
+    "SoIMO": null,
+    "SoPhanCap": "VR",
+    "SoDangKyCucHH": "VN-1717-VT"
+  },
+  {
+    "MaDinhDanh": "000597",
+    "TenTau": "PHƯƠNG NAM 36",
+    "SoIMO": null,
+    "SoPhanCap": "VR",
+    "SoDangKyCucHH": "VN-1702-VT"
+  },
+  {
+    "MaDinhDanh": "000077",
+    "TenTau": "CÁI LÂN 2",
+    "SoIMO": "9345207",
+    "SoPhanCap": "VR052379",
+    "SoDangKyCucHH": "VN-1986-VT"
+  },
+  {
+    "MaDinhDanh": "000647",
+    "TenTau": "THUẬN AN 02",
+    "SoIMO": "9334454",
+    "SoPhanCap": "VR",
+    "SoDangKyCucHH": "VN-1955-VT"
+  },
+  {
+    "MaDinhDanh": "000633",
+    "TenTau": "HB-88",
+    "SoIMO": null,
+    "SoPhanCap": "VR",
+    "SoDangKyCucHH": "VN-1890-HB"
+  },
+  {
+    "MaDinhDanh": "000613",
+    "TenTau": "TC-81",
+    "SoIMO": null,
+    "SoPhanCap": "VR",
+    "SoDangKyCucHH": "VN-1795-TC"
+  },
+  {
+    "MaDinhDanh": "000614",
+    "TenTau": "TRƯỜNG AN 07",
+    "SoIMO": null,
+    "SoPhanCap": "VR",
+    "SoDangKyCucHH": "VN-1793-VT"
+  },
+  {
+    "MaDinhDanh": "002256",
+    "TenTau": "CASHIN - 01",
+    "SoIMO": null,
+    "SoPhanCap": "VR062903",
+    "SoDangKyCucHH": "VNSG-1928-TK"
+  },
+  {
+    "MaDinhDanh": "000716",
+    "TenTau": "VINASHIN-INCO 09",
+    "SoIMO": "9379557",
+    "SoPhanCap": "VR",
+    "SoDangKyCucHH": "VN-2329-VT"
+  },
+  {
+    "MaDinhDanh": "000385",
+    "TenTau": "BIỂN ĐÔNG 06",
+    "SoIMO": "9399258",
+    "SoPhanCap": "VR",
+    "SoDangKyCucHH": "VN-2660-VT"
+  },
+  {
+    "MaDinhDanh": "000113",
+    "TenTau": "AN THỊNH 08-ALCI",
+    "SoIMO": null,
+    "SoPhanCap": "-",
+    "SoDangKyCucHH": "VN-1889-VT"
+  },
+  {
+    "MaDinhDanh": "000567",
+    "TenTau": "HOÀNG THỊNH 18",
+    "SoIMO": null,
+    "SoPhanCap": "VR",
+    "SoDangKyCucHH": "VN-1527-VT"
+  },
+  {
+    "MaDinhDanh": "000678",
+    "TenTau": "TRƯỜNG HẢI 45",
+    "SoIMO": "8869115",
+    "SoPhanCap": "VR",
+    "SoDangKyCucHH": "VN-3193-VT"
+  },
+  {
+    "MaDinhDanh": "002349",
+    "TenTau": "HOẰNG HOÁ 04",
+    "SoIMO": null,
+    "SoPhanCap": "VR",
+    "SoDangKyCucHH": "VN-817-VT"
+  },
+  {
+    "MaDinhDanh": "000636",
+    "TenTau": "NVB 03",
+    "SoIMO": null,
+    "SoPhanCap": "VR",
+    "SoDangKyCucHH": "VN-1895-TK"
+  },
+  {
+    "MaDinhDanh": "000568",
+    "TenTau": "MINH SƠN 06",
+    "SoIMO": null,
+    "SoPhanCap": "VR",
+    "SoDangKyCucHH": "VN-1531-VT"
+  },
+  {
+    "MaDinhDanh": "000548",
+    "TenTau": "NGHI SƠN 01",
+    "SoIMO": null,
+    "SoPhanCap": "VR",
+    "SoDangKyCucHH": "VN-1400-TK"
+  },
+  {
+    "MaDinhDanh": "000549",
+    "TenTau": "NGHI SƠN 02",
+    "SoIMO": null,
+    "SoPhanCap": "VR",
+    "SoDangKyCucHH": "VN-1401-TK"
+  },
+  {
+    "MaDinhDanh": "002553",
+    "TenTau": "VIỆT ANH",
+    "SoIMO": "8868094",
+    "SoPhanCap": "VR870792",
+    "SoDangKyCucHH": "VNSG-1790-TD"
+  },
+  {
+    "MaDinhDanh": "001952",
+    "TenTau": "CGG AMADEUS",
+    "SoIMO": "9174933",
+    "SoPhanCap": "-",
+    "SoDangKyCucHH": "VNSG-2105-KS"
+  },
+  {
+    "MaDinhDanh": "002420",
+    "TenTau": "BÌNH TRỊ 02",
+    "SoIMO": null,
+    "SoPhanCap": "VR971356",
+    "SoDangKyCucHH": "VNSG-1480-TK"
+  },
+  {
+    "MaDinhDanh": "000985",
+    "TenTau": "THIỀN QUANG 06",
+    "SoIMO": "8602543",
+    "SoPhanCap": "VR861509",
+    "SoDangKyCucHH": "VN-3476-VT"
+  },
+  {
+    "MaDinhDanh": "002072",
+    "TenTau": "PRIME SAILOR",
+    "SoIMO": "9187588",
+    "SoPhanCap": "-",
+    "SoDangKyCucHH": "20/2012/TT"
+  },
+  {
+    "MaDinhDanh": "001747",
+    "TenTau": "SÔNG HÀN",
+    "SoIMO": "9224013",
+    "SoPhanCap": "VR001566",
+    "SoDangKyCucHH": "VNĐ-276-TK"
+  },
+  {
+    "MaDinhDanh": "001753",
+    "TenTau": "SƠN TRÀ",
+    "SoIMO": null,
+    "SoPhanCap": "VR810871",
+    "SoDangKyCucHH": "VNĐN-272-TK"
+  },
+  {
+    "MaDinhDanh": "001465",
+    "TenTau": "DONG THIEN PHU SILVER",
+    "SoIMO": "9492854",
+    "SoPhanCap": "-",
+    "SoDangKyCucHH": "08/2012/TT"
+  },
+  {
+    "MaDinhDanh": "001984",
+    "TenTau": "GREAT LADY",
+    "SoIMO": "9525766",
+    "SoPhanCap": "-",
+    "SoDangKyCucHH": "VNSG-2112-TD"
+  },
+  {
+    "MaDinhDanh": "002116",
+    "TenTau": "SEA SPRING",
+    "SoIMO": null,
+    "SoPhanCap": "-",
+    "SoDangKyCucHH": "12/2012/TT"
+  },
+  {
+    "MaDinhDanh": "000622",
+    "TenTau": "NAM PHÁT 01",
+    "SoIMO": null,
+    "SoPhanCap": "VR103393",
+    "SoDangKyCucHH": "VN-3178-VT"
+  },
+  {
+    "MaDinhDanh": "002034",
+    "TenTau": "MG-03",
+    "SoIMO": null,
+    "SoPhanCap": "-",
+    "SoDangKyCucHH": "VNSG-2114-TK"
+  },
+  {
+    "MaDinhDanh": "002032",
+    "TenTau": "MG-01",
+    "SoIMO": null,
+    "SoPhanCap": "-",
+    "SoDangKyCucHH": "VNSG-2146-TK"
+  },
+  {
+    "MaDinhDanh": "000961",
+    "TenTau": "HẢI ÂU 19",
+    "SoIMO": "9243265",
+    "SoPhanCap": "VR",
+    "SoDangKyCucHH": "VN-3433-TK"
+  },
+  {
+    "MaDinhDanh": "000876",
+    "TenTau": "VIỆT TRUNG 45",
+    "SoIMO": "8746454",
+    "SoPhanCap": "VR082788",
+    "SoDangKyCucHH": "VN-3242-VT"
+  },
+  {
+    "MaDinhDanh": "000407",
+    "TenTau": "THÀNH VÂN 27",
+    "SoIMO": "8893037",
+    "SoPhanCap": "VR890392",
+    "SoDangKyCucHH": "VN-2743-VT"
+  },
+  {
+    "MaDinhDanh": "002123",
+    "TenTau": "LONG HAI-02",
+    "SoIMO": "9597939",
+    "SoPhanCap": "-",
+    "SoDangKyCucHH": "VNSG-2094-TL"
+  },
+  {
+    "MaDinhDanh": "002573",
+    "TenTau": "HỎA LONG",
+    "SoIMO": null,
+    "SoPhanCap": "-",
+    "SoDangKyCucHH": "VNSG-1778-CN."
+  },
+  {
+    "MaDinhDanh": "002600",
+    "TenTau": "LABALEINE",
+    "SoIMO": null,
+    "SoPhanCap": "VR011750",
+    "SoDangKyCucHH": "VNSG-1566-CN"
+  },
+  {
+    "MaDinhDanh": "002291",
+    "TenTau": "PV DRILLING V",
+    "SoIMO": "8771124",
+    "SoPhanCap": "-",
+    "SoDangKyCucHH": "VNSG-2086-GK"
+  },
+  {
+    "MaDinhDanh": "002519",
+    "TenTau": "NASOS 1",
+    "SoIMO": null,
+    "SoPhanCap": "-",
+    "SoDangKyCucHH": "VNSG-1989-TTG*"
+  },
+  {
+    "MaDinhDanh": "002075",
+    "TenTau": "PTSC HA LONG",
+    "SoIMO": "9427873",
+    "SoPhanCap": "-",
+    "SoDangKyCucHH": "VNSG-2103-DV"
+  },
+  {
+    "MaDinhDanh": "002050",
+    "TenTau": "NGỌC THÀNH",
+    "SoIMO": null,
+    "SoPhanCap": "-",
+    "SoDangKyCucHH": "VNSG-2098-TK"
+  },
+  {
+    "MaDinhDanh": "002063",
+    "TenTau": "PHÚ MỸ 03",
+    "SoIMO": null,
+    "SoPhanCap": "-",
+    "SoDangKyCucHH": "VNSG-2071-TK"
+  },
+  {
+    "MaDinhDanh": "002584",
+    "TenTau": "HỒNG TÂM 02",
+    "SoIMO": null,
+    "SoPhanCap": "-",
+    "SoDangKyCucHH": "VNSG-2067-TK"
+  },
+  {
+    "MaDinhDanh": "000311",
+    "TenTau": "PVT SEA LION",
+    "SoIMO": "9123362",
+    "SoPhanCap": "-",
+    "SoDangKyCucHH": "VNSG-2019-TD"
+  },
+  {
+    "MaDinhDanh": "000913",
+    "TenTau": "VINALINES TRADER",
+    "SoIMO": "9140554",
+    "SoPhanCap": "-",
+    "SoDangKyCucHH": "VNSG-2043-TH"
+  },
+  {
+    "MaDinhDanh": "001975",
+    "TenTau": "EVERRICH I",
+    "SoIMO": "9140451",
+    "SoPhanCap": "-",
+    "SoDangKyCucHH": "VNSG-2084-TD"
+  },
+  {
+    "MaDinhDanh": "002089",
+    "TenTau": "PVT DRAGON",
+    "SoIMO": "9140580",
+    "SoPhanCap": "-",
+    "SoDangKyCucHH": "VNSG-2056-TD"
+  },
+  {
+    "MaDinhDanh": "002126",
+    "TenTau": "DUNG QUẤT 19",
+    "SoIMO": "9622368",
+    "SoPhanCap": "VR103474",
+    "SoDangKyCucHH": "ĐN-TUG-002126-4"
+  },
+  {
+    "MaDinhDanh": "002519",
+    "TenTau": "NASOS 1",
+    "SoIMO": null,
+    "SoPhanCap": "-",
+    "SoDangKyCucHH": "VNSG-1989-TTG*"
+  },
+  {
+    "MaDinhDanh": "002646",
+    "TenTau": "THUẬN PHÚ",
+    "SoIMO": null,
+    "SoPhanCap": "-",
+    "SoDangKyCucHH": "VNSG-1944-TK"
+  },
+  {
+    "MaDinhDanh": "002626",
+    "TenTau": "SSIC-005",
+    "SoIMO": null,
+    "SoPhanCap": "-",
+    "SoDangKyCucHH": "VNSG-01-2010"
+  },
+  {
+    "MaDinhDanh": "002265",
+    "TenTau": "AU LAC ANGEL",
+    "SoIMO": null,
+    "SoPhanCap": "-",
+    "SoDangKyCucHH": "VNSG-1748-TD"
+  },
+  {
+    "MaDinhDanh": "002086",
+    "TenTau": "PVOIL ALLIANCE",
+    "SoIMO": "9081239",
+    "SoPhanCap": "-",
+    "SoDangKyCucHH": "VNSG-1979-TD"
+  },
+  {
+    "MaDinhDanh": "002108",
+    "TenTau": "VAN PHONG 1",
+    "SoIMO": "9266372",
+    "SoPhanCap": "-",
+    "SoDangKyCucHH": "VNSG-2143-TD"
+  },
+  {
+    "MaDinhDanh": "001909",
+    "TenTau": "THALEXIM OIL",
+    "SoIMO": "9111034",
+    "SoPhanCap": "-",
+    "SoDangKyCucHH": "VNSG-2226-TD"
+  },
+  {
+    "MaDinhDanh": "002253",
+    "TenTau": "TÂY ĐÔ 02",
+    "SoIMO": "8113750",
+    "SoPhanCap": "VR811099",
+    "SoDangKyCucHH": "VNSG-1720-TH"
+  },
+  {
+    "MaDinhDanh": "001714",
+    "TenTau": "MỸ KHÊ",
+    "SoIMO": null,
+    "SoPhanCap": "VR072744",
+    "SoDangKyCucHH": "VNĐN-277-TK"
+  }
+]

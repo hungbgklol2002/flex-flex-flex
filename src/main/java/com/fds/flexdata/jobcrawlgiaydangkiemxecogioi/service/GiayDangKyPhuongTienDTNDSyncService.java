@@ -39,7 +39,7 @@ public class GiayDangKyPhuongTienDTNDSyncService {
     private static final String TINH_TRANG_HIEU_LUC_TEN = "Hiệu lực";
     private static final DateTimeFormatter MA_BAN_TIN_FORMATTER =
             DateTimeFormatter.ofPattern("yyyyMMddHHmmss");
-    private static final int BATCH_SIZE = 1;
+    private static final int BATCH_SIZE = 1000;
 
     private final GiayDangKyPhuongTienDTNDRepository repository;
     private final StringRedisTemplate redisTemplate;

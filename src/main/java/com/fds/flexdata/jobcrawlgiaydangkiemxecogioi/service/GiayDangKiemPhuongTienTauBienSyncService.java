@@ -4,6 +4,7 @@ import com.fasterxml.jackson.databind.ObjectMapper;
 import com.fds.flexdata.jobcrawlgiaydangkiemxecogioi.Util.RecordUtil;
 import com.fds.flexdata.jobcrawlgiaydangkiemxecogioi.Util.TokenUtil;
 import com.fds.flexdata.jobcrawlgiaydangkiemxecogioi.config.SyncJobProperties;
+import com.fds.flexdata.jobcrawlgiaydangkiemxecogioi.dto.DanhMucItem;
 import com.fds.flexdata.jobcrawlgiaydangkiemxecogioi.repository.GiayDangKiemPhuongTienTauBienRepository;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
@@ -50,7 +51,7 @@ public class GiayDangKiemPhuongTienTauBienSyncService {
     private static final String LAST_SO_GIAY_KEY =
             "jobcrawl:giaydangkiemtaubien:last-so-giay";
 
-    private static final int BATCH_SIZE = 1;
+    private static final int BATCH_SIZE = 1000;
     private final GiayDangKiemPhuongTienTauBienRepository repository;
 
     public GiayDangKiemPhuongTienTauBienSyncService(
@@ -62,7 +63,6 @@ public class GiayDangKiemPhuongTienTauBienSyncService {
     public Map<String, Object> sync() {
 
         String token = tokenUtil.getAccessToken();
-
         Timestamp lastNgayCap = loadLastNgayCap();
         String lastSoGiay = loadLastSoGiay();
         log.info(
@@ -326,6 +326,8 @@ public class GiayDangKiemPhuongTienTauBienSyncService {
             Map<String, Object> record
     ) {
 
+        resolveTauBienMaDinhDanh(record);
+
         Map<String, Object> result = new LinkedHashMap<>();
 
         for (Map.Entry<String, Object> entry : record.entrySet()) {
@@ -346,6 +348,44 @@ public class GiayDangKiemPhuongTienTauBienSyncService {
         removeEmptyObjects(result);
 
         return result;
+    }
+
+    private void resolveTauBienMaDinhDanh(Map<String, Object> record) {
+        try {
+            Object maDinhDanh = record.get("PhuongTien.MaDinhDanh");
+
+            if (maDinhDanh != null && !maDinhDanh.toString().isBlank()) {
+                return;
+            }
+
+            DanhMucItem item = danhMucCacheService.getBySoPhanCap(
+                    "tau-bien-khac-pattern",
+                    record.get("__TAU_BIEN_SO_PHAN_CAP")
+            );
+
+            if (item == null) {
+                item = danhMucCacheService.getBySoDangKyCucHH(
+                        "tau-bien-khac-pattern",
+                        record.get("__TAU_BIEN_SO_DANG_KY_CUC_HH")
+                );
+            }
+
+            if (item == null) {
+                item = danhMucCacheService.getBySoIMO(
+                        "tau-bien-khac-pattern",
+                        record.get("PhuongTien.SoIMO")
+                );
+            }
+
+            if (item != null
+                    && item.getMaDinhDanh() != null
+                    && !item.getMaDinhDanh().isBlank()) {
+                record.put("PhuongTien.MaDinhDanh", item.getMaDinhDanh());
+            }
+        } finally {
+            record.remove("__TAU_BIEN_SO_PHAN_CAP");
+            record.remove("__TAU_BIEN_SO_DANG_KY_CUC_HH");
+        }
     }
     @SuppressWarnings("unchecked")
     private void buildNestedField(

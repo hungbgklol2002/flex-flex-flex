@@ -20,6 +20,15 @@ public class DanhMucItem {
     @JsonProperty("TenToChuc")
     private String tenToChuc;
 
+    @JsonProperty("SoPhanCap")
+    private String soPhanCap;
+
+    @JsonProperty("SoDangKyCucHH")
+    private String soDangKyCucHH;
+
+    @JsonProperty("SoIMO")
+    private String soIMO;
+
     public String getRedisKey() {
         if (maMuc != null && !maMuc.isBlank()) {
             return maMuc;
