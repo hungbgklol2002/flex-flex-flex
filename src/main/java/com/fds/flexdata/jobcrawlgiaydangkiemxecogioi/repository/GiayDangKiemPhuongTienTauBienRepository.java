@@ -30,11 +30,8 @@ public class GiayDangKiemPhuongTienTauBienRepository {
                     TB_GiayChungNhan.SoGiayChungNhan
                         AS '__CHECKPOINT_SO_GIAY',
 
-                    CASE
-                        WHEN TB_Tau.SoDangKyCucHH LIKE '[A-Z][A-Z]-[A-Z][A-Z][A-Z]-[0-9][0-9][0-9][0-9][0-9][0-9]-[0-9]'
-                        THEN PARSENAME(REPLACE(TB_Tau.SoDangKyCucHH, '-', '.'), 2)
-                        ELSE NULL
-                    END AS 'PhuongTien.MaDinhDanh',
+                    TB_Tau.SoDangKy
+                        AS '__TAU_BIEN_SO_DANG_KY',
 
                     TB_Tau.SoPhanCap
                         AS '__TAU_BIEN_SO_PHAN_CAP',

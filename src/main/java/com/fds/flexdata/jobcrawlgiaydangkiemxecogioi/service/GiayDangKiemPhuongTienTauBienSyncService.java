@@ -358,10 +358,35 @@ public class GiayDangKiemPhuongTienTauBienSyncService {
                 return;
             }
 
+            String maDinhDanhFromSoDangKy = parseMaDinhDanhFromSoDangKy(
+                    record.get("__TAU_BIEN_SO_DANG_KY")
+            );
+
+            if (!maDinhDanhFromSoDangKy.isBlank()) {
+                record.put("PhuongTien.MaDinhDanh", maDinhDanhFromSoDangKy);
+                return;
+            }
+
+            String maDinhDanhFromSoDangKyCucHH = parseMaDinhDanhFromSoDangKy(
+                    record.get("__TAU_BIEN_SO_DANG_KY_CUC_HH")
+            );
+
+            if (!maDinhDanhFromSoDangKyCucHH.isBlank()) {
+                record.put("PhuongTien.MaDinhDanh", maDinhDanhFromSoDangKyCucHH);
+                return;
+            }
+
             DanhMucItem item = danhMucCacheService.getBySoPhanCap(
                     "tau-bien-khac-pattern",
                     record.get("__TAU_BIEN_SO_PHAN_CAP")
             );
+
+            if (item == null) {
+                item = danhMucCacheService.getBySoDangKyCucHH(
+                        "tau-bien-khac-pattern",
+                        record.get("__TAU_BIEN_SO_DANG_KY")
+                );
+            }
 
             if (item == null) {
                 item = danhMucCacheService.getBySoDangKyCucHH(
@@ -383,10 +408,26 @@ public class GiayDangKiemPhuongTienTauBienSyncService {
                 record.put("PhuongTien.MaDinhDanh", item.getMaDinhDanh());
             }
         } finally {
+            record.remove("__TAU_BIEN_SO_DANG_KY");
             record.remove("__TAU_BIEN_SO_PHAN_CAP");
             record.remove("__TAU_BIEN_SO_DANG_KY_CUC_HH");
         }
     }
+
+    private String parseMaDinhDanhFromSoDangKy(Object rawValue) {
+        if (rawValue == null) {
+            return "";
+        }
+
+        String value = rawValue.toString().trim();
+
+        if (value.matches("[A-Z]{2}-[A-Z]{3}-[0-9]{6}-[0-9]{1,2}")) {
+            return value.split("-")[2];
+        }
+
+        return "";
+    }
+
     @SuppressWarnings("unchecked")
     private void buildNestedField(
             Map<String, Object> root,
@@ -590,19 +631,24 @@ public class GiayDangKiemPhuongTienTauBienSyncService {
                         k -> new LinkedHashMap<>()
                 );
 
-        nuocSanXuat.putIfAbsent("MaMuc", "");
+        Object maNuocSanXuat = nuocSanXuat.get("MaMuc");
 
-        nuocSanXuat.put(
-                "TenMuc",
-                Optional.ofNullable(
-                        danhMucCacheService.getTenMuc(
-                                "quoc-gia",
-                                nuocSanXuat.get("MaMuc")
-                        )
-                ).orElse("")
-        );
+        if (maNuocSanXuat == null || maNuocSanXuat.toString().isBlank()) {
+            phuongTien.put("NuocSanXuat", null);
+        } else {
+            nuocSanXuat.put(
+                    "TenMuc",
+                    Optional.ofNullable(
+                            danhMucCacheService.getTenMuc(
+                                    "quoc-gia",
+                                    maNuocSanXuat
+                            )
+                    ).orElse("")
+            );
+        }
 
         // Schema yêu cầu String
+        phuongTien.putIfAbsent("SoLuongMayChinh", 0);
         convertToString(phuongTien, "SoIMO");
         convertToString(phuongTien, "DungTichCoIch");
         convertToString(phuongTien, "TongDungTich");

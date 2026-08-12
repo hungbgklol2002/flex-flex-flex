@@ -23,17 +23,19 @@ sync:
   job:
     xcg:
       cron: "2000"
+    xmcd:
+      cron: "2000"
     tb:
       cron: "2000"
     dt:
       cron: "2000"
     zone: "Asia/Ho_Chi_Minh"
     api-url:
-       xcg: "http://localhost:8086/flexdata/plugin/api/csdlpt/GiayDangKiemXeCoGioi/v1/upsert"
-#       xcg: "https://api.moc.gov.vn/s/api/bxd/csdl/pt/duongbo/1.0/GiayDangKiemXeCoGioi/bupsert"
-#       tb: "https://api.moc.gov.vn/s/api/bxd/csdl/pt/hanghai/1.0/GiayDangKiemPhuongTienTauBien/bupsert"
-#       dt: "https://api.moc.gov.vn/s/api/bxd/csdl/pt/duongthuy/1.0/GiayDangKiemPhuongTienDTND/bcreate"
-#      tb: "https://api-nosql-flexdata.fds.vn/flexdata/api/flex-digital/csdlpt/v1/GiayDangKiemPhuongTienTauBien/bupsert"
+       xmcd: "https://api.moc.gov.vn/s/api/bxd/csdl/pt/duongbo/1.0/GiayDangKiemXeMayChuyenDung/bupsert"
+       xcg: "https://api.moc.gov.vn/s/api/bxd/csdl/pt/duongbo/1.0/GiayDangKiemXeCoGioi/bupsert"
+       tb: "https://api.moc.gov.vn/s/api/bxd/csdl/pt/hanghai/1.0/GiayDangKiemPhuongTienTauBien/bupsert"
+       dt: "https://api.moc.gov.vn/s/api/bxd/csdl/pt/duongthuy/1.0/GiayDangKiemPhuongTienDTND/bcreate"
+#       tb: "https://api-nosql-flexdata.fds.vn/flexdata/api/flex-digital/csdlpt/v1/GiayDangKiemPhuongTienTauBien/bupsert"
     api-url-token: "https://api.moc.gov.vn/s/api/bxd/1.0/token"
     clientID: default-client
     clientSecret: KBZHeD6dXH9Tt0RkAeKZPRuuxkj6ALaC

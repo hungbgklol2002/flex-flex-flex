@@ -54,8 +54,8 @@ public class GiayDangKiemXeCoGioiSyncService {
     }
 
     public void sync() {
-//        String token = tokenUtil.getAccessToken();
-        String token = "eyJhbGciOiJSUzI1NiIsInR5cCIgOiAiSldUIiwia2lkIiA6ICIydGVXODhTNkduazEyTVZaWjdVc250cWVQT3VYU1BVRzFMWVg5a3ZEU1VBIn0.eyJleHAiOjE3ODUzODA5ODUsImlhdCI6MTc4NTM3NzM4NSwiYXV0aF90aW1lIjoxNzg1Mzc3Mzg0LCJqdGkiOiJvbnJ0YWM6MDk3YWZkZDAtNWQ3MC00YjUyLWFlNzUtNWM5NDZmMzQ1OGQ2IiwiaXNzIjoiaHR0cHM6Ly9pZHMtc3RhZ2luZy5mZHMudm4vYXV0aC9yZWFsbXMvYm94YXlkdW5nLWNzZGwtbmVudGFuZyIsImF1ZCI6WyJjc2RsLWRvYW5obmdoaWVwIiwiY3NkbC1kdWxpZXVkdW5nY2h1bmciLCJjc2RsLWtob2R1bGlldXRvbmdob3AiLCJjc2RsLW5ndW9pZGlldWtoaWVucGh1b25ndGllbiIsImNzZGwtcGh1b25ndGllbiIsImFjY291bnQiLCJjc2RsLWtldGNhdWhhdGFuZyJdLCJzdWIiOiI2NmQzNDZiNy1hNjQ1LTQzZDMtYWVkMy0yYTk2NmE3ZDk0YTQiLCJ0eXAiOiJCZWFyZXIiLCJhenAiOiJjc2RsLXF1YW50cmloZXRob25nIiwic2lkIjoiNGIxYmNlOWMtNWFjNC00YTczLTgxNGEtNjRhYzRhNGU2MzA4IiwiYWNyIjoiMCIsImFsbG93ZWQtb3JpZ2lucyI6WyJodHRwczovL2NzZGwtcXVhbnRyaWhldGhvbmcuZ292LnZuIiwiaHR0cDovL2xvY2FsaG9zdDo1MTczIl0sInJlYWxtX2FjY2VzcyI6eyJyb2xlcyI6WyJvZmZsaW5lX2FjY2VzcyIsImRlZmF1bHQtcm9sZXMtYm94YXlkdW5nLWNzZGwtbmVudGFuZyIsInVtYV9hdXRob3JpemF0aW9uIl19LCJyZXNvdXJjZV9hY2Nlc3MiOnsiY3NkbC1xdWFudHJpaGV0aG9uZyI6eyJyb2xlcyI6WyJyZXN0cmljdGVkLWFjY2VzcyJdfSwiY3NkbC1kb2FuaG5naGllcCI6eyJyb2xlcyI6WyJyZXN0cmljdGVkLWFjY2VzcyIsInRlc3RSb2xlIl19LCJjc2RsLWR1bGlldWR1bmdjaHVuZyI6eyJyb2xlcyI6WyJyZXN0cmljdGVkLWFjY2VzcyJdfSwiY3NkbC1raG9kdWxpZXV0b25naG9wIjp7InJvbGVzIjpbInJlc3RyaWN0ZWQtYWNjZXNzIl19LCJjc2RsLW5ndW9pZGlldWtoaWVucGh1b25ndGllbiI6eyJyb2xlcyI6WyJyZXN0cmljdGVkLWFjY2VzcyJdfSwiY3NkbC1waHVvbmd0aWVuIjp7InJvbGVzIjpbInJlc3RyaWN0ZWQtYWNjZXNzIl19LCJhY2NvdW50Ijp7InJvbGVzIjpbIm1hbmFnZS1hY2NvdW50IiwibWFuYWdlLWFjY291bnQtbGlua3MiLCJ2aWV3LXByb2ZpbGUiXX0sImNzZGwta2V0Y2F1aGF0YW5nIjp7InJvbGVzIjpbInJlc3RyaWN0ZWQtYWNjZXNzIl19fSwic2NvcGUiOiJvcGVuaWQgcHJvZmlsZSBlbWFpbCIsImVtYWlsX3ZlcmlmaWVkIjpmYWxzZSwicHJlZmVycmVkX3VzZXJuYW1lIjoiYnhkLWFkbWluIn0.kxn1_RXmI9Mtb_qJlwdQCAdZ1m7llLJXvjcJbJ7MGMe9DeNLqrcBK0tKISy2QrZ1HtHZFYJwg92nyCFNr5nIKpr-foYN8gw_urZ0w9FnyRIpLPgWI9DW-qJHGLlXngYKVxKE_LHiYNt5_9AhOYzH-dvtHffb1oyy1uuM5QUMTrvXQ3duavnoY8jYvNrx2NIFP73TmTgqwYzoFxS-3aCBvMYQA8YTi3STl-qgUdIgUd3wqokgUhALGKHrDAe6Dfw3rPfDQ15nojCBwH9FC1MOyZfu5qj39WdPrAOPOFSdog0-CtSzdKjOaOqDrjd53V0hzZl6vgSGKR20XiEKP7Ecgg";
+        String token = tokenUtil.getAccessToken();
+
         int batchSize = 1000;
 
         RBucket<String> checkpointBucket = redissonClient.getBucket(LAST_ID_KEY);
@@ -88,7 +88,7 @@ public class GiayDangKiemXeCoGioiSyncService {
             String maBanTin = "DKLH-" + LocalDateTime.now()
                     .format(DateTimeFormatter.ofPattern("yyyyMMddHHmmss"));
             dacTaBanTin.put("MaBanTin", maBanTin);
-            dacTaBanTin.put("NoiTaoBanTin", "co-quan-x");
+            dacTaBanTin.put("NoiTaoBanTin", "G17.46");
 
             List<Map<String, Object>> duLieuBanTin = new ArrayList<>();
 
@@ -159,8 +159,9 @@ public class GiayDangKiemXeCoGioiSyncService {
 
                 log.info("Sync batch success - size: {}, status: {}, checkpoint={}, MaBanTin:{} ",
                         records.size(),
-                        response.getStatusCode(),
-                        newCheckpoint,maBanTin
+                        "OK",
+                        newCheckpoint,
+                        lastRecord.get("MaDinhDanh")
                 );
 
             } catch (Exception ex) {

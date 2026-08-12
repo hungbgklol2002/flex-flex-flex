@@ -1,0 +1,228 @@
+[{
+  "_id": {
+    "$oid": "6a704790a46b2ad5e0630863"
+  },
+  "MaMuc": "1",
+  "TenMuc": "Máy làm đất và vật liệu",
+  "Metadata": {
+    "ThoiGianTao": {
+      "$numberLong": "1785743248322"
+    },
+    "ThoiGianCapNhat": {
+      "$numberLong": "1785743248322"
+    },
+    "NguoiTaoLap": "BXD-ADMIN",
+    "ChuSoHuu": "BXD-ADMIN",
+    "TrangThaiDuLieu": "Active",
+    "PhienBanDuLieu": "1",
+    "NguonThamChieu": {
+      "NguonDuLieu": "",
+      "MaThamChieu": "1",
+      "ThoiGianXuLy": {
+        "$numberLong": "1785743248315"
+      }
+    },
+    "XuLyDuLieu": "3969fdb4-6241-4888-bb8e-b70a5b2b5459",
+    "QRCode": "",
+    "PhanVungDuLieu": {
+      "MaMuc": "",
+      "TenMuc": ""
+    },
+    "ChiaSeTaiKhoan": [],
+    "ChiaSeVaiTro": [],
+    "CSFLE": {
+      "keyAltName": "csdlpt",
+      "fields": {}
+    }
+  }
+},
+{
+  "_id": {
+    "$oid": "6a7047a4a46b2ad5e0630865"
+  },
+  "MaMuc": "2",
+  "TenMuc": "Xe và thiết bị nâng",
+  "Metadata": {
+    "ThoiGianTao": {
+      "$numberLong": "1785743268501"
+    },
+    "ThoiGianCapNhat": {
+      "$numberLong": "1785743268501"
+    },
+    "NguoiTaoLap": "BXD-ADMIN",
+    "ChuSoHuu": "BXD-ADMIN",
+    "TrangThaiDuLieu": "Active",
+    "PhienBanDuLieu": "1",
+    "NguonThamChieu": {
+      "NguonDuLieu": "",
+      "MaThamChieu": "2",
+      "ThoiGianXuLy": {
+        "$numberLong": "1785743268442"
+      }
+    },
+    "XuLyDuLieu": "2796e4b8-1ce4-4571-ad3a-84dcac96ace9",
+    "QRCode": "",
+    "PhanVungDuLieu": {
+      "MaMuc": "",
+      "TenMuc": ""
+    },
+    "ChiaSeTaiKhoan": [],
+    "ChiaSeVaiTro": [],
+    "CSFLE": {
+      "keyAltName": "csdlpt",
+      "fields": {}
+    }
+  }
+},
+{
+  "_id": {
+    "$oid": "6a7047b4a46b2ad5e0630867"
+  },
+  "MaMuc": "3",
+  "TenMuc": "Xe, máy và thiết bị gia cố nền móng, mặt đường",
+  "Metadata": {
+    "ThoiGianTao": {
+      "$numberLong": "1785743284151"
+    },
+    "ThoiGianCapNhat": {
+      "$numberLong": "1785743284151"
+    },
+    "NguoiTaoLap": "BXD-ADMIN",
+    "ChuSoHuu": "BXD-ADMIN",
+    "TrangThaiDuLieu": "Active",
+    "PhienBanDuLieu": "1",
+    "NguonThamChieu": {
+      "NguonDuLieu": "",
+      "MaThamChieu": "3",
+      "ThoiGianXuLy": {
+        "$numberLong": "1785743284133"
+      }
+    },
+    "XuLyDuLieu": "1b61d387-b7e3-4af2-9e1c-1a5408962aa1",
+    "QRCode": "",
+    "PhanVungDuLieu": {
+      "MaMuc": "",
+      "TenMuc": ""
+    },
+    "ChiaSeTaiKhoan": [],
+    "ChiaSeVaiTro": [],
+    "CSFLE": {
+      "keyAltName": "csdlpt",
+      "fields": {}
+    }
+  }
+},
+{
+  "_id": {
+    "$oid": "6a7047c3da2a75b5b61f30ec"
+  },
+  "MaMuc": "4",
+  "TenMuc": "Xe, máy và thiết bị sản xuất bê tông và vật liệu cho bê tông",
+  "Metadata": {
+    "ThoiGianTao": {
+      "$numberLong": "1785743298999"
+    },
+    "ThoiGianCapNhat": {
+      "$numberLong": "1785743298999"
+    },
+    "NguoiTaoLap": "BXD-ADMIN",
+    "ChuSoHuu": "BXD-ADMIN",
+    "TrangThaiDuLieu": "Active",
+    "PhienBanDuLieu": "1",
+    "NguonThamChieu": {
+      "NguonDuLieu": "",
+      "MaThamChieu": "4",
+      "ThoiGianXuLy": {
+        "$numberLong": "1785743298979"
+      }
+    },
+    "XuLyDuLieu": "0feed3ad-b6a7-4e35-be74-222a0c88ff5f",
+    "QRCode": "",
+    "PhanVungDuLieu": {
+      "MaMuc": "",
+      "TenMuc": ""
+    },
+    "ChiaSeTaiKhoan": [],
+    "ChiaSeVaiTro": [],
+    "CSFLE": {
+      "keyAltName": "csdlpt",
+      "fields": {}
+    }
+  }
+},
+{
+  "_id": {
+    "$oid": "6a7047d3a46b2ad5e0630869"
+  },
+  "MaMuc": "5",
+  "TenMuc": "Các loại xe máy chuyên dùng phục vụ trong phạm vi chuyên biệt",
+  "Metadata": {
+    "ThoiGianTao": {
+      "$numberLong": "1785743315226"
+    },
+    "ThoiGianCapNhat": {
+      "$numberLong": "1785743315226"
+    },
+    "NguoiTaoLap": "BXD-ADMIN",
+    "ChuSoHuu": "BXD-ADMIN",
+    "TrangThaiDuLieu": "Active",
+    "PhienBanDuLieu": "1",
+    "NguonThamChieu": {
+      "NguonDuLieu": "",
+      "MaThamChieu": "5",
+      "ThoiGianXuLy": {
+        "$numberLong": "1785743315211"
+      }
+    },
+    "XuLyDuLieu": "5482f354-a876-46b2-845c-0adda77c8ddc",
+    "QRCode": "",
+    "PhanVungDuLieu": {
+      "MaMuc": "",
+      "TenMuc": ""
+    },
+    "ChiaSeTaiKhoan": [],
+    "ChiaSeVaiTro": [],
+    "CSFLE": {
+      "keyAltName": "csdlpt",
+      "fields": {}
+    }
+  }
+},
+{
+  "_id": {
+    "$oid": "6a7047e0da2a75b5b61f30ef"
+  },
+  "MaMuc": "6",
+  "TenMuc": "Các loại xe máy chuyên dùng khác",
+  "Metadata": {
+    "ThoiGianTao": {
+      "$numberLong": "1785743328694"
+    },
+    "ThoiGianCapNhat": {
+      "$numberLong": "1785743328694"
+    },
+    "NguoiTaoLap": "BXD-ADMIN",
+    "ChuSoHuu": "BXD-ADMIN",
+    "TrangThaiDuLieu": "Active",
+    "PhienBanDuLieu": "1",
+    "NguonThamChieu": {
+      "NguonDuLieu": "",
+      "MaThamChieu": "6",
+      "ThoiGianXuLy": {
+        "$numberLong": "1785743328688"
+      }
+    },
+    "XuLyDuLieu": "e1b69d58-34e3-45d0-9605-2b9ada6299c5",
+    "QRCode": "",
+    "PhanVungDuLieu": {
+      "MaMuc": "",
+      "TenMuc": ""
+    },
+    "ChiaSeTaiKhoan": [],
+    "ChiaSeVaiTro": [],
+    "CSFLE": {
+      "keyAltName": "csdlpt",
+      "fields": {}
+    }
+  }
+}]

@@ -1,0 +1,4 @@
+2026-08-03T15:04:49.387483 | SoGiay: 00001/22-2007D | Id: 00001/22-2007D | Reason: {"code":"405","type":"Status report","message":"Runtime Error","description":"Method not allowed for given API resource"}
+2026-08-03T15:06:36.499209 | SoGiay: 00001/22-2007D | Id: 00001/22-2007D | Reason: {"code":"405","type":"Status report","message":"Runtime Error","description":"Method not allowed for given API resource"}
+2026-08-03T15:27:27.409437 | SoGiay: 00001/22-2007D | Id: 00001/22-2007D | Reason: {"code":"405","type":"Status report","message":"Runtime Error","description":"Method not allowed for given API resource"}
+2026-08-03T15:30:28.053179 | SoGiay: 00001/22-2007D | Id: 00001/22-2007D | Reason: {"code":"405","type":"Status report","message":"Runtime Error","description":"Method not allowed for given API resource"}

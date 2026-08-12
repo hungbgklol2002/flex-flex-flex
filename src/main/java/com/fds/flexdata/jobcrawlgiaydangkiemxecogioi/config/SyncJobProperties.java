@@ -27,6 +27,7 @@ public class SyncJobProperties {
     @Setter
     public static class ApiUrl {
         private String xcg;
+        private String xmcd;
         private String tb;
         private String dt;
     }

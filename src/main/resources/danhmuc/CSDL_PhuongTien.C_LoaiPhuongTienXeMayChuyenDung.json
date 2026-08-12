@@ -1,0 +1,616 @@
+[{
+  "_id": {
+    "$oid": "692585ba255c0000e5007802"
+  },
+  "MaMuc": "1.01",
+  "TenMuc": "Máy ủi"
+},
+{
+  "_id": {
+    "$oid": "692585ba255c0000e5007803"
+  },
+  "MaMuc": "1.02",
+  "TenMuc": "Máy san"
+},
+{
+  "_id": {
+    "$oid": "692585ba255c0000e5007804"
+  },
+  "MaMuc": "1.03",
+  "TenMuc": "Máy đào bánh lốp"
+},
+{
+  "_id": {
+    "$oid": "692585ba255c0000e5007805"
+  },
+  "MaMuc": "1.04",
+  "TenMuc": "Máy đào bánh xích"
+},
+{
+  "_id": {
+    "$oid": "692585ba255c0000e5007806"
+  },
+  "MaMuc": "1.05",
+  "TenMuc": "Máy đào tường vây"
+},
+{
+  "_id": {
+    "$oid": "692585ba255c0000e5007807"
+  },
+  "MaMuc": "1.06",
+  "TenMuc": "Máy xúc đào"
+},
+{
+  "_id": {
+    "$oid": "692585ba255c0000e5007808"
+  },
+  "MaMuc": "1.07",
+  "TenMuc": "Máy đào, vận chuyển vật liệu"
+},
+{
+  "_id": {
+    "$oid": "692585ba255c0000e5007809"
+  },
+  "MaMuc": "1.08",
+  "TenMuc": "Máy cào, vận chuyển vật liệu"
+},
+{
+  "_id": {
+    "$oid": "692585ba255c0000e500780a"
+  },
+  "MaMuc": "1.09",
+  "TenMuc": "Máy đào rãnh bánh xích"
+},
+{
+  "_id": {
+    "$oid": "692585ba255c0000e500780b"
+  },
+  "MaMuc": "1.10",
+  "TenMuc": "Máy đào rãnh bánh lốp"
+},
+{
+  "_id": {
+    "$oid": "692585ba255c0000e500780c"
+  },
+  "MaMuc": "1.11",
+  "TenMuc": "Máy xúc lật bánh lốp"
+},
+{
+  "_id": {
+    "$oid": "692585ba255c0000e500780d"
+  },
+  "MaMuc": "1.12",
+  "TenMuc": "Máy xúc lật bánh xích"
+},
+{
+  "_id": {
+    "$oid": "692585ba255c0000e500780e"
+  },
+  "MaMuc": "1.13",
+  "TenMuc": "Máy cạp"
+},
+{
+  "_id": {
+    "$oid": "692585ba255c0000e500780f"
+  },
+  "MaMuc": "1.14",
+  "TenMuc": "Xe, máy làm đất và vật liệu tương tự khác"
+},
+{
+  "_id": {
+    "$oid": "692585ba255c0000e5007810"
+  },
+  "MaMuc": "2.01",
+  "TenMuc": "Cần trục bánh xích"
+},
+{
+  "_id": {
+    "$oid": "692585ba255c0000e5007811"
+  },
+  "MaMuc": "2.02",
+  "TenMuc": "Cần trục bánh lốp"
+},
+{
+  "_id": {
+    "$oid": "692585ba255c0000e5007812"
+  },
+  "MaMuc": "2.03",
+  "TenMuc": "Cần trục bánh lốp tay lái nghịch"
+},
+{
+  "_id": {
+    "$oid": "692585ba255c0000e5007813"
+  },
+  "MaMuc": "2.04",
+  "TenMuc": "Cần trục bánh lốp tay lái nghịch chuyển đổi"
+},
+{
+  "_id": {
+    "$oid": "692585ba255c0000e5007814"
+  },
+  "MaMuc": "2.05",
+  "TenMuc": "Xe nâng"
+},
+{
+  "_id": {
+    "$oid": "692585ba255c0000e5007815"
+  },
+  "MaMuc": "2.06",
+  "TenMuc": "Xe nâng tổng đoạn (chuyên dùng trong đóng tàu)"
+},
+{
+  "_id": {
+    "$oid": "692585ba255c0000e5007816"
+  },
+  "MaMuc": "2.07",
+  "TenMuc": "Xe nâng Container"
+},
+{
+  "_id": {
+    "$oid": "692585ba255c0000e5007817"
+  },
+  "MaMuc": "2.08",
+  "TenMuc": "Xe nâng Container rỗng"
+},
+{
+  "_id": {
+    "$oid": "692585ba255c0000e5007818"
+  },
+  "MaMuc": "2.09",
+  "TenMuc": "Xe nâng người làm việc trên cao"
+},
+{
+  "_id": {
+    "$oid": "692585ba255c0000e5007819"
+  },
+  "MaMuc": "2.10",
+  "TenMuc": "Xe nâng người khuyết tật lên máy bay"
+},
+{
+  "_id": {
+    "$oid": "692585ba255c0000e500781a"
+  },
+  "MaMuc": "3.01",
+  "TenMuc": "Máy khoan đá"
+},
+{
+  "_id": {
+    "$oid": "692585ba255c0000e500781b"
+  },
+  "MaMuc": "3.02",
+  "TenMuc": "Máy khoan cọc nhồi"
+},
+{
+  "_id": {
+    "$oid": "692585ba255c0000e500781c"
+  },
+  "MaMuc": "3.03",
+  "TenMuc": "Máy khoan cọc nhồi chạy trên ray"
+},
+{
+  "_id": {
+    "$oid": "692585ba255c0000e500781d"
+  },
+  "MaMuc": "3.04",
+  "TenMuc": "Máy khoan định hướng ngang"
+},
+{
+  "_id": {
+    "$oid": "692585ba255c0000e500781e"
+  },
+  "MaMuc": "3.05",
+  "TenMuc": "Máy khoan hầm"
+},
+{
+  "_id": {
+    "$oid": "692585ba255c0000e500781f"
+  },
+  "MaMuc": "3.06",
+  "TenMuc": "Máy đóng cọc"
+},
+{
+  "_id": {
+    "$oid": "692585ba255c0000e5007820"
+  },
+  "MaMuc": "3.07",
+  "TenMuc": "Máy đóng, nhổ cọc hộ lan đường bộ"
+},
+{
+  "_id": {
+    "$oid": "692585ba255c0000e5007821"
+  },
+  "MaMuc": "3.08",
+  "TenMuc": "Máy ép cọc bấc thấm"
+},
+{
+  "_id": {
+    "$oid": "692585ba255c0000e5007822"
+  },
+  "MaMuc": "3.09",
+  "TenMuc": "Xe lu tĩnh bánh thép"
+},
+{
+  "_id": {
+    "$oid": "692585ba255c0000e5007823"
+  },
+  "MaMuc": "3.10",
+  "TenMuc": "Xe lu tĩnh bánh lốp"
+},
+{
+  "_id": {
+    "$oid": "692585ba255c0000e5007824"
+  },
+  "MaMuc": "3.11",
+  "TenMuc": "Xe lu rung"
+},
+{
+  "_id": {
+    "$oid": "692585ba255c0000e5007825"
+  },
+  "MaMuc": "3.12",
+  "TenMuc": "Máy rải bê tông nhựa"
+},
+{
+  "_id": {
+    "$oid": "692585ba255c0000e5007826"
+  },
+  "MaMuc": "3.13",
+  "TenMuc": "Máy rải bê tông xi măng"
+},
+{
+  "_id": {
+    "$oid": "692585ba255c0000e5007827"
+  },
+  "MaMuc": "3.14",
+  "TenMuc": "Máy rải bê tông định hình"
+},
+{
+  "_id": {
+    "$oid": "692585ba255c0000e5007828"
+  },
+  "MaMuc": "3.15",
+  "TenMuc": "Máy cào bóc và tái chế nguội mặt đường"
+},
+{
+  "_id": {
+    "$oid": "692585ba255c0000e5007829"
+  },
+  "MaMuc": "3.16",
+  "TenMuc": "Máy cào bóc mặt đường"
+},
+{
+  "_id": {
+    "$oid": "692585ba255c0000e500782a"
+  },
+  "MaMuc": "3.17",
+  "TenMuc": "Máy gia cố bề mặt đường"
+},
+{
+  "_id": {
+    "$oid": "692585ba255c0000e500782b"
+  },
+  "MaMuc": "3.18",
+  "TenMuc": "Xe tạo xung chấn"
+},
+{
+  "_id": {
+    "$oid": "692585ba255c0000e500782c"
+  },
+  "MaMuc": "3.19",
+  "TenMuc": "Máy ép, nhổ cọc"
+},
+{
+  "_id": {
+    "$oid": "692585ba255c0000e500782d"
+  },
+  "MaMuc": "4.01",
+  "TenMuc": "Máy bơm bê tông"
+},
+{
+  "_id": {
+    "$oid": "692585ba255c0000e500782e"
+  },
+  "MaMuc": "4.02",
+  "TenMuc": "Xe bơm bê tông"
+},
+{
+  "_id": {
+    "$oid": "692585ba255c0000e500782f"
+  },
+  "MaMuc": "4.03",
+  "TenMuc": "Xe phun bê tông"
+},
+{
+  "_id": {
+    "$oid": "692585ba255c0000e5007830"
+  },
+  "MaMuc": "4.04",
+  "TenMuc": "Máy nghiền đá và vận chuyển bằng băng tải"
+},
+{
+  "_id": {
+    "$oid": "692585ba255c0000e5007831"
+  },
+  "MaMuc": "4.05",
+  "TenMuc": "Máy nghiền, sàng đá"
+},
+{
+  "_id": {
+    "$oid": "692585ba255c0000e5007832"
+  },
+  "MaMuc": "5.01",
+  "TenMuc": "Xe địa hình"
+},
+{
+  "_id": {
+    "$oid": "692585ba255c0000e5007833"
+  },
+  "MaMuc": "5.02",
+  "TenMuc": "Xe chở hàng"
+},
+{
+  "_id": {
+    "$oid": "692585ba255c0000e5007834"
+  },
+  "MaMuc": "5.03",
+  "TenMuc": "Xe phục vụ giải khát trong sân golf"
+},
+{
+  "_id": {
+    "$oid": "692585ba255c0000e5007835"
+  },
+  "MaMuc": "5.04",
+  "TenMuc": "Xe chở hàng trong sân golf"
+},
+{
+  "_id": {
+    "$oid": "692585ba255c0000e5007836"
+  },
+  "MaMuc": "5.05",
+  "TenMuc": "Xe lu cỏ trong sân golf"
+},
+{
+  "_id": {
+    "$oid": "692585ba255c0000e5007837"
+  },
+  "MaMuc": "5.06",
+  "TenMuc": "Xe phun, tưới dùng trong sân golf"
+},
+{
+  "_id": {
+    "$oid": "692585ba255c0000e5007838"
+  },
+  "MaMuc": "5.07",
+  "TenMuc": "Xe phun, tưới chất lỏng"
+},
+{
+  "_id": {
+    "$oid": "692585ba255c0000e5007839"
+  },
+  "MaMuc": "5.08",
+  "TenMuc": "Xe san cát trong sân golf"
+},
+{
+  "_id": {
+    "$oid": "692585ba255c0000e500783a"
+  },
+  "MaMuc": "5.09",
+  "TenMuc": "Xe cấp nước cho máy bay"
+},
+{
+  "_id": {
+    "$oid": "692585ba255c0000e500783b"
+  },
+  "MaMuc": "5.10",
+  "TenMuc": "Xe chuyên dùng vệ sinh máy bay"
+},
+{
+  "_id": {
+    "$oid": "692585ba255c0000e500783c"
+  },
+  "MaMuc": "5.11",
+  "TenMuc": "Xe thang hành khách lên máy bay"
+},
+{
+  "_id": {
+    "$oid": "692585ba255c0000e500783d"
+  },
+  "MaMuc": "5.12",
+  "TenMuc": "Xe băng tải vận chuyển hành lý"
+},
+{
+  "_id": {
+    "$oid": "692585ba255c0000e500783e"
+  },
+  "MaMuc": "5.13",
+  "TenMuc": "Xe hút chất thải vệ sinh cho máy bay"
+},
+{
+  "_id": {
+    "$oid": "692585ba255c0000e500783f"
+  },
+  "MaMuc": "5.14",
+  "TenMuc": "Xe nạp nhiên liệu cho máy bay"
+},
+{
+  "_id": {
+    "$oid": "692585ba255c0000e5007840"
+  },
+  "MaMuc": "5.15",
+  "TenMuc": "Xe kéo đẩy tầu bay"
+},
+{
+  "_id": {
+    "$oid": "692585ba255c0000e5007841"
+  },
+  "MaMuc": "6.01",
+  "TenMuc": "Xe sơn kẻ đường"
+},
+{
+  "_id": {
+    "$oid": "692585ba255c0000e5007842"
+  },
+  "MaMuc": "6.02",
+  "TenMuc": "Xe quét đường"
+},
+{
+  "_id": {
+    "$oid": "692585ba255c0000e5007843"
+  },
+  "MaMuc": "6.03",
+  "TenMuc": "Xe quét, chà sàn"
+},
+{
+  "_id": {
+    "$oid": "692585ba255c0000e5007844"
+  },
+  "MaMuc": "6.04",
+  "TenMuc": "Xe quét nhà xưởng"
+},
+{
+  "_id": {
+    "$oid": "692585ba255c0000e5007845"
+  },
+  "MaMuc": "6.05",
+  "TenMuc": "Xe tự đổ bánh lốp"
+},
+{
+  "_id": {
+    "$oid": "692585ba255c0000e5007846"
+  },
+  "MaMuc": "6.06",
+  "TenMuc": "Xe tự đổ bánh xích"
+},
+{
+  "_id": {
+    "$oid": "692585ba255c0000e5007847"
+  },
+  "MaMuc": "6.07",
+  "TenMuc": "Xe kéo"
+},
+{
+  "_id": {
+    "$oid": "692585ba255c0000e5007848"
+  },
+  "MaMuc": "6.08",
+  "TenMuc": "Máy kéo"
+},
+{
+  "_id": {
+    "$oid": "692585ba255c0000e5007849"
+  },
+  "MaMuc": "6.09",
+  "TenMuc": "Máy cắt đá"
+},
+{
+  "_id": {
+    "$oid": "692585ba255c0000e500784a"
+  },
+  "MaMuc": "6.10",
+  "TenMuc": "Tổ hợp máy đào giếng hố ga"
+},
+{
+  "_id": {
+    "$oid": "692585ba255c0000e500784b"
+  },
+  "MaMuc": "6.11",
+  "TenMuc": "Xe chuyên dùng trộn rác"
+},
+{
+  "_id": {
+    "$oid": "692585ba255c0000e500784c"
+  },
+  "MaMuc": "6.12",
+  "TenMuc": "Xe chuyên dùng chở vật liệu"
+},
+{
+  "_id": {
+    "$oid": "692585ba255c0000e500784d"
+  },
+  "MaMuc": "6.13",
+  "TenMuc": "Xe chuyên dùng chở xỉ"
+},
+{
+  "_id": {
+    "$oid": "692585ba255c0000e500784e"
+  },
+  "MaMuc": "6.14",
+  "TenMuc": "Xe chở hàng trong nhà xưởng"
+},
+{
+  "_id": {
+    "$oid": "692585ba255c0000e500784f"
+  },
+  "MaMuc": "6.15",
+  "TenMuc": "Xe chuyên dùng khai thác gỗ"
+},
+{
+  "_id": {
+    "$oid": "692585ba255c0000e5007850"
+  },
+  "MaMuc": "6.16",
+  "TenMuc": "Máy xếp, dỡ vật liệu bánh lốp"
+},
+{
+  "_id": {
+    "$oid": "692585ba255c0000e5007851"
+  },
+  "MaMuc": "6.17",
+  "TenMuc": "Máy xếp, dỡ vật liệu bánh xích"
+},
+{
+  "_id": {
+    "$oid": "692585ba255c0000e5007852"
+  },
+  "MaMuc": "6.18",
+  "TenMuc": "Máy kẹp gỗ bánh lốp"
+},
+{
+  "_id": {
+    "$oid": "692585ba255c0000e5007853"
+  },
+  "MaMuc": "6.19",
+  "TenMuc": "Máy kẹp gỗ bánh xích"
+},
+{
+  "_id": {
+    "$oid": "692585ba255c0000e5007854"
+  },
+  "MaMuc": "6.20",
+  "TenMuc": "Máy búa phá dỡ bánh xích"
+},
+{
+  "_id": {
+    "$oid": "692585ba255c0000e5007855"
+  },
+  "MaMuc": "6.21",
+  "TenMuc": "Máy búa phá dỡ bánh lốp"
+},
+{
+  "_id": {
+    "$oid": "692585ba255c0000e5007856"
+  },
+  "MaMuc": "6.22",
+  "TenMuc": "Máy phá dỡ"
+},
+{
+  "_id": {
+    "$oid": "692585ba255c0000e5007857"
+  },
+  "MaMuc": "6.23",
+  "TenMuc": "Xe trộn và vận chuyển bê tông tay lái nghịch"
+},
+{
+  "_id": {
+    "$oid": "692585ba255c0000e5007858"
+  },
+  "MaMuc": "6.24",
+  "TenMuc": "Romooc chuyên dùng"
+},
+{
+  "_id": {
+    "$oid": "692585ba255c0000e5007859"
+  },
+  "MaMuc": "6.25",
+  "TenMuc": "Xe trộn và vận chuyển bê tông"
+}]
