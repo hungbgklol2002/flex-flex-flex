@@ -1,0 +1,266 @@
+[{
+  "_id": {
+    "$oid": "6a8fa3f2da2a75b5b622768e"
+  },
+  "MaMuc": "01",
+  "TenMuc": "Đầu máy",
+  "Metadata": {
+    "ThoiGianTao": {
+      "$numberLong": "1787798514265"
+    },
+    "ThoiGianCapNhat": {
+      "$numberLong": "1787798514265"
+    },
+    "NguoiTaoLap": "BXD-ADMIN",
+    "ChuSoHuu": "BXD-ADMIN",
+    "TrangThaiDuLieu": "Active",
+    "PhienBanDuLieu": "1",
+    "NguonThamChieu": {
+      "NguonDuLieu": "",
+      "MaThamChieu": "01",
+      "ThoiGianXuLy": {
+        "$numberLong": "1787798514259"
+      }
+    },
+    "XuLyDuLieu": "dc9e31d7-f4ec-4098-ac04-1de003476369",
+    "QRCode": "",
+    "PhanVungDuLieu": {
+      "MaMuc": "",
+      "TenMuc": ""
+    },
+    "ChiaSeTaiKhoan": [],
+    "ChiaSeVaiTro": [],
+    "CSFLE": {
+      "keyAltName": "csdlpt",
+      "fields": {}
+    }
+  }
+},
+{
+  "_id": {
+    "$oid": "6a8fa419da2a75b5b6227698"
+  },
+  "MaMuc": "02",
+  "TenMuc": "Phương tiện chuyên dùng tự hành",
+  "Metadata": {
+    "ThoiGianTao": {
+      "$numberLong": "1787798553531"
+    },
+    "ThoiGianCapNhat": {
+      "$numberLong": "1787798553531"
+    },
+    "NguoiTaoLap": "BXD-ADMIN",
+    "ChuSoHuu": "BXD-ADMIN",
+    "TrangThaiDuLieu": "Active",
+    "PhienBanDuLieu": "1",
+    "NguonThamChieu": {
+      "NguonDuLieu": "",
+      "MaThamChieu": "02",
+      "ThoiGianXuLy": {
+        "$numberLong": "1787798553522"
+      }
+    },
+    "XuLyDuLieu": "ea448a04-9a40-439e-a2c2-47f31c20f96c",
+    "QRCode": "",
+    "PhanVungDuLieu": {
+      "MaMuc": "",
+      "TenMuc": ""
+    },
+    "ChiaSeTaiKhoan": [],
+    "ChiaSeVaiTro": [],
+    "CSFLE": {
+      "keyAltName": "csdlpt",
+      "fields": {}
+    }
+  }
+},
+{
+  "_id": {
+    "$oid": "6a8fa429a46b2ad5e0664af9"
+  },
+  "MaMuc": "03",
+  "TenMuc": "Toa xe hàng",
+  "Metadata": {
+    "ThoiGianTao": {
+      "$numberLong": "1787798569935"
+    },
+    "ThoiGianCapNhat": {
+      "$numberLong": "1787798569935"
+    },
+    "NguoiTaoLap": "BXD-ADMIN",
+    "ChuSoHuu": "BXD-ADMIN",
+    "TrangThaiDuLieu": "Active",
+    "PhienBanDuLieu": "1",
+    "NguonThamChieu": {
+      "NguonDuLieu": "",
+      "MaThamChieu": "03",
+      "ThoiGianXuLy": {
+        "$numberLong": "1787798569928"
+      }
+    },
+    "XuLyDuLieu": "1cd66531-3242-4594-93e3-bf0a2414c77b",
+    "QRCode": "",
+    "PhanVungDuLieu": {
+      "MaMuc": "",
+      "TenMuc": ""
+    },
+    "ChiaSeTaiKhoan": [],
+    "ChiaSeVaiTro": [],
+    "CSFLE": {
+      "keyAltName": "csdlpt",
+      "fields": {}
+    }
+  }
+},
+{
+  "_id": {
+    "$oid": "6a8fa431a46b2ad5e0664b00"
+  },
+  "MaMuc": "04",
+  "TenMuc": "Toa xe khách",
+  "Metadata": {
+    "ThoiGianTao": {
+      "$numberLong": "1787798577021"
+    },
+    "ThoiGianCapNhat": {
+      "$numberLong": "1787798577021"
+    },
+    "NguoiTaoLap": "BXD-ADMIN",
+    "ChuSoHuu": "BXD-ADMIN",
+    "TrangThaiDuLieu": "Active",
+    "PhienBanDuLieu": "1",
+    "NguonThamChieu": {
+      "NguonDuLieu": "",
+      "MaThamChieu": "04",
+      "ThoiGianXuLy": {
+        "$numberLong": "1787798577011"
+      }
+    },
+    "XuLyDuLieu": "ac1db4d6-2317-4134-a029-fb86ce158a02",
+    "QRCode": "",
+    "PhanVungDuLieu": {
+      "MaMuc": "",
+      "TenMuc": ""
+    },
+    "ChiaSeTaiKhoan": [],
+    "ChiaSeVaiTro": [],
+    "CSFLE": {
+      "keyAltName": "csdlpt",
+      "fields": {}
+    }
+  }
+},
+{
+  "_id": {
+    "$oid": "6a8fa43ba46b2ad5e0664b04"
+  },
+  "MaMuc": "05",
+  "TenMuc": "Phương tiện chuyên dùng không tự hành",
+  "Metadata": {
+    "ThoiGianTao": {
+      "$numberLong": "1787798587585"
+    },
+    "ThoiGianCapNhat": {
+      "$numberLong": "1787798587585"
+    },
+    "NguoiTaoLap": "BXD-ADMIN",
+    "ChuSoHuu": "BXD-ADMIN",
+    "TrangThaiDuLieu": "Active",
+    "PhienBanDuLieu": "1",
+    "NguonThamChieu": {
+      "NguonDuLieu": "",
+      "MaThamChieu": "05",
+      "ThoiGianXuLy": {
+        "$numberLong": "1787798587581"
+      }
+    },
+    "XuLyDuLieu": "a0387ac8-c925-4865-a755-fc06f14a20ab",
+    "QRCode": "",
+    "PhanVungDuLieu": {
+      "MaMuc": "",
+      "TenMuc": ""
+    },
+    "ChiaSeTaiKhoan": [],
+    "ChiaSeVaiTro": [],
+    "CSFLE": {
+      "keyAltName": "csdlpt",
+      "fields": {}
+    }
+  }
+},
+{
+  "_id": {
+    "$oid": "6a8fa449a46b2ad5e0664b0b"
+  },
+  "MaMuc": "06",
+  "TenMuc": "Toa xe đường sắt đô thị có động lực",
+  "Metadata": {
+    "ThoiGianTao": {
+      "$numberLong": "1787798601289"
+    },
+    "ThoiGianCapNhat": {
+      "$numberLong": "1787798601289"
+    },
+    "NguoiTaoLap": "BXD-ADMIN",
+    "ChuSoHuu": "BXD-ADMIN",
+    "TrangThaiDuLieu": "Active",
+    "PhienBanDuLieu": "1",
+    "NguonThamChieu": {
+      "NguonDuLieu": "",
+      "MaThamChieu": "06",
+      "ThoiGianXuLy": {
+        "$numberLong": "1787798601259"
+      }
+    },
+    "XuLyDuLieu": "55782dff-36cf-4e85-bd3c-d2cde97df29c",
+    "QRCode": "",
+    "PhanVungDuLieu": {
+      "MaMuc": "",
+      "TenMuc": ""
+    },
+    "ChiaSeTaiKhoan": [],
+    "ChiaSeVaiTro": [],
+    "CSFLE": {
+      "keyAltName": "csdlpt",
+      "fields": {}
+    }
+  }
+},
+{
+  "_id": {
+    "$oid": "6a8fa455da2a75b5b62276a7"
+  },
+  "MaMuc": "07",
+  "TenMuc": "Toa xe đường sắt đô thị không có động lực",
+  "Metadata": {
+    "ThoiGianTao": {
+      "$numberLong": "1787798613795"
+    },
+    "ThoiGianCapNhat": {
+      "$numberLong": "1787798613795"
+    },
+    "NguoiTaoLap": "BXD-ADMIN",
+    "ChuSoHuu": "BXD-ADMIN",
+    "TrangThaiDuLieu": "Active",
+    "PhienBanDuLieu": "1",
+    "NguonThamChieu": {
+      "NguonDuLieu": "",
+      "MaThamChieu": "07",
+      "ThoiGianXuLy": {
+        "$numberLong": "1787798613787"
+      }
+    },
+    "XuLyDuLieu": "d31b4564-d75a-4d68-bc87-05f980aef8e3",
+    "QRCode": "",
+    "PhanVungDuLieu": {
+      "MaMuc": "",
+      "TenMuc": ""
+    },
+    "ChiaSeTaiKhoan": [],
+    "ChiaSeVaiTro": [],
+    "CSFLE": {
+      "keyAltName": "csdlpt",
+      "fields": {}
+    }
+  }
+}]

@@ -40,7 +40,7 @@ public class GiayDangKiemXeMayChuyenDungRepository {
                   gcn.ThoiHanGCN AS "NgayHetHan",
                   gcn.ID_GCN AS "SoGiay",
                   gcn.TrangThaiGCN AS "TinhTrangHieuLucGiayTo.MaMuc",
-                  pt.SoKhung AS "PhuongTien.MaDinhDanh",
+                  pt.MaQL AS "PhuongTien.MaDinhDanh",
                   pt.MaQL AS "PhuongTien.SoQuanLy",
                   pt.NhomXMCD AS "PhuongTien.NhomPhuongTienXeMayChuyenDung.MaMuc",
                   pt.LoaiXMCD AS "PhuongTien.LoaiPhuongTienXeMayChuyenDung.MaMuc",
@@ -49,6 +49,7 @@ public class GiayDangKiemXeMayChuyenDungRepository {
                   pt.MaKieuLoai AS "PhuongTien.MaKieuLoai",
                   pt.SoKhung AS "PhuongTien.SoKhung",
                   pt.SoDongCo AS "PhuongTien.SoDongCo",
+                CAST(pt.DaCaiTao AS INT) AS "PhuongTien.DaCaiTao",
                   pt.MaNuocSX AS "PhuongTien.NuocSanXuat.MaMuc",
                   pt.TenNuocSX AS "PhuongTien.NuocSanXuat.TenMuc",
                   pt.NamSX AS "PhuongTien.NamSanXuat",
@@ -104,6 +105,9 @@ public class GiayDangKiemXeMayChuyenDungRepository {
                   DonViDo AS "DonViDo"
                 FROM dbo.XMCD_ThongSoDT
                 WHERE ID_PT IN (%s)
+                  AND ID_TS IS NOT NULL
+                  AND NULLIF(LTRIM(RTRIM(TenThongSo)), '') IS NOT NULL
+                  AND NULLIF(LTRIM(RTRIM(GiaTri)), '') IS NOT NULL
                 """.formatted(placeholders);
 
         Map<String, List<Map<String, Object>>> thongSoByIdPt = jdbcTemplate

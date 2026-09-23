@@ -1,0 +1,390 @@
+[{
+  "_id": {
+    "$oid": "68a2dffe5e6b000082007e23"
+  },
+  "MaMuc": "01",
+  "TenMuc": "Xe hàng thép đúc 1000",
+  "Metadata": {
+    "ThoiGianTao": {
+      "$numberLong": "1785743248322"
+    },
+    "ThoiGianCapNhat": {
+      "$numberLong": "1788662300962"
+    },
+    "NguoiTaoLap": "BXD-ADMIN",
+    "ChuSoHuu": "BXD-ADMIN",
+    "TrangThaiDuLieu": "Active",
+    "PhienBanDuLieu": "2",
+    "NguonThamChieu": {
+      "NguonDuLieu": "",
+      "MaThamChieu": "01",
+      "ThoiGianXuLy": {
+        "$numberLong": "1788662300953"
+      }
+    },
+    "XuLyDuLieu": "da64023f-e4a3-4705-ae3c-8a1dc43a31cf",
+    "QRCode": "",
+    "PhanVungDuLieu": {
+      "MaMuc": "",
+      "TenMuc": ""
+    },
+    "ChiaSeTaiKhoan": [],
+    "ChiaSeVaiTro": [],
+    "CSFLE": {
+      "keyAltName": "csdlpt",
+      "fields": {}
+    },
+    "DongBoDuLieu": [],
+    "NguoiSuaDoi": "BXD-ADMIN"
+  }
+},
+{
+  "_id": {
+    "$oid": "68a2dffe5e6b000082007e24"
+  },
+  "MaMuc": "02",
+  "TenMuc": "Xe hàng thép đúc 1435",
+  "Metadata": {
+    "ThoiGianTao": {
+      "$numberLong": "1785743248322"
+    },
+    "ThoiGianCapNhat": {
+      "$numberLong": "1788662315037"
+    },
+    "NguoiTaoLap": "BXD-ADMIN",
+    "ChuSoHuu": "BXD-ADMIN",
+    "TrangThaiDuLieu": "Active",
+    "PhienBanDuLieu": "2",
+    "NguonThamChieu": {
+      "NguonDuLieu": "",
+      "MaThamChieu": "02",
+      "ThoiGianXuLy": {
+        "$numberLong": "1788662314863"
+      }
+    },
+    "XuLyDuLieu": "45195230-b343-4599-a00d-ef917a7281d7",
+    "QRCode": "",
+    "PhanVungDuLieu": {
+      "MaMuc": "",
+      "TenMuc": ""
+    },
+    "ChiaSeTaiKhoan": [],
+    "ChiaSeVaiTro": [],
+    "CSFLE": {
+      "keyAltName": "csdlpt",
+      "fields": {}
+    },
+    "DongBoDuLieu": [],
+    "NguoiSuaDoi": "BXD-ADMIN"
+  }
+},
+{
+  "_id": {
+    "$oid": "68a2dffe5e6b000082007e25"
+  },
+  "MaMuc": "03",
+  "TenMuc": "Xe hàng thép hàn 1000",
+  "Metadata": {
+    "ThoiGianTao": {
+      "$numberLong": "1785743248322"
+    },
+    "ThoiGianCapNhat": {
+      "$numberLong": "1788662329931"
+    },
+    "NguoiTaoLap": "BXD-ADMIN",
+    "ChuSoHuu": "BXD-ADMIN",
+    "TrangThaiDuLieu": "Active",
+    "PhienBanDuLieu": "2",
+    "NguonThamChieu": {
+      "NguonDuLieu": "",
+      "MaThamChieu": "03",
+      "ThoiGianXuLy": {
+        "$numberLong": "1788662329920"
+      }
+    },
+    "XuLyDuLieu": "afefbbcd-ce9f-4a49-ad7e-fcf954f017b4",
+    "QRCode": "",
+    "PhanVungDuLieu": {
+      "MaMuc": "",
+      "TenMuc": ""
+    },
+    "ChiaSeTaiKhoan": [],
+    "ChiaSeVaiTro": [],
+    "CSFLE": {
+      "keyAltName": "csdlpt",
+      "fields": {}
+    },
+    "DongBoDuLieu": [],
+    "NguoiSuaDoi": "BXD-ADMIN"
+  }
+},
+{
+  "_id": {
+    "$oid": "68a2dffe5e6b000082007e26"
+  },
+  "MaMuc": "04",
+  "TenMuc": "Xe hàng thép hàn 1435",
+  "Metadata": {
+    "ThoiGianTao": {
+      "$numberLong": "1785743248322"
+    },
+    "ThoiGianCapNhat": {
+      "$numberLong": "1788662342310"
+    },
+    "NguoiTaoLap": "BXD-ADMIN",
+    "ChuSoHuu": "BXD-ADMIN",
+    "TrangThaiDuLieu": "Active",
+    "PhienBanDuLieu": "2",
+    "NguonThamChieu": {
+      "NguonDuLieu": "",
+      "MaThamChieu": "04",
+      "ThoiGianXuLy": {
+        "$numberLong": "1788662342302"
+      }
+    },
+    "XuLyDuLieu": "21c9d847-6d23-4463-907c-040ce66703bd",
+    "QRCode": "",
+    "PhanVungDuLieu": {
+      "MaMuc": "",
+      "TenMuc": ""
+    },
+    "ChiaSeTaiKhoan": [],
+    "ChiaSeVaiTro": [],
+    "CSFLE": {
+      "keyAltName": "csdlpt",
+      "fields": {}
+    },
+    "DongBoDuLieu": [],
+    "NguoiSuaDoi": "BXD-ADMIN"
+  }
+},
+{
+  "_id": {
+    "$oid": "68a2dffe5e6b000082007e27"
+  },
+  "MaMuc": "05",
+  "TenMuc": "Xe khách thép đúc 1000",
+  "Metadata": {
+    "ThoiGianTao": {
+      "$numberLong": "1785743248322"
+    },
+    "ThoiGianCapNhat": {
+      "$numberLong": "1788662355607"
+    },
+    "NguoiTaoLap": "BXD-ADMIN",
+    "ChuSoHuu": "BXD-ADMIN",
+    "TrangThaiDuLieu": "Active",
+    "PhienBanDuLieu": "2",
+    "NguonThamChieu": {
+      "NguonDuLieu": "",
+      "MaThamChieu": "05",
+      "ThoiGianXuLy": {
+        "$numberLong": "1788662355591"
+      }
+    },
+    "XuLyDuLieu": "412bb2fc-a595-426d-a001-da4915e68cfd",
+    "QRCode": "",
+    "PhanVungDuLieu": {
+      "MaMuc": "",
+      "TenMuc": ""
+    },
+    "ChiaSeTaiKhoan": [],
+    "ChiaSeVaiTro": [],
+    "CSFLE": {
+      "keyAltName": "csdlpt",
+      "fields": {}
+    },
+    "DongBoDuLieu": [],
+    "NguoiSuaDoi": "BXD-ADMIN"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a9cd266b21f10bd9717e376"
+  },
+  "MaMuc": "06",
+  "TenMuc": "Xe khách thép đúc 1435",
+  "Metadata": {
+    "ThoiGianTao": {
+      "$numberLong": "1788662374992"
+    },
+    "ThoiGianCapNhat": {
+      "$numberLong": "1788662374992"
+    },
+    "NguoiTaoLap": "BXD-ADMIN",
+    "ChuSoHuu": "BXD-ADMIN",
+    "TrangThaiDuLieu": "Active",
+    "PhienBanDuLieu": "1",
+    "NguonThamChieu": {
+      "NguonDuLieu": "",
+      "MaThamChieu": "06",
+      "ThoiGianXuLy": {
+        "$numberLong": "1788662374983"
+      }
+    },
+    "XuLyDuLieu": "99720da5-ba1c-417b-8941-0a647c11c3a7",
+    "QRCode": "",
+    "PhanVungDuLieu": {
+      "MaMuc": "",
+      "TenMuc": ""
+    },
+    "ChiaSeTaiKhoan": [],
+    "ChiaSeVaiTro": [],
+    "CSFLE": {
+      "keyAltName": "csdlpt",
+      "fields": {}
+    }
+  }
+},
+{
+  "_id": {
+    "$oid": "6a9cd272b21f10bd9717e38d"
+  },
+  "MaMuc": "07",
+  "TenMuc": "Xe khách thép hàn 1000",
+  "Metadata": {
+    "ThoiGianTao": {
+      "$numberLong": "1788662386312"
+    },
+    "ThoiGianCapNhat": {
+      "$numberLong": "1788662386312"
+    },
+    "NguoiTaoLap": "BXD-ADMIN",
+    "ChuSoHuu": "BXD-ADMIN",
+    "TrangThaiDuLieu": "Active",
+    "PhienBanDuLieu": "1",
+    "NguonThamChieu": {
+      "NguonDuLieu": "",
+      "MaThamChieu": "07",
+      "ThoiGianXuLy": {
+        "$numberLong": "1788662386302"
+      }
+    },
+    "XuLyDuLieu": "191c4c15-a937-4599-9217-afd51e7eec95",
+    "QRCode": "",
+    "PhanVungDuLieu": {
+      "MaMuc": "",
+      "TenMuc": ""
+    },
+    "ChiaSeTaiKhoan": [],
+    "ChiaSeVaiTro": [],
+    "CSFLE": {
+      "keyAltName": "csdlpt",
+      "fields": {}
+    }
+  }
+},
+{
+  "_id": {
+    "$oid": "6a9cd27ff28a9e3cb335b8aa"
+  },
+  "MaMuc": "08",
+  "TenMuc": "Xe khách thép hàn 1435",
+  "Metadata": {
+    "ThoiGianTao": {
+      "$numberLong": "1788662399289"
+    },
+    "ThoiGianCapNhat": {
+      "$numberLong": "1788662399289"
+    },
+    "NguoiTaoLap": "BXD-ADMIN",
+    "ChuSoHuu": "BXD-ADMIN",
+    "TrangThaiDuLieu": "Active",
+    "PhienBanDuLieu": "1",
+    "NguonThamChieu": {
+      "NguonDuLieu": "",
+      "MaThamChieu": "08",
+      "ThoiGianXuLy": {
+        "$numberLong": "1788662399283"
+      }
+    },
+    "XuLyDuLieu": "d47aac80-2b53-40da-bb45-650c1838f536",
+    "QRCode": "",
+    "PhanVungDuLieu": {
+      "MaMuc": "",
+      "TenMuc": ""
+    },
+    "ChiaSeTaiKhoan": [],
+    "ChiaSeVaiTro": [],
+    "CSFLE": {
+      "keyAltName": "csdlpt",
+      "fields": {}
+    }
+  }
+},
+{
+  "_id": {
+    "$oid": "6a9cd28af28a9e3cb335b8e1"
+  },
+  "MaMuc": "09",
+  "TenMuc": "Xe động lực 1435",
+  "Metadata": {
+    "ThoiGianTao": {
+      "$numberLong": "1788662410162"
+    },
+    "ThoiGianCapNhat": {
+      "$numberLong": "1788662410162"
+    },
+    "NguoiTaoLap": "BXD-ADMIN",
+    "ChuSoHuu": "BXD-ADMIN",
+    "TrangThaiDuLieu": "Active",
+    "PhienBanDuLieu": "1",
+    "NguonThamChieu": {
+      "NguonDuLieu": "",
+      "MaThamChieu": "09",
+      "ThoiGianXuLy": {
+        "$numberLong": "1788662410157"
+      }
+    },
+    "XuLyDuLieu": "86479163-dc79-4609-a7d2-69890fd98a48",
+    "QRCode": "",
+    "PhanVungDuLieu": {
+      "MaMuc": "",
+      "TenMuc": ""
+    },
+    "ChiaSeTaiKhoan": [],
+    "ChiaSeVaiTro": [],
+    "CSFLE": {
+      "keyAltName": "csdlpt",
+      "fields": {}
+    }
+  }
+},
+{
+  "_id": {
+    "$oid": "6a9cd295b21f10bd9717e3f3"
+  },
+  "MaMuc": "10",
+  "TenMuc": "Xe kéo theo 1435",
+  "Metadata": {
+    "ThoiGianTao": {
+      "$numberLong": "1788662421272"
+    },
+    "ThoiGianCapNhat": {
+      "$numberLong": "1788662421272"
+    },
+    "NguoiTaoLap": "BXD-ADMIN",
+    "ChuSoHuu": "BXD-ADMIN",
+    "TrangThaiDuLieu": "Active",
+    "PhienBanDuLieu": "1",
+    "NguonThamChieu": {
+      "NguonDuLieu": "",
+      "MaThamChieu": "10",
+      "ThoiGianXuLy": {
+        "$numberLong": "1788662421263"
+      }
+    },
+    "XuLyDuLieu": "fa697e1b-e14c-48d5-b466-7f7ab4ab4992",
+    "QRCode": "",
+    "PhanVungDuLieu": {
+      "MaMuc": "",
+      "TenMuc": ""
+    },
+    "ChiaSeTaiKhoan": [],
+    "ChiaSeVaiTro": [],
+    "CSFLE": {
+      "keyAltName": "csdlpt",
+      "fields": {}
+    }
+  }
+}]

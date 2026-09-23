@@ -33,3 +33,12 @@ build/
 .vscode/
 job-crawl.tar
 src/main/resources/danhmuc/CSDL_PhuongTien.T_GiayDangKiemPhuongTienDTND.json
+
+
+# macOS
+.DS_Store
+**/.DS_Store
+
+# Logs
+logs/
+*.log

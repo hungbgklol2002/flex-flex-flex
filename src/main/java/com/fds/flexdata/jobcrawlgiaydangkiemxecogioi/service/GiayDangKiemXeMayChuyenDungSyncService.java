@@ -31,7 +31,7 @@ public class GiayDangKiemXeMayChuyenDungSyncService {
     private static final String CHECKPOINT_ID_FIELD = "__CHECKPOINT_ID";
     private static final String THONG_SO_KY_THUAT_FIELD = "__THONG_SO_KY_THUAT_DAC_TRUNG";
     private static final String NOI_TAO_BAN_TIN = "G17.46";
-    private static final int BATCH_SIZE = 1;
+    private static final int BATCH_SIZE = 1000;
 
     private final GiayDangKiemXeMayChuyenDungRepository repository;
     private final StringRedisTemplate redisTemplate;
@@ -99,7 +99,7 @@ public class GiayDangKiemXeMayChuyenDungSyncService {
     ) throws Exception {
         String maBanTin = "MBT-" + LocalDateTime.now()
                 .format(DateTimeFormatter.ofPattern("yyyyMMddHHmmss"));
-        Map<String, Object> requestBody = buildRequestBody(records,maBanTin);
+        Map<String, Object> requestBody = buildRequestBody(records, maBanTin);
 
         String requestBodyJson = objectMapper
                 .writerWithDefaultPrettyPrinter()
@@ -125,14 +125,19 @@ public class GiayDangKiemXeMayChuyenDungSyncService {
         log.info("XMCD push success. MaBanTin={}, records={}", maBanTin, records.size());
     }
 
-    private Map<String, Object> buildRequestBody(List<Map<String, Object>> records,String maBanTin) {
+    private Map<String, Object> buildRequestBody(
+            List<Map<String, Object>> records,
+            String maBanTin
+    ) {
         Map<String, Object> requestBody = new LinkedHashMap<>();
 
         requestBody.put("DacTaBanTin", Map.of(
                 "MaBanTin", maBanTin,
                 "NoiTaoBanTin", NOI_TAO_BAN_TIN
         ));
-        requestBody.put("DuLieuBanTin", records.stream().map(this::buildBanTinDuLieu).toList());
+        requestBody.put("DuLieuBanTin", records.stream()
+                .map(this::buildBanTinDuLieu)
+                .toList());
         requestBody.put("ChuKySo", buildChuKySo());
         return requestBody;
     }
@@ -181,7 +186,10 @@ public class GiayDangKiemXeMayChuyenDungSyncService {
         banTin.put("SoDangKyKiemTra", stringValue(record.get("SoDangKyKiemTra")));
         banTin.put("PhuongTien", buildPhuongTien(record));
         banTin.put("TinhTrangHieuLucGiayTo", buildTinhTrangHieuLuc(record));
-        banTin.put("ThongSoKyThuatDacTrung", buildThongSoKyThuatDacTrung(record));
+        List<Map<String, Object>> thongSoKyThuat = buildThongSoKyThuatDacTrung(record);
+        if (!thongSoKyThuat.isEmpty()) {
+            banTin.put("ThongSoKyThuatDacTrung", thongSoKyThuat);
+        }
         return banTin;
     }
 
@@ -196,7 +204,7 @@ public class GiayDangKiemXeMayChuyenDungSyncService {
         Object maMuc = record.get("TinhTrangHieuLucGiayTo.MaMuc");
         DanhMucItem item = danhMucCacheService.get("tinh-trang-hieu-luc-giay-to", maMuc);
         Map<String, Object> tinhTrang = new LinkedHashMap<>();
-        tinhTrang.put("MaMuc", stringValue(maMuc));
+        tinhTrang.put("MaMuc", String.format("%02d", Integer.parseInt(stringValue(maMuc))));
         tinhTrang.put("TenMuc", item == null ? "" : stringValue(item.getTenMuc()));
         return tinhTrang;
     }
@@ -225,6 +233,7 @@ public class GiayDangKiemXeMayChuyenDungSyncService {
         phuongTien.put("TenThuongMai", stringValue(record.get("PhuongTien.TenThuongMai")));
         phuongTien.put("NhanHieu", stringValue(record.get("PhuongTien.NhanHieu")));
         phuongTien.put("SoDongCo", stringValue(record.get("PhuongTien.SoDongCo")));
+        phuongTien.put("DaCaiTao", numberValue(record.get("PhuongTien.DaCaiTao")));
         phuongTien.put("NuocSanXuat", List.of(buildNuocSanXuat(record)));
         phuongTien.put("NamSanXuat", numberValue(record.get("PhuongTien.NamSanXuat")));
         phuongTien.put("KhoiLuongBanThan", stringValue(record.get("PhuongTien.KhoiLuongBanThan")));
@@ -232,7 +241,7 @@ public class GiayDangKiemXeMayChuyenDungSyncService {
         phuongTien.put("ChieuRong", stringValue(record.get("PhuongTien.ChieuRong")));
         phuongTien.put("ChieuCao", stringValue(record.get("PhuongTien.ChieuCao")));
         phuongTien.put("KyHieuDongCo", stringValue(record.get("PhuongTien.KyHieuDongCo")));
-        phuongTien.put("LoaiDongCo", stringValue(record.get("PhuongTien.LoaiDongCo")));
+        phuongTien.put("LoaiDongCo", buildDanhMuc("loai-dong-co",record.get("PhuongTien.LoaiDongCo")));
         phuongTien.put("LoaiNhienLieu", buildDanhMuc("loai-nhien-lieu", record.get("PhuongTien.LoaiNhienLieu.MaMuc")));
         phuongTien.put("CongSuat", stringValue(record.get("PhuongTien.CongSuat")));
         phuongTien.put("TocDoQuay", stringValue(record.get("PhuongTien.TocDoQuay")));
@@ -299,5 +308,16 @@ public class GiayDangKiemXeMayChuyenDungSyncService {
 
     private Object numberValue(Object value) {
         return value == null ? 0 : value;
+    }
+
+    private boolean booleanValue(Object value) {
+        if (value instanceof Boolean bool) {
+            return bool;
+        }
+        if (value instanceof Number number) {
+            return number.intValue() == 1;
+        }
+        return "1".equals(String.valueOf(value))
+                || "true".equalsIgnoreCase(String.valueOf(value));
     }
 }

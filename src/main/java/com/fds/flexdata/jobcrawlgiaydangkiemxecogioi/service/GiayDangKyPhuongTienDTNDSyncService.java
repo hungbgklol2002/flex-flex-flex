@@ -29,11 +29,12 @@ import java.util.Optional;
 public class GiayDangKyPhuongTienDTNDSyncService {
 
     private static final Logger log = LoggerFactory.getLogger(GiayDangKyPhuongTienDTNDSyncService.class);
-    private static final String LAST_NGAY_CAP_KEY = "jobcrawl:giaydangkiemDTND:last-ngay-cap";
+    private static final String LAST_THOI_GIAN_CAP_NHAT_KEY = "jobcrawl:giaydangkiemDTND:last-thoi-gian-cap-nhat";
     private static final String LAST_SO_GIAY_KEY = "jobcrawl:giaydangkiemDTND:last-so-giay";
+    private static final String CHECKPOINT_THOI_GIAN_CAP_NHAT_FIELD = "__CHECKPOINT_THOI_GIAN_CAP_NHAT";
     private static final String CHECKPOINT_SO_GIAY_FIELD = "__CHECKPOINT_SO_GIAY";
     private static final String THONG_SO_VUNG_HOAT_DONG_FIELD = "__THONG_SO_VUNG_HOAT_DONG";
-    private static final String DEFAULT_NGAY_CAP = "1900-01-01 00:00:00";
+    private static final String DEFAULT_THOI_GIAN_CAP_NHAT = "1900-01-01 00:00:00";
     private static final String NOI_TAO_BAN_TIN = "G17.46";
     private static final String TINH_TRANG_HIEU_LUC_MA = "01";
     private static final String TINH_TRANG_HIEU_LUC_TEN = "Hiệu lực";
@@ -69,14 +70,17 @@ public class GiayDangKyPhuongTienDTNDSyncService {
 
     public void sync() {
         String token = tokenUtil.getAccessToken();
-        Timestamp lastNgayCap = loadLastNgayCap();
-        String lastSoGiay = loadLastSoGiay();
-        log.info("Loaded checkpoint: ngayCap={}, soGiay={}", lastNgayCap, lastSoGiay);
+        String savedThoiGianCapNhat = redisTemplate.opsForValue().get(LAST_THOI_GIAN_CAP_NHAT_KEY);
+        Timestamp lastThoiGianCapNhat = Timestamp.valueOf(
+                savedThoiGianCapNhat == null ? DEFAULT_THOI_GIAN_CAP_NHAT : savedThoiGianCapNhat
+        );
+        String lastSoGiay = savedThoiGianCapNhat == null ? "" : loadLastSoGiay();
+        log.info("Loaded checkpoint: thoiGianCapNhat={}, soGiay={}", lastThoiGianCapNhat, lastSoGiay);
 
         while (true) {
-            List<Map<String, Object>> records = repository.findDatas(lastNgayCap, lastSoGiay, BATCH_SIZE);
+            List<Map<String, Object>> records = repository.findDatas(lastThoiGianCapNhat, lastSoGiay, BATCH_SIZE);
             if (records.isEmpty()) {
-                log.info("Sync completed. checkpoint={} - {}", lastNgayCap, lastSoGiay);
+                log.info("Sync completed. checkpoint={} - {}", lastThoiGianCapNhat, lastSoGiay);
                 return;
             }
 
@@ -86,16 +90,16 @@ public class GiayDangKyPhuongTienDTNDSyncService {
 
             try {
                 syncBatch(records, token);
-                lastNgayCap = toCheckpointTimestamp(nextCheckpoint.ngayCap());
+                lastThoiGianCapNhat = toCheckpointTimestamp(nextCheckpoint.thoiGianCapNhat());
                 lastSoGiay = stringValue(nextCheckpoint.soGiay());
-                saveCheckpoint(lastNgayCap, lastSoGiay);
+                saveCheckpoint(lastThoiGianCapNhat, lastSoGiay);
 
-                log.info("Checkpoint saved. ngayCap={}, soGiay={}", lastNgayCap, lastSoGiay);
+                log.info("Checkpoint saved. thoiGianCapNhat={}, soGiay={}", lastThoiGianCapNhat, lastSoGiay);
                 log.info("Batch synced successfully. size={}", records.size());
             } catch (Exception ex) {
                 log.error(
-                        "Sync failed. Current checkpoint: ngayCap={}, soGiay={}, batchSize={}",
-                        lastNgayCap,
+                        "Sync failed. Current checkpoint: thoiGianCapNhat={}, soGiay={}, batchSize={}",
+                        lastThoiGianCapNhat,
                         lastSoGiay,
                         records.size(),
                         ex
@@ -106,33 +110,37 @@ public class GiayDangKyPhuongTienDTNDSyncService {
     }
 
     private void removeInternalFields(List<Map<String, Object>> records) {
-        records.forEach(record -> record.remove(CHECKPOINT_SO_GIAY_FIELD));
+        records.forEach(record -> {
+            record.remove(CHECKPOINT_THOI_GIAN_CAP_NHAT_FIELD);
+            record.remove(CHECKPOINT_SO_GIAY_FIELD);
+        });
     }
 
     private BatchCheckpoint extractCheckpoint(List<Map<String, Object>> records) {
         Map<String, Object> lastRecord = records.get(records.size() - 1);
         return new BatchCheckpoint(
-                lastRecord.get("NgayCap"),
+                lastRecord.get(CHECKPOINT_THOI_GIAN_CAP_NHAT_FIELD),
                 lastRecord.get(CHECKPOINT_SO_GIAY_FIELD)
         );
     }
 
-    private Timestamp toCheckpointTimestamp(Object ngayCap) {
+    private Timestamp toCheckpointTimestamp(Object thoiGianCapNhat) {
         log.debug(
-                "Converting checkpoint NgayCap. value={}, type={}",
-                ngayCap,
-                ngayCap == null ? null : ngayCap.getClass().getName()
+                "Converting checkpoint ThoiGianCapNhat. value={}, type={}",
+                thoiGianCapNhat,
+                thoiGianCapNhat == null ? null : thoiGianCapNhat.getClass().getName()
         );
 
-        if (ngayCap instanceof Timestamp timestamp) {
+        if (thoiGianCapNhat instanceof Timestamp timestamp) {
             return timestamp;
         }
-        if (ngayCap instanceof String value) {
+        if (thoiGianCapNhat instanceof String value) {
             return Timestamp.valueOf(value.length() == 10 ? value + " 00:00:00" : value);
         }
 
         throw new IllegalStateException(
-                "Unsupported checkpoint NgayCap type: " + (ngayCap == null ? "null" : ngayCap.getClass().getName())
+                "Unsupported checkpoint ThoiGianCapNhat type: "
+                        + (thoiGianCapNhat == null ? "null" : thoiGianCapNhat.getClass().getName())
         );
     }
 
@@ -178,7 +186,9 @@ public class GiayDangKyPhuongTienDTNDSyncService {
                 "MaBanTin", maBanTin,
                 "NoiTaoBanTin", NOI_TAO_BAN_TIN
         ));
-        requestBody.put("DuLieuBanTin", records.stream().map(this::buildBanTinDuLieu).toList());
+        requestBody.put("DuLieuBanTin", records.stream()
+                .map(this::buildBanTinDuLieu)
+                .toList());
         requestBody.put("ChuKySo", buildChuKySo());
         return requestBody;
     }
@@ -187,20 +197,15 @@ public class GiayDangKyPhuongTienDTNDSyncService {
         throw new RuntimeException(new String(responseBody, StandardCharsets.UTF_8));
     }
 
-    private Timestamp loadLastNgayCap() {
-        String value = redisTemplate.opsForValue().get(LAST_NGAY_CAP_KEY);
-        return Timestamp.valueOf(value == null ? DEFAULT_NGAY_CAP : value);
-    }
-
     private String loadLastSoGiay() {
         return Optional.ofNullable(redisTemplate.opsForValue().get(LAST_SO_GIAY_KEY)).orElse("");
     }
 
     private void saveCheckpoint(
-            Timestamp ngayCap,
+            Timestamp thoiGianCapNhat,
             String soGiay
     ) {
-        redisTemplate.opsForValue().set(LAST_NGAY_CAP_KEY, ngayCap.toString());
+        redisTemplate.opsForValue().set(LAST_THOI_GIAN_CAP_NHAT_KEY, thoiGianCapNhat.toString());
         redisTemplate.opsForValue().set(LAST_SO_GIAY_KEY, soGiay);
     }
 
@@ -226,6 +231,7 @@ public class GiayDangKyPhuongTienDTNDSyncService {
                 )
         );
     }
+
     private Map<String, Object> buildBanTinDuLieu(
             Map<String, Object> record
     ) {
@@ -297,11 +303,10 @@ public class GiayDangKyPhuongTienDTNDSyncService {
         return phuongTien;
     }
 
-    private List<Map<String, Object>> buildCapPhuongTienThuyNoiDia(Object rawTenMuc) {
+    private Object buildCapPhuongTienThuyNoiDia(Object rawTenMuc) {
         String tenMuc = stringValue(rawTenMuc);
         if (tenMuc.isBlank()) {
-            // Giữ nguyên output cũ khi nguồn không có cấp phương tiện.
-            return List.of(buildDanhMucByMa("cap-phuong-tien", tenMuc));
+            return null;
         }
 
         List<Map<String, Object>> capPhuongTien = new ArrayList<>();
@@ -386,8 +391,11 @@ public class GiayDangKyPhuongTienDTNDSyncService {
         if (value instanceof BigDecimal decimal) {
             return normalizeDecimal(decimal);
         }
-        if (value instanceof Float || value instanceof Double) {
-            return normalizeDecimal(BigDecimal.valueOf(((Number) value).doubleValue()));
+        if (value instanceof Float number) {
+            return normalizeDecimal(new BigDecimal(number.toString()));
+        }
+        if (value instanceof Double number) {
+            return normalizeDecimal(BigDecimal.valueOf(number));
         }
         return value;
     }
@@ -438,6 +446,6 @@ public class GiayDangKyPhuongTienDTNDSyncService {
         }
     }
 
-    private record BatchCheckpoint(Object ngayCap, Object soGiay) {
+    private record BatchCheckpoint(Object thoiGianCapNhat, Object soGiay) {
     }
 }

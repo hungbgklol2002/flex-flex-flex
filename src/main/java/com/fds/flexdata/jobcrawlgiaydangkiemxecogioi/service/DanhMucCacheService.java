@@ -12,13 +12,13 @@ import java.util.List;
 @RequiredArgsConstructor
 public class DanhMucCacheService {
 
-    private final RedissonClient redissonClient;
-
     private static final String REDIS_PREFIX = "jobcrawl:dm:";
     private static final String REDIS_BY_TEN_PREFIX = "jobcrawl:dm-by-ten:";
     private static final String REDIS_BY_SO_PHAN_CAP_PREFIX = "jobcrawl:dm-by-so-phan-cap:";
     private static final String REDIS_BY_SO_DANG_KY_CUC_HH_PREFIX = "jobcrawl:dm-by-so-dang-ky-cuc-hh:";
     private static final String REDIS_BY_SO_IMO_PREFIX = "jobcrawl:dm-by-so-imo:";
+
+    private final RedissonClient redissonClient;
 
     public DanhMucItem get(String danhMucName, Object maMuc) {
         if (maMuc == null) {
@@ -35,6 +35,7 @@ public class DanhMucCacheService {
         DanhMucItem item = get(danhMucName, maMuc);
         return item == null ? null : item.getTenMuc();
     }
+
     public String getMaMuc(String danhMucName, Object tenMuc) {
         if (tenMuc == null) {
             return null;

@@ -30,6 +30,7 @@ public class SyncJobProperties {
         private String xmcd;
         private String tb;
         private String dt;
+        private String ds;
     }
 
 }

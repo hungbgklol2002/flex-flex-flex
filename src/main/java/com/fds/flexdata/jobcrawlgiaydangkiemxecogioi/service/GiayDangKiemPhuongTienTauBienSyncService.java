@@ -18,12 +18,24 @@ import java.nio.charset.StandardCharsets;
 import java.sql.Timestamp;
 import java.time.LocalDateTime;
 import java.time.format.DateTimeFormatter;
-import java.util.*;
+import java.util.HashMap;
+import java.util.Iterator;
+import java.util.LinkedHashMap;
+import java.util.List;
+import java.util.Map;
+import java.util.Optional;
 
 @Service
 public class GiayDangKiemPhuongTienTauBienSyncService {
 
     private static final Logger log = LoggerFactory.getLogger(GiayDangKiemPhuongTienTauBienSyncService.class);
+
+    private static final String LAST_NGAY_CAP_KEY = "jobcrawl:giaydangkiemtaubien:last-ngay-cap";
+    private static final String LAST_SO_GIAY_KEY = "jobcrawl:giaydangkiemtaubien:last-so-giay";
+    private static final String DEFAULT_NGAY_CAP = "1900-01-01 00:00:00";
+    private static final int BATCH_SIZE = 1000;
+
+    private final GiayDangKiemPhuongTienTauBienRepository repository;
 
     @Autowired
     private StringRedisTemplate redisTemplate;
@@ -32,27 +44,19 @@ public class GiayDangKiemPhuongTienTauBienSyncService {
     private ObjectMapper objectMapper;
 
     @Autowired
-    private DanhMucCacheService  danhMucCacheService;
+    private DanhMucCacheService danhMucCacheService;
 
     @Autowired
     private RestClient restClient;
 
     @Autowired
     private RecordUtil recordUtil;
+
     @Autowired
     private TokenUtil tokenUtil;
+
     @Autowired
     private SyncJobProperties properties;
-
-
-    private static final String LAST_NGAY_CAP_KEY =
-            "jobcrawl:giaydangkiemtaubien:last-ngay-cap";
-
-    private static final String LAST_SO_GIAY_KEY =
-            "jobcrawl:giaydangkiemtaubien:last-so-giay";
-
-    private static final int BATCH_SIZE = 1000;
-    private final GiayDangKiemPhuongTienTauBienRepository repository;
 
     public GiayDangKiemPhuongTienTauBienSyncService(
             GiayDangKiemPhuongTienTauBienRepository repository
@@ -61,17 +65,17 @@ public class GiayDangKiemPhuongTienTauBienSyncService {
     }
 
     public Map<String, Object> sync() {
-
         String token = tokenUtil.getAccessToken();
         Timestamp lastNgayCap = loadLastNgayCap();
         String lastSoGiay = loadLastSoGiay();
+
         log.info(
                 "Loaded checkpoint: ngayCap={}, soGiay={}",
                 lastNgayCap,
                 lastSoGiay
         );
-        while (true) {
 
+        while (true) {
             List<Map<String, Object>> records =
                     repository.findDatas(
                             lastNgayCap,
@@ -80,7 +84,6 @@ public class GiayDangKiemPhuongTienTauBienSyncService {
                     );
 
             if (records.isEmpty()) {
-
                 log.info(
                         "Sync completed. checkpoint={} - {}",
                         lastNgayCap,
@@ -98,31 +101,25 @@ public class GiayDangKiemPhuongTienTauBienSyncService {
 
             records.forEach(this::trimRecord);
 
-            Map<String, Object> last =
-                    records.get(records.size() - 1);
-
-            Object checkpointSoGiay =
-                    last.get("__CHECKPOINT_SO_GIAY");
-
-            Object checkpointNgayCap =
-                    last.get("NgayCap");
+            Map<String, Object> last = records.get(records.size() - 1);
+            Object checkpointSoGiay = last.get("__CHECKPOINT_SO_GIAY");
+            Object checkpointNgayCap = last.get("NgayCap");
 
             records.forEach(r ->
                     r.remove("__CHECKPOINT_SO_GIAY")
             );
 
             try {
-
                 String maBanTin = syncBatch(records, token);
                 log.info(
                         "checkpointNgayCap={}, class={}",
                         checkpointNgayCap,
                         checkpointNgayCap == null ? null : checkpointNgayCap.getClass().getName()
                 );
+
                 if (checkpointNgayCap instanceof Timestamp ts) {
                     lastNgayCap = ts;
                 } else if (checkpointNgayCap instanceof String str) {
-
                     if (str.length() == 10) {
                         lastNgayCap = Timestamp.valueOf(
                                 str + " 00:00:00"
@@ -130,7 +127,6 @@ public class GiayDangKiemPhuongTienTauBienSyncService {
                     } else {
                         lastNgayCap = Timestamp.valueOf(str);
                     }
-
                 } else {
                     throw new IllegalStateException(
                             "Unsupported type: " +
@@ -168,7 +164,6 @@ public class GiayDangKiemPhuongTienTauBienSyncService {
                 );
 
             } catch (Exception ex) {
-
                 log.error(
                         "Sync failed",
                         ex
@@ -188,18 +183,13 @@ public class GiayDangKiemPhuongTienTauBienSyncService {
             List<Map<String, Object>> records,
             String token
     ) throws Exception {
-
-        String maBanTin =
-                "MBT-" +
-                        LocalDateTime.now()
-                                .format(
-                                        DateTimeFormatter.ofPattern(
-                                                "yyyyMMddHHmmss"
-                                        )
-                                );
-
-        Map<String, Object> body =
-                new LinkedHashMap<>();
+        String maBanTin = "MBT-" + LocalDateTime.now()
+                .format(
+                        DateTimeFormatter.ofPattern(
+                                "yyyyMMddHHmmss"
+                        )
+                );
+        Map<String, Object> body = new LinkedHashMap<>();
 
         body.put(
                 "DacTaBanTin",
@@ -262,23 +252,19 @@ public class GiayDangKiemPhuongTienTauBienSyncService {
         );
         return maBanTin;
     }
-    private Timestamp loadLastNgayCap() {
 
-        String value =
-                redisTemplate.opsForValue()
-                        .get(LAST_NGAY_CAP_KEY);
+    private Timestamp loadLastNgayCap() {
+        String value = redisTemplate.opsForValue()
+                .get(LAST_NGAY_CAP_KEY);
 
         if (value == null) {
-            return Timestamp.valueOf(
-                    "1900-01-01 00:00:00"
-            );
+            return Timestamp.valueOf(DEFAULT_NGAY_CAP);
         }
 
         return Timestamp.valueOf(value);
     }
 
     private String loadLastSoGiay() {
-
         return Optional.ofNullable(
                 redisTemplate.opsForValue()
                         .get(LAST_SO_GIAY_KEY)
@@ -289,7 +275,6 @@ public class GiayDangKiemPhuongTienTauBienSyncService {
             Timestamp ngayCap,
             String soGiay
     ) {
-
         redisTemplate.opsForValue().set(
                 LAST_NGAY_CAP_KEY,
                 ngayCap.toString()
@@ -300,6 +285,7 @@ public class GiayDangKiemPhuongTienTauBienSyncService {
                 soGiay
         );
     }
+
     private Map<String, Object> buildChuKySo() {
         return Map.of(
                 "payload", "VGhpcyBpcyB0aGUgc2lnbmVkIGRhdGEu",
@@ -322,16 +308,15 @@ public class GiayDangKiemPhuongTienTauBienSyncService {
                 )
         );
     }
+
     private Map<String, Object> buildBanTinDuLieu(
             Map<String, Object> record
     ) {
-
         resolveTauBienMaDinhDanh(record);
 
         Map<String, Object> result = new LinkedHashMap<>();
 
         for (Map.Entry<String, Object> entry : record.entrySet()) {
-
             Object value = entry.getValue();
 
             if (shouldSkip(value)) {
@@ -346,7 +331,6 @@ public class GiayDangKiemPhuongTienTauBienSyncService {
         }
         enrich(result);
         removeEmptyObjects(result);
-
         return result;
     }
 
@@ -434,13 +418,10 @@ public class GiayDangKiemPhuongTienTauBienSyncService {
             String path,
             Object value
     ) {
-
         String[] keys = path.split("\\.");
-
         Map<String, Object> current = root;
 
         for (int i = 0; i < keys.length - 1; i++) {
-
             String key = keys[i];
 
             current = (Map<String, Object>)
@@ -455,7 +436,6 @@ public class GiayDangKiemPhuongTienTauBienSyncService {
 
     @SuppressWarnings("unchecked")
     private boolean removeEmptyObjects(Object obj) {
-
         if (!(obj instanceof Map<?, ?> map)) {
             return false;
         }
@@ -464,15 +444,11 @@ public class GiayDangKiemPhuongTienTauBienSyncService {
                 map.entrySet().iterator();
 
         while (iterator.hasNext()) {
-
             Map.Entry<?, ?> entry = iterator.next();
-
             Object value = entry.getValue();
 
             if (value instanceof Map<?, ?> nested) {
-
-                boolean empty =
-                        removeEmptyObjects(nested);
+                boolean empty = removeEmptyObjects(nested);
 
                 if (empty) {
                     iterator.remove();
@@ -485,7 +461,6 @@ public class GiayDangKiemPhuongTienTauBienSyncService {
 
     @SuppressWarnings("unchecked")
     private void enrich(Map<String, Object> result) {
-
         Object maDinhDanh = result.get("MaDinhDanh");
 
         result.put(
@@ -501,10 +476,7 @@ public class GiayDangKiemPhuongTienTauBienSyncService {
                         k -> new LinkedHashMap<>()
                 );
 
-
-    noiCap.put(
-            "@type","T_CoQuanDonVi");
-
+        noiCap.put("@type", "T_CoQuanDonVi");
 
 //        Map<String, Object> trangThai =
 //                (Map<String, Object>) result.computeIfAbsent(
@@ -518,10 +490,6 @@ public class GiayDangKiemPhuongTienTauBienSyncService {
 //                "TenMuc",
 //                "Hiệu lực"
 //        );
-
-
-
-
 
         // ================= LOAI GIAY =================
 
@@ -541,9 +509,7 @@ public class GiayDangKiemPhuongTienTauBienSyncService {
                                 loaiGiay.get("MaMuc")
                         )
                 ).orElse("")
-
         );
-
 
         // ================= TINH TRANG =================
 
@@ -591,6 +557,7 @@ public class GiayDangKiemPhuongTienTauBienSyncService {
                         )
                 ).orElse("")
         );
+
         Map<String, Object> tuyenKhaiThac =
                 (Map<String, Object>) phuongTien.computeIfAbsent(
                         "TuyenKhaiThacTauBien",
@@ -608,6 +575,7 @@ public class GiayDangKiemPhuongTienTauBienSyncService {
                         )
                 ).orElse("")
         );
+
         Map<String, Object> vungHoatDong =
                 (Map<String, Object>) phuongTien.computeIfAbsent(
                         "VungHoatDong",
@@ -681,8 +649,8 @@ public class GiayDangKiemPhuongTienTauBienSyncService {
             map.put(field, String.valueOf(value));
         }
     }
-    private boolean shouldSkip(Object value) {
 
+    private boolean shouldSkip(Object value) {
         if (value == null) {
             return true;
         }
@@ -693,19 +661,14 @@ public class GiayDangKiemPhuongTienTauBienSyncService {
 
         return false;
     }
+
     private Map<String, Object> buildPhuongTien(Map<String, Object> record) {
-
         Map<String, Object> phuongTien = new HashMap<>();
-
-
-
         return phuongTien;
     }
 
     private void trimRecord(Map<String, Object> record) {
-
         record.replaceAll((k, v) -> {
-
             if (!(v instanceof String str)) {
                 return v;
             }

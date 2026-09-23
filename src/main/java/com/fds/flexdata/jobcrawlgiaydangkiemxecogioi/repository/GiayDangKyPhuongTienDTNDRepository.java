@@ -19,13 +19,14 @@ public class GiayDangKyPhuongTienDTNDRepository {
     }
 
     public List<Map<String, Object>> findDatas(
-            Timestamp lastNgayCap,
+            Timestamp lastThoiGianCapNhat,
             String lastSoGiay,
             int batchSize
     ) {
 
         String sql = """
                 SELECT TOP (%d)
+                                                             tb1.ThoiGianCapNhat AS "__CHECKPOINT_THOI_GIAN_CAP_NHAT",
                                                              tb1.SoGiay AS "__CHECKPOINT_SO_GIAY",
                                                              tb1.SoGiay as "MaDinhDanh",
                                                              tb1.SoGiay as "SoGiay",
@@ -61,22 +62,22 @@ public class GiayDangKyPhuongTienDTNDRepository {
                                                              ON tb1.SoKiemSoat = tb2.SoKiemSoat
                                                            LEFT JOIN [dbo].[DMDonViDK_KhoiThuy] dv
                                                              ON tb1.MaDonVi = dv.MaDonVi
-                                                           WHERE tb1.NgayCapGCN IS NOT NULL
+                                                           WHERE tb1.ThoiGianCapNhat IS NOT NULL
                                                              AND (
-                                                               tb1.NgayCapGCN > ?
+                                                               tb1.ThoiGianCapNhat > ?
                                                                OR (
-                                                                 tb1.NgayCapGCN = ?
+                                                                 tb1.ThoiGianCapNhat = ?
                                                                  AND tb1.SoGiay > ?
                                                                )
                                                              )
                 
-                                                           ORDER BY tb1.NgayCapGCN, tb1.SoGiay
+                                                           ORDER BY tb1.ThoiGianCapNhat, tb1.SoGiay
                 """.formatted(batchSize);
 
         List<Map<String, Object>> records = jdbcTemplate.queryForList(
                 sql,
-                lastNgayCap,
-                lastNgayCap,
+                lastThoiGianCapNhat,
+                lastThoiGianCapNhat,
                 lastSoGiay
         );
 

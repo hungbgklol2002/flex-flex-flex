@@ -52,6 +52,8 @@ public class DanhMucRedisLoader implements ApplicationRunner {
         load("cap-phuong-tien", "danhmuc/CSDL_PhuongTien.C_CapPhuongTienThuyNoiDia.json");
         load("vung-hoat-dong-phuong-tien-thuy-noi-dia", "danhmuc/CSDL_PhuongTien.C_VungHoatDongPhuongTienThuyNoiDia.json");
         load("loai-phuong-tien-xe-may-chuyen-dung", "danhmuc/CSDL_PhuongTien.C_LoaiPhuongTienXeMayChuyenDung.json");
+        load("loai-phuong-tien-duong-sat", "danhmuc/CSDL_PhuongTien.C_LoaiPhuongTienDuongSat.json");
+        load("gia-chuyen-huong", "danhmuc/CSDL_PhuongTien.C_GiaChuyenHuong.json");
         load("nhom-phuong-tien-xe-may-chuyen-dung", "danhmuc/CSDL_PhuongTien.C_NhomPhuongTienXeMayChuyenDung.json");
         loadTauBienKhacPattern("tau-bien-khac-pattern", "danhmuc/Tau_bien_khac_pattern_1_2so.json");
         appState.setRedisLoaded(true);

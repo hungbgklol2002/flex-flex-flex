@@ -21,33 +21,43 @@ import org.springframework.web.client.RestClient;
 import java.nio.charset.StandardCharsets;
 import java.time.LocalDateTime;
 import java.time.format.DateTimeFormatter;
-import java.util.*;
+import java.util.ArrayList;
+import java.util.HashMap;
+import java.util.List;
+import java.util.Map;
+import java.util.Objects;
 
 @Service
 public class GiayDangKiemXeCoGioiSyncService {
 
+    private static final Logger log = LoggerFactory.getLogger(GiayDangKiemXeCoGioiSyncService.class);
+
+    private static final String LAST_ID_KEY = "jobcrawl:giaydangkiem:last-id";
+
+    private final GiayDangKiemXeCoGioiRepository repository;
+    private final RedissonClient redissonClient;
+
     @Autowired
     private ObjectMapper objectMapper;
+
     @Autowired
     private DanhMucCacheService danhMucCacheService;
 
     @Autowired
     private RestClient restClient;
-    private static final Logger log = LoggerFactory.getLogger(GiayDangKiemXeCoGioiSyncService.class);
 
     @Autowired
     private RecordUtil recordUtil;
+
     @Autowired
     private TokenUtil tokenUtil;
+
     @Autowired
     private SyncJobProperties properties;
-    private final RedissonClient redissonClient;
-
-    private static final String LAST_ID_KEY = "jobcrawl:giaydangkiem:last-id";
-    private final GiayDangKiemXeCoGioiRepository repository;
 
     public GiayDangKiemXeCoGioiSyncService(
-            RedissonClient redissonClient, GiayDangKiemXeCoGioiRepository repository
+            RedissonClient redissonClient,
+            GiayDangKiemXeCoGioiRepository repository
     ) {
         this.redissonClient = redissonClient;
         this.repository = repository;
@@ -55,11 +65,8 @@ public class GiayDangKiemXeCoGioiSyncService {
 
     public void sync() {
         String token = tokenUtil.getAccessToken();
-
         int batchSize = 1000;
-
         RBucket<String> checkpointBucket = redissonClient.getBucket(LAST_ID_KEY);
-
         String checkpoint = checkpointBucket.get();
 
         LocalDateTime lastTime = LocalDateTime.of(1970, 1, 1, 0, 0);
@@ -73,7 +80,11 @@ public class GiayDangKiemXeCoGioiSyncService {
 
         while (true) {
             List<Map<String, Object>> records =
-                    repository.findDatas(lastTime, lastId, batchSize);
+                    repository.findDatas(
+                            lastTime,
+                            lastId,
+                            batchSize
+                    );
 
             records.forEach(this::trimRecord);
 
@@ -135,9 +146,7 @@ public class GiayDangKiemXeCoGioiSyncService {
                         .toBodilessEntity();
 
                 Map<String, Object> lastRecord = records.get(records.size() - 1);
-
                 Object syncTimeObj = lastRecord.get("SyncTime");
-
                 LocalDateTime newLastTime;
 
                 if (syncTimeObj instanceof java.sql.Timestamp timestamp) {
@@ -149,7 +158,6 @@ public class GiayDangKiemXeCoGioiSyncService {
                 }
 
                 String newLastId = String.valueOf(lastRecord.get("Id"));
-
                 String newCheckpoint = newLastTime + "|" + newLastId;
 
                 checkpointBucket.set(newCheckpoint);
@@ -157,7 +165,8 @@ public class GiayDangKiemXeCoGioiSyncService {
                 lastTime = newLastTime;
                 lastId = newLastId;
 
-                log.info("Sync batch success - size: {}, status: {}, checkpoint={}, MaBanTin:{} ",
+                log.info(
+                        "Sync batch success - size: {}, status: {}, checkpoint={}, MaBanTin:{} ",
                         records.size(),
                         "OK",
                         newCheckpoint,
@@ -167,7 +176,8 @@ public class GiayDangKiemXeCoGioiSyncService {
             } catch (Exception ex) {
                 String errorMessage = ex.getMessage();
 
-                log.error("Sync batch failed - lastTime: {}, lastId: {}, size: {}, error: {}",
+                log.error(
+                        "Sync batch failed - lastTime: {}, lastId: {}, size: {}, error: {}",
                         lastTime,
                         lastId,
                         records.size(),
@@ -212,7 +222,6 @@ public class GiayDangKiemXeCoGioiSyncService {
     }
 
     private Map<String, Object> buildBanTinDuLieu(Map<String, Object> record) {
-
         Map<String, Object> banTin = new HashMap<>();
 
         banTin.put("MaDinhDanh", record.get("MaDinhDanh"));
@@ -222,7 +231,7 @@ public class GiayDangKiemXeCoGioiSyncService {
         banTin.put("SoPhieuKiemDinh", record.get("SoPhieuKiemDinh"));
         banTin.put("QR_URL", record.get("QR_URL"));
 
-        banTin.put("MucPhatThai",toInteger(record.get("MucPhatThai")) );
+        banTin.put("MucPhatThai", toInteger(record.get("MucPhatThai")));
 
 //        DanhMucItem nc = danhMucCacheService.get(
 //                "co-quan-don-vi",
@@ -241,7 +250,6 @@ public class GiayDangKiemXeCoGioiSyncService {
         noiCap.put("MaDinhDanh", record.get("NoiCap.MaDinhDanh"));
         noiCap.put("TenToChuc", record.get("NoiCap.TenDinhDanh"));
         banTin.put("NoiCap", noiCap);
-
 
         DanhMucItem tthlgt = danhMucCacheService.get(
                 "tinh-trang-hieu-luc-giay-to",
@@ -267,9 +275,7 @@ public class GiayDangKiemXeCoGioiSyncService {
     }
 
     private Map<String, Object> buildPhuongTien(Map<String, Object> record) {
-
         Map<String, Object> phuongTien = new HashMap<>();
-
         String soKhung = Objects.toString(record.get("PhuongTien.MaDinhDanh"), "");
 
         phuongTien.put("TinhTrangPhuongTien", null);
@@ -283,7 +289,15 @@ public class GiayDangKiemXeCoGioiSyncService {
         if (nienHan != null) {
             phuongTien.put("NienHanSuDung", nienHan.toString());
         }
-        phuongTien.put("SoLoai", StringUtils.trim(StringUtils.defaultString((String) record.get("PhuongTien.TenThuongMai")) + " " + StringUtils.defaultString((String) record.get("PhuongTien.SoLoai"))));
+
+        phuongTien.put(
+                "SoLoai",
+                StringUtils.trim(
+                        StringUtils.defaultString((String) record.get("PhuongTien.TenThuongMai"))
+                                + " "
+                                + StringUtils.defaultString((String) record.get("PhuongTien.SoLoai"))
+                )
+        );
         //        phuongTien.put("SoLoai", record.get("PhuongTien.SoLoai"));
         phuongTien.put("TenThuongMai", record.get("PhuongTien.TenThuongMai"));
         phuongTien.put("NamSanXuat", record.get("PhuongTien.NamSanXuat"));
@@ -317,28 +331,25 @@ public class GiayDangKiemXeCoGioiSyncService {
         phuongTien.put("KichThuocLongThung", record.get("PhuongTien.KichThuocLongThung"));
         phuongTien.put("KichThuocBao", record.get("PhuongTien.KichThuocBao"));
 
-        phuongTien.put("DungTich",toInteger(record.get("PhuongTien.DungTich")));
+        phuongTien.put("DungTich", toInteger(record.get("PhuongTien.DungTich")));
         phuongTien.put("Hybrid", record.get("PhuongTien.Hybrid") == null
                 ? false
                 : record.get("PhuongTien.Hybrid"));
-
-
 
         phuongTien.put("SoQuanLy", record.get("PhuongTien.SoQuanLy"));
         Map<String, Object> nguonGoc = new HashMap<>();
 
         boolean sanXuatTrongNuoc = "VN".equals(String.valueOf(record.get("PhuongTien.NuocSanXuat.MaMuc")));
-
         String nguonGocTen = sanXuatTrongNuoc ? "Sản xuất lắp ráp" : "Nhập khẩu";
-
         String nguonGocMa = sanXuatTrongNuoc ? "0" : "1";
+
         nguonGoc.put("TenMuc", nguonGocTen);
         nguonGoc.put("MaMuc", nguonGocMa);
         phuongTien.put("NguonGoc", nguonGoc);
 
         DanhMucItem ldc = danhMucCacheService.get(
                 "loai-dong-co",
-                    record.get("PhuongTien.LoaiDongCo.MaMuc")
+                record.get("PhuongTien.LoaiDongCo.MaMuc")
         );
 
         if (ldc != null) {
@@ -381,7 +392,6 @@ public class GiayDangKiemXeCoGioiSyncService {
         );
 
         List<Map<String, Object>> dsNuocSX = new ArrayList<>();
-
         Map<String, Object> nuocSX = new HashMap<>();
 
         if (nuocSanXuat != null) {
@@ -395,7 +405,6 @@ public class GiayDangKiemXeCoGioiSyncService {
         dsNuocSX.add(nuocSX);
 
         phuongTien.put("NuocSanXuat", dsNuocSX);
-
 
         phuongTien.put("@type", "T_XeCoGioi");
 
