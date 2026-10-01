@@ -31,7 +31,7 @@ public class GiayDangKiemPhuongTienDuongSatRepository {
                         gdk.SoBBKT AS BaoCaoKiemTra,
                         gdk.NgayKT AS NgayBaoCao,
                         gdk.TrangThaiGCN AS 'TinhTrangHieuLucGiayTo.MaMuc',
-                        pt.SoQLPT AS 'PhuongTien.MaDinhDanh',
+                        COALESCE(NULLIF(slm.MaDinhDanh, ''), pt.SoQLPT) AS 'PhuongTien.MaDinhDanh',
                         pt.LoaiPhuongTien AS 'PhuongTien.LoaiPhuongTienDuongSat.MaMuc',
                         pt.SoQLPT AS 'PhuongTien.SoHieu',
                         pt.SoDangKy AS 'PhuongTien.GiayDangKyPhuongTienDuongSat',
@@ -59,6 +59,7 @@ public class GiayDangKiemPhuongTienDuongSatRepository {
                         NULL AS 'PhuongTien.DonViCongSuat'
                     FROM dbo.DS_GCNToaXe gdk
                     INNER JOIN dbo.DS_PTToaXe pt ON pt.SoQLPT = gdk.SoQLPT
+                    LEFT JOIN dbo.DS_SaiLenhMaDinhDanh slm ON slm.SoQLPT = pt.SoQLPT
 
                     UNION ALL
 
@@ -74,7 +75,7 @@ public class GiayDangKiemPhuongTienDuongSatRepository {
                         gdk.SoBBKT AS BaoCaoKiemTra,
                         gdk.NgayKT AS NgayBaoCao,
                         gdk.TrangThaiGCN AS 'TinhTrangHieuLucGiayTo.MaMuc',
-                        pt.SoQLPT AS 'PhuongTien.MaDinhDanh',
+                        COALESCE(NULLIF(slm.MaDinhDanh, ''), pt.SoQLPT) AS 'PhuongTien.MaDinhDanh',
                         pt.LoaiPhuongTien AS 'PhuongTien.LoaiPhuongTienDuongSat.MaMuc',
                         pt.SoQLPT AS 'PhuongTien.SoHieu',
                         pt.SoDangKy AS 'PhuongTien.GiayDangKyPhuongTienDuongSat',
@@ -102,6 +103,7 @@ public class GiayDangKiemPhuongTienDuongSatRepository {
                         NULL AS 'PhuongTien.DonViCongSuat'
                     FROM dbo.DS_GCNToaXeDT gdk
                     INNER JOIN dbo.DS_PTToaXeDT pt ON pt.SoQLPT = gdk.SoQLPT
+                    LEFT JOIN dbo.DS_SaiLenhMaDinhDanh slm ON slm.SoQLPT = pt.SoQLPT
 
                     UNION ALL
 
@@ -117,7 +119,7 @@ public class GiayDangKiemPhuongTienDuongSatRepository {
                         gdk.SoBBKT AS BaoCaoKiemTra,
                         gdk.NgayKT AS NgayBaoCao,
                         gdk.TrangThaiGCN AS 'TinhTrangHieuLucGiayTo.MaMuc',
-                        pt.SoQLPT AS 'PhuongTien.MaDinhDanh',
+                        COALESCE(NULLIF(slm.MaDinhDanh, ''), pt.SoQLPT) AS 'PhuongTien.MaDinhDanh',
                         pt.LoaiPhuongTien AS 'PhuongTien.LoaiPhuongTienDuongSat.MaMuc',
                         pt.SoQLPT AS 'PhuongTien.SoHieu',
                         pt.SoDangKy AS 'PhuongTien.GiayDangKyPhuongTienDuongSat',
@@ -145,6 +147,7 @@ public class GiayDangKiemPhuongTienDuongSatRepository {
                         pt.DonViCS AS 'PhuongTien.DonViCongSuat'
                     FROM dbo.DS_GCNDauMay gdk
                     INNER JOIN dbo.DS_PTDauMay pt ON pt.SoQLPT = gdk.SoQLPT
+                    LEFT JOIN dbo.DS_SaiLenhMaDinhDanh slm ON slm.SoQLPT = pt.SoQLPT
                 ) data
                 WHERE (? = '' OR data.__CHECKPOINT_ID > ?)
                 ORDER BY data.__CHECKPOINT_ID

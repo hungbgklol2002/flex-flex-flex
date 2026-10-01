@@ -6720,4 +6720,31 @@
     "ChiaSeTaiKhoan": [],
     "ChiaSeVaiTro": []
   }
+},
+{
+  "_id": {
+    "$oid": "691d6a60b9130000200111aa"
+  },
+  "MaMuc": "YU",
+  "TenMuc": "Yugoslavia",
+  "Metadata": {
+    "ThoiGianTao": {
+      "$numberLong": "1769754866807"
+    },
+    "ThoiGianCapNhat": {
+      "$numberLong": "1769754866807"
+    },
+    "NguoiTaoLap": "BXD-ADMIN",
+    "ChuSoHuu": "BXD-ADMIN",
+    "TrangThaiDuLieu": "Active",
+    "PhienBanDuLieu": "1",
+    "XuLyDuLieu": "",
+    "QRCode": "",
+    "PhanVungDuLieu": {
+      "MaMuc": "",
+      "TenMuc": ""
+    },
+    "ChiaSeTaiKhoan": [],
+    "ChiaSeVaiTro": []
+  }
 }]

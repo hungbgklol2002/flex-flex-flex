@@ -97,7 +97,7 @@ public class GiayDangKiemXeCoGioiSyncService {
 
             Map<String, Object> dacTaBanTin = new HashMap<>();
             String maBanTin = "DKLH-" + LocalDateTime.now()
-                    .format(DateTimeFormatter.ofPattern("yyyyMMddHHmmss"));
+                    .format(DateTimeFormatter.ofPattern("yyyyMMddHHmmssSSS"));
             dacTaBanTin.put("MaBanTin", maBanTin);
             dacTaBanTin.put("NoiTaoBanTin", "G17.46");
 

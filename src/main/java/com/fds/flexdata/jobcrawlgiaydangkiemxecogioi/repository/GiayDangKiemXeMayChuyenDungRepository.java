@@ -66,7 +66,7 @@ public class GiayDangKiemXeMayChuyenDungRepository {
                 FROM dbo.XMCD_GiayCN gcn
                 INNER JOIN dbo.XMCD_PhuongTien pt
                   ON pt.ID_PT = gcn.ID_PT
-                LEFT JOIN dbo.DM_DonViDK dv
+                LEFT JOIN dbo.DM_DonViXMCD dv
                   ON gcn.DonViDK = dv.MaDV
                 WHERE (? = '' OR gcn.ID_GCN > ?)
                 ORDER BY gcn.ID_GCN ASC

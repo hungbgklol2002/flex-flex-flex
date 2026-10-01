@@ -3,14 +3,17 @@ package com.fds.flexdata.jobcrawlgiaydangkiemxecogioi.repository;
 import org.springframework.jdbc.core.JdbcTemplate;
 import org.springframework.stereotype.Repository;
 
-import java.sql.Timestamp;
 import java.time.LocalDate;
 import java.time.LocalDateTime;
+import java.time.format.DateTimeFormatter;
 import java.util.List;
 import java.util.Map;
 
 @Repository
 public class GiayDangKiemXeCoGioiRepository {
+
+    private static final DateTimeFormatter CHECKPOINT_TIME_FORMATTER =
+            DateTimeFormatter.ofPattern("yyyy-MM-dd'T'HH:mm:ss.SSSSSSS");
 
     private final JdbcTemplate jdbcTemplate;
 
@@ -74,9 +77,9 @@ public class GiayDangKiemXeCoGioiRepository {
                                   				LEFT JOIN dbo.DM_DonViDK dv
                                   				ON gcn.DonViKD = dv.MaDV
                                           WHERE
-                                              gcn.CreatedTime > ?
+                                              gcn.CreatedTime > CONVERT(datetime2(7), ?, 126)
                                               OR (
-                                                  gcn.CreatedTime = ?
+                                                  gcn.CreatedTime = CONVERT(datetime2(7), ?, 126)
                                                   AND gcn.ID_GCN > ?
                                               )
                                           ORDER BY
@@ -84,13 +87,14 @@ public class GiayDangKiemXeCoGioiRepository {
                                               gcn.ID_GCN ASC
         """;
 
-        Timestamp lastTimestamp = Timestamp.valueOf(lastTime);
+        
+        String lastTimeValue = CHECKPOINT_TIME_FORMATTER.format(lastTime);
 
         return jdbcTemplate.queryForList(
                 sql,
                 size,
-                lastTimestamp,
-                lastTimestamp,
+                lastTimeValue,
+                lastTimeValue,
                 lastId == null ? "" : lastId
         );
     }
